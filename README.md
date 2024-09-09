@@ -1,18 +1,46 @@
-# michael-paarlberg
-Website for Michael Paarlberg.
+# Michael Paarlberg
 
-Michael Paarlberg call on 2024-09-09
+## Theme and Design
 
-- wants to learn to do it himself
-- youtube videos
-- how much to update
-- wants to go to his domain, michaelpaarlberg.org, GoDaddy
-- change the colors, NOT the same as georgetown
-- https://mavroud.is/ 
-- professional look, do some more consulting and future website
-- send photos/flyers
-- tenured now
-- news appearances
-- bio at the top, then media appearances and videos, publications next, teaching near the bottom, contact you about speaking and consulting gigs
-- twitter/x, linkedin, bluesky, muckrack-X, faculty page, fellow at the institute of policy studies, university email address is fine (no button), google scholar
-- he appreciates the service!
+Use the following theme: https://mavroud.is/. 
+
+### Michael wants the following sections on the page, these are the titles: 
+
+1. about michael (short bio)
+2. media appearances (includes links to news articles and some YouTube videos)
+3. publications
+4. teaching
+5. consulting
+
+Use the information from his current website to fill in this information for now: https://sites.google.com/a/georgetown.edu/michael-a-paarlberg/research?authuser=0. 
+
+### Profile in Sidebar:
+
+Michael A. Paarlberg, Ph.D.
+Associate Professor of Political Science
+Virginia Commonwealth University
+Associate Fellow
+Institute for Policy Studies
+www.michaelpaarlberg.org
+
+### Social media links and online links (in right side bar) under profile.
+
+- Twitter/X @MPaarlberg
+- LinkedIn [find]
+- Bluesky [find]
+- link to faculty page [find]
+- link to page at Institute of Policy Studies [find]
+- university email address [mapaarlberg@vcu.edu]
+
+### Color and Font
+
+- Michael does not want to use Georgetown University colors and he does not want to use the yellow from his current website
+- We should come up with suggestions for design, feel free to try something interesting and we can suggest it! He wants something professional. This includes fonts. Let's try an interesting combination of fonts, text color, and background color!
+
+## Domain
+
+Michael already owns michaelpaarlberg.org through GoDaddy.
+
+## Hand-off
+
+Michael says that he wants to learn how to update the website himself. He is already familiar with Markdown so I think we can teach him how to do it once it's live. 
