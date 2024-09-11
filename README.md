@@ -2,7 +2,7 @@
 
 ## Theme and Design
 
-[Theme not decided, previous theme is off-limits.]
+Use this theme: https://github.com/LeNPaul/academic. 
 
 ### Michael wants the following sections on the page, these are the titles: 
 
