@@ -2,7 +2,7 @@
 
 ## Theme and Design
 
-Use the following theme: https://mavroud.is/. 
+[Theme not decided, previous theme is off-limits.]
 
 ### Michael wants the following sections on the page, these are the titles: 
 
