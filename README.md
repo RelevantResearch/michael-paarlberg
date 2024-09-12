@@ -14,16 +14,16 @@ Use this theme: https://github.com/LeNPaul/academic.
 
 Use the information from his current website to fill in this information for now: https://sites.google.com/a/georgetown.edu/michael-a-paarlberg/research?authuser=0. 
 
-### Profile in Sidebar:
+### Put on Contact Page
 
-Michael A. Paarlberg, Ph.D.
-Associate Professor of Political Science
-Virginia Commonwealth University
-Associate Fellow
-Institute for Policy Studies
-www.michaelpaarlberg.org
+Michael A. Paarlberg, Ph.D. <br>
+Associate Professor of Political Science<br>
+Virginia Commonwealth University<br>
+Associate Fellow<br>
+Institute for Policy Studies<br>
+www.michaelpaarlberg.org <br>
 
-### Social media links and online links (in right side bar) under profile.
+### Social media links in footer of theme.
 
 - Twitter/X @MPaarlberg
 - LinkedIn [find]
@@ -44,8 +44,6 @@ Michael already owns michaelpaarlberg.org through GoDaddy.
 ## Hand-off
 
 Michael says that he wants to learn how to update the website himself. He is already familiar with Markdown so I think we can teach him how to do it once it's live. 
-
-
 
 # About academic the theme
 
