@@ -1,0 +1,50 @@
+<div class="row g-5 mb-5">
+  <div class="col-md-6">
+    <img
+      class="pb-5"
+      src="{{ site.github.url }}/assets/img/media1.jpg"
+      alt="Home"
+      width="100%"
+    />
+    <img
+      src="{{ site.github.url }}/assets/img/media2.png"
+      alt="Home"
+      width="100%"
+    />
+  </div>
+
+  <div class="col-md-6">
+    <h5 class="fw-bold border-bottom pb-2 mb-2">Media Appearances:</h5>
+    <ul>
+      {% for appearance in site.data.research.media %}
+      <li>
+        <ul>
+          {% if appearance.link %} {% for link in appearance.link %}
+          <a href="{{ link }}" target="_blank">{{ appearance.name }}</a>
+          {% endfor %} {% else %}
+          <li>No links available</li>
+          {% endif %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  
+  <div>
+    <h5 class="fw-bold border-bottom pb-2 mt-4 mb-2">More Media:</h5>
+    <ul>
+      {% for media in site.data.research.more_media %}
+      <li>
+        <strong>{{ media.name }}</strong>
+        <ul>
+          {% if media.link %} {% for link in media.link %}
+          <li><a href="{{ link }}" target="_blank">{{ link }}</a></li>
+          {% endfor %} {% else %}
+          <li>No links available</li>
+          {% endif %}
+        </ul>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

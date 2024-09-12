@@ -1,14 +1,39 @@
 <div class="row g-5 mb-5">
   <div>
-    <h3 class="fw-bold border-bottom pb-3 mb-5">Publications</h3>
-    {% if page.title == "Home" %}
-      {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Academic Publications</h3>
+    <ul>
+      {% for item in site.data.publications.academic_publications %}
+        <li>
+          <p>
+            {% if item.link %}
+              <a href="{{ item.link }}" target="_blank"><strong>{{ item.title }}</strong></a>
+            {% else %}
+              <strong>{{ item.title }}</strong>
+            {% endif %}
+            , {{ item.journal }} ({{ item.date }})
+          </p>
+        </li>
       {% endfor %}
-    {% else %}
-      {% for item in site.data.publications.index %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+    </ul>
+    
+    <h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Policy Publications</h3>
+    <ul>
+      {% for item in site.data.publications.policy_publications %}
+        <li>
+          <p>
+            {% if item.link %}
+              <a href="{{ item.link }}" target="_blank"><strong>{{ item.title }}</strong></a>
+            {% else %}
+              <strong>{{ item.title }}</strong>
+            {% endif %}
+            (Co-authored with {{ item.co_author }}), {{ item.publisher }} ({{ item.date }})
+          </p>
+          {% if item.coverage_title %}
+            <p><em>{{ item.coverage_title }}</em></p>
+            <p><a href="{{ item.coverage_link }}" target="_blank">Read coverage</a></p>
+          {% endif %}
+        </li>
       {% endfor %}
-    {% endif %}
+    </ul>
   </div>
 </div>
