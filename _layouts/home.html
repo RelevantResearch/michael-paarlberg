@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="row g-5 mb-5">
   <div class="col-md-6">
     <p>
@@ -31,11 +30,11 @@ layout: default
   </div>
 </div>
 
-<div class="row g-4 mb-5 p-3">
+<div class="row g-4 mb-5">
   <div class="col-md-12">
     <h5 class="fw-bold border-bottom pb-2 mb-2">Read more about research on immigration and diaspora politics in: </h5>
     <ul>
-      {% for article in site.data.research.immigration %}
+      {% for article in site.data.home.immigration %}
         <li>
           <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
         </li>
@@ -46,7 +45,7 @@ layout: default
   <div class="col-md-12">
     <h5 class="fw-bold border-bottom pb-2 mb-2">Read more about my research on gangs and citizen security in: </h5>
     <ul>
-      {% for article in site.data.research.gangandcitizen %}
+      {% for article in site.data.home.gangandcitizen %}
         <li>
           <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
         </li>
@@ -57,7 +56,7 @@ layout: default
   <div class="col-md-12">
     <h5 class="fw-bold border-bottom pb-2 mb-2">My Profiles: </h5>
     <ul>
-      {% for article in site.data.research.profiles %}
+      {% for article in site.data.home.profiles %}
         <li>
           <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
         </li>
@@ -65,11 +64,11 @@ layout: default
     </ul>
   </div>
 
-  <div class="row g-4 mb-5 p-3">
+  <div class="row g-4 mb-5">
     <div class="col-md-12">
       <h5 class="fw-bold border-bottom pb-2 mb-2">Recent op-eds: </h5>
       <ul>
-        {% for article in site.data.research.recent %}
+        {% for article in site.data.home.recent %}
           <li>
             <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
           </li>

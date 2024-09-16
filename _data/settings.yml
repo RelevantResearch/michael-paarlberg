@@ -1,6 +1,8 @@
 menu:
-- {name: 'teaching', url: '/teaching'}
-- {name: 'publications', url: '/publications'}
-- {name: 'research', url: '/research'}
-- {name: 'cv', url: '/cv'}
-- {name: 'journalism', url: '/journalism'}
+- { name: 'About', url:'/'}
+- {name: 'Media', url: '/journalism'}
+
+- {name: 'Teaching', url: '/teaching'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'Research', url: '/research'}
+- {name: 'Cv', url: '/cv'}
