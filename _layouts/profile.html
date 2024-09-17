@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<div class="container mt-5">
+  <div class="row">
+    <!-- Profile Card Section -->
+    <div class="col-lg-6 col-md-12 mb-4">
+      <div class="card text-center">
+        <!-- Profile Picture -->
+        <div class="card-body">
+          <img
+            src= "{{ site.data.profile.profile_pic}}"
+            alt="Profile Picture"
+            class="rounded-circle mb-4"
+            style="width: 150px; height: 150px; object-fit: cover;"
+          />
+          <!-- Profile Information -->
+          <h4 class="card-title">{{ site.data.profile.name }}</h4>
+          <h5 class="card-subtitle mb-2 text-muted">{{ site.data.about.title }}</h5>
+          <p class="card-text">
+            {{ site.data.profile.university }} <br />
+            {{ site.data.profile.additional_title }}, {{ site.data.profile.institute }}
+          </p>
+          <p><a href="http://{{ site.data.profile.website }}" target="_blank">{{ site.data.profile.website }}</a></p>
+          
+          <!-- Social Media Links -->
+          <div class="social-media-icons mt-3">
+            {% for item in site.data.profile.social_media %}
+              <a href="{{ item.url }}" target="_blank">
+                <img src="{{ item.icon }}" alt="{{ item.name }}" width="30" height="30" class="me-3">
+              </a>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- CV Iframe Section -->
+    <div class="col-lg-6 col-md-12">
+      <h5 class="fw-bold border-bottom pb-2 mb-4">Curriculum Vitae:</h5>
+      <iframe
+        src="{{ site.data.profile.cv[0].url }}"
+        style="width: 100%; height: 500px; border: 1px solid #ddd;"
+      ></iframe>
+    </div>
+  </div>
+</div>
