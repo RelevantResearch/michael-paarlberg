@@ -1,10 +1,57 @@
-featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+academic_publications:
+  - title: "Transnational Gangs and Criminal Remittances: A Conceptual Framework"
+    journal: "Comparative Migration Studies"
+    date: "June 2022"
 
-index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+  - title: "Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context"
+    journal: "Alkazemi, Mariam, and C. E. Youakim, eds. Arab Worlds Beyond the Middle East and North Africa. Lexington"
+    date: "2021"
+
+  - title: "Hometown Associations and Parties as Vehicles for Mexican Electoral Campaigns in the US"
+    journal: "Representation"
+    date: "December 2020"
+
+  - title: "Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties"
+    journal: "Kernalegenn, Tudi, and Emilie van Haute, eds. Political Parties Abroad: A New Arena for Party Politics. Routledge"
+    date: "2020"
+
+  - title: "Competing for the Diaspora's Influence at Home: A Case Study of El Salvador"
+    journal: "Journal of Ethnic and Migration Studies Vol. 45 No. 4"
+    date: "March 2019"
+
+  - title: "Cómo se corteja el voto de la diáspora salvadoreña"
+    journal: "Lea extracto en El Faro"
+    date: "May 29, 2018"
+    link: "https://www.google.com/url?q=https%3A%2F%2Felfaro.net%2Fes%2F201805%2Fef_academico%2F21940%2FC%25C3%25B3mo-se-corteja-el-voto-de-la-di%25C3%25A1spora-salvadore%25C3%25B1a.htm&sa=D&sntz=1&usg=AOvVaw19WoCfJ2BGLchBARSnLszJ"
+
+  - title: "Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America"
+    journal: "Comparative Politics Vol. 49 No. 4"
+    date: "July 2017"
+
+  - title: "Immigrants and Day Laborers"
+    journal: "Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration"
+    date: "2016"
+    link: "https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5"
+
+policy_publications:
+  - title: "The Human Trafficking of Domestic Workers in the United States"
+    co_author: "Sameera Hafiz"
+    publisher: "Institute for Policy Studies and the National Domestic Workers Alliance"
+    date: "2017"
+    link: https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0
+
+  - title: "Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C."
+    co_author: "Ari Schwartz, Michael Wasser, and Merrit Gillard"
+    publisher: "D.C. Jobs with Justice and the D.C. Fiscal Policy Institute"
+    date: "2015"
+    link: http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW
+    coverage_title: "See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015"
+    coverage_link: http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz
+
+  - title: "Making Contracting Work for the United States: report on labor standards among federal contractors"
+    co_author: "David Madland"
+    publisher: "Center for American Progress"
+    date: "2008"
+    link: https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R
+    coverage_title: "See coverage in The Washington Post: Joe Davidson's Federal Diary, Dec. 10, 2008"
+    coverage_link: http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh

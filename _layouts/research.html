@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+  <div class="row g-5 mb-5">
+    <div class="col-md-6">
+      <img
+        src="{{ site.github.url }}/assets/img/EmbeddedImage-3.jpg"
+        alt="Home"
+        width="100%"
+      />
+    </div>
+    <div class="col-md-6">
+      <p>
+        As more countries extend voting rights to citizens residing abroad,
+        diaspora communities play a growing role in home country politics. Within
+        the last 30 years, voting rights for citizens residing abroad have been
+        adopted by the majority of countries in the world, yet voting rates among
+        diaspora communities are almost universally low. Transnational campaigning
+        shows parties from around the world seek support from citizens residing
+        abroad despite the fact that they usually do not, and sometimes cannot
+        legally vote, and parties are sometimes legally restricted from campaigning
+        abroad. Yet parties’ diaspora outreach efforts are not uniform. This study
+        finds that the intensity and type of engagement by which parties court
+        migrants vary widely, and are largely shaped by a factor I call Diaspora
+        Skew, the legacy of negative partisanship by diaspora communities against
+        the party in power during the initial period of large-scale migration.
+        Using original data on party travel documents, surveys of both migrants
+        and home country voters, and interviews with politicians, party officials,
+        and campaign strategists, I examine diaspora campaigning by parties in the
+        top three migrant-sending countries to the U.S. relative to population:
+        Mexico, El Salvador, and the Dominican Republic. My findings show that
+        party investment in building overseas infrastructure, and engaging in
+        grassroots mobilization, depends on this legacy of diaspora skew, as
+        diasporas’ political profiles can become frozen in time and diverge from
+        the home country electorate. I also find that politicians seek the support
+        of migrants not primarily for their votes, but for the influence they
+        believe migrants have over family members in their home countries. As one
+        Salvadoran party activist states, “If we get the support of one Salvadoran
+        in the U.S., that gives us five votes in El Salvador.” My statistical
+        models on political behavior of migrants’ relatives, however, finds this
+        perception to be exaggerated.
+      </p>
+    </div>
+  </div>
+
+  <h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Research</h3>
+  <div class="row g-5 mb-5">
+    <div class="col-md-12">
+      <ul>
+        {% for item in site.data.research.research %}
+          <li>
+            <p><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Media Coverage</h3>
+  <div class="row g-5 mb-5">
+    <div class="col-md-12">
+      <ul>
+        {% for item in site.data.research.mediacoverage %}
+          <li>
+            <p><a href="{{ item.link }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <h3 class="fw-bold border-bottom pb-3 mb-5 mt-5">Working Papers</h3>
+  <div class="row g-5 mb-5">
+    <div class="col-md-12">
+      <ul>
+        {% for item in site.data.research.workingpapers %}
+          <li>
+            <p>{{ item.name }}</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
