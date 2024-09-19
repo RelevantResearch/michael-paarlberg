@@ -15,34 +15,94 @@
 
   <body>
     <div class="col-lg-8 mx-auto p-3 py-md-5">
-      <header class="d-flex flex-column flex-md-row align-items-start pb-3 mb-5 border-bottom">
+      <header
+  class="d-flex flex-row flex-md-row align-items-start pb-3 mb-5 border-bottom"
+>
   <!-- Content Column: Title, Description, and University -->
-  <div class="content-column d-flex flex-column mb-3 mb-md-0 me-md-3">
-    <a href="/" class="d-flex align-items-center text-decoration-none mb-2">
-      <span class="fs-4 fw-bold">Michael A. Paarlberg</span>
-    </a>
-    <a href="/" class="d-flex align-items-center text-decoration-none mb-2">
+  <div class="name">
+    <div class="content-column d-flex flex-column mb-3 mb-md-0 me-md-3">
+      <a
+        href="/home"
+        class="d-flex flex-column align-items-start text-decoration-none"
+      >
+        <span class="fs-4 fw-bold">Michael A. Paarlberg</span>
+      </a>
       <span>Assistant Professor of Political Science</span>
-    </a>
-    <a href="/" class="d-flex align-items-center text-decoration-none">
       <span>Virginia Commonwealth University</span>
-    </a>
+    </div>
   </div>
-  
-  <!-- Navigation Bar -->
-  <nav class="nav-bar d-flex flex-nowrap align-items-start">
+
+  <!-- Hamburger Menu (Checkbox) for small screens -->
+  <input type="checkbox" id="menu-toggle" />
+  <label for="menu-toggle" class="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </label>
+
+  <!-- Side Navigation Menu -->
+  <nav class="side-menu">
+    <button
+      class="close-btn"
+      onclick="document.getElementById('menu-toggle').checked = false;"
+    >
+      &times;
+    </button>
+    <ul>
+      
+      <li><a href="/home">About</a></li>
+      
+      <li><a href="/journalism">Media</a></li>
+      
+      <li><a href="/teaching">Teaching</a></li>
+      
+      <li><a href="/publications">Publications</a></li>
+      
+      <li><a href="/research">Research</a></li>
+      
+      <li><a href="/profile">Profile</a></li>
+      
+    </ul>
+  </nav>
+
+  <!-- Standard Nav Bar for larger screens -->
+  <nav class="nav-bar d-none d-md-flex">
     
-      <a class="me-3 py-2 text-decoration-none" href="/">About</a>
+    <a
+      href="/home"
+      class="me-3 py-2 text-decoration-none"
+      >About</a
+    >
     
-      <a class="me-3 py-2 text-decoration-none" href="/journalism">Media</a>
+    <a
+      href="/journalism"
+      class="me-3 py-2 text-decoration-none"
+      >Media</a
+    >
     
-      <a class="me-3 py-2 text-decoration-none" href="/teaching">Teaching</a>
+    <a
+      href="/teaching"
+      class="me-3 py-2 text-decoration-none"
+      >Teaching</a
+    >
     
-      <a class="me-3 py-2 text-decoration-none" href="/publications">Publications</a>
+    <a
+      href="/publications"
+      class="me-3 py-2 text-decoration-none"
+      >Publications</a
+    >
     
-      <a class="me-3 py-2 text-decoration-none" href="/research">Research</a>
+    <a
+      href="/research"
+      class="me-3 py-2 text-decoration-none"
+      >Research</a
+    >
     
-      <a class="me-3 py-2 text-decoration-none" href="/profile">Profile</a>
+    <a
+      href="/profile"
+      class="me-3 py-2 text-decoration-none"
+      >Profile</a
+    >
     
   </nav>
 </header>
@@ -112,6 +172,15 @@
   </div>
 </footer>
 
+      <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '');
+</script>
     </div>
   </body>
 </html>
