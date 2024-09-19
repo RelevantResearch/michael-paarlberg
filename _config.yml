@@ -6,3 +6,9 @@ university: "Virginia Commonwealth University"
 
 logging:
   level: debug
+
+collections:
+  pages:
+    output: true
+
+google_analytics: 

@@ -2,64 +2,240 @@
 body {
   background: #ffffff;
   color: #000000;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 body a {
-  color: #212529 !important;
+  color: #212529; /* Default link color */
   text-decoration: none; /* Remove underline from links */
+  font-weight: bold; /* Make links bold */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
 }
 
+body a:hover {
+  color: #007bff; /* Change color to blue on hover */
+}
+
+/* Header */
 header {
   display: flex;
-  flex-direction: column; /* Stack content vertically on small screens */
-  align-items: flex-start; /* Align items to the start for column layout */
-  gap: 1rem; /* Space between columns */
+  flex-direction: row; /* Stack content horizontally on all screens */
+  align-items: center; /* Align items vertically center in a row layout */
+  justify-content: space-between; /* Space between content column and hamburger */
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
   border-bottom: 1px solid #ddd; /* Border color */
 }
 
+/* Content Column */
 .content-column {
-  margin-bottom: 0;
+  margin-right: 2rem; /* Add right margin for spacing between content and hamburger */
 }
 
-.nav-bar {
-  display: flex;
-  flex-wrap: nowrap; /* Ensure nav items stay in a single line */
-  gap: 1rem; /* Space between nav items */
-  align-items: flex-start; /* Align nav items to the start on small screens */
+/* Hamburger styles */
+.hamburger {
+  display: none; /* Hidden by default */
+  position: relative;
+  z-index: 100;
+  width: 30px;
+  height: 25px;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  span {
+    display: block;
+    width: 100%;
+    height: 4px;
+    background-color: #000;
+    transition: 0.4s;
+  }
 }
+
+/* Side Menu */
+.side-menu {
+  position: fixed;
+  top: 0;
+  left: -250px; /* Hide off-screen initially */
+  width: 250px;
+  height: 100%;
+  background-color: #ffffff; /* White background */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle shadow for depth */
+  padding: 20px;
+  transition: left 0.4s ease;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.side-menu ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.side-menu li {
+  margin: 20px 0;
+}
+
+.side-menu a {
+  color: #000; /* Black text */
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.side-menu a:hover {
+  color: #ffa500; /* Orange on hover */
+}
+
+/* Close Button */
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #000;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+}
+
+.close-btn:hover {
+  color: #ffa500; /* Orange on hover */
+}
+
+/* Toggle Checkbox */
+input[type="checkbox"] {
+  display: none;
+}
+
+/* Show side-menu when checked */
+input[type="checkbox"]:checked ~ .side-menu {
+  left: 0;
+}
+
+/* Hide the hamburger when side-menu is open */
+input[type="checkbox"]:checked + label.hamburger {
+  display: none;
+}
+
+/* Animate hamburger to X when checked */
+input[type="checkbox"]:checked + label .hamburger span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+input[type="checkbox"]:checked + label .hamburger span:nth-child(2) {
+  opacity: 0;
+}
+
+input[type="checkbox"]:checked + label .hamburger span:nth-child(3) {
+  transform: rotate(-45deg) translate(5px, -5px);
+}
+
+// Button Link
+.button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+    margin-bottom: 1rem;
+
+    &:hover {
+      background-color: #0056b3;
+    }
+  }
+
+// Image
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+// Video Container
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; // 16:9 ratio
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  margin: 1rem auto; // Center and add some margin
+
+  // Restrict the max width of the video container
+  max-width: 80%; // Adjust this percentage to make the container smaller
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+}
+
 
 /* Medium screens and up (≥768px) */
 @media (min-width: 768px) {
-  header {
-    flex-direction: row; /* Stack content horizontally on larger screens */
-    justify-content: space-between; /* Space between flex items */
-    align-items: center; /* Center align items in row layout */
+  .hamburger {
+    display: none; /* Hide hamburger menu on larger screens */
   }
 
-  .content-column {
-    margin-bottom: 0;
-    margin-right: 2rem; /* Add right margin for spacing between content and nav */
-  }
-
-  .nav-bar {
-    flex-direction: row; /* Ensure nav items stay in a row */
-    align-items: center; /* Center align nav items vertically on larger screens */
+  .side-menu {
+    display: none; /* Hide side-menu on larger screens */
   }
 }
 
 /* Small screens (≤767px) */
 @media (max-width: 767px) {
   header {
-    flex-direction: column; /* Stack content vertically on small screens */
-    align-items: flex-start; /* Align items to the start */
-    gap: 1rem; /* Space between content and nav bar */
+    flex-direction: row; /* Ensure header items are in a row */
   }
 
   .nav-bar {
-    flex-direction: column; /* Stack nav items vertically */
-    gap: 0.5rem; /* Space between nav items */
-    width: 100%; /* Make nav full width for better alignment */
-    align-items: flex-start; /* Align nav items to the start */
+    display: none; /* Hide default nav-bar */
   }
+
+  .hamburger {
+    display: flex; /* Show hamburger menu */
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
+
+/* Remove styling for <a> tags within .name class */
+.name a {
+  color: inherit; /* Inherit color from parent */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.name a:hover,
+.name a:focus {
+  color: inherit; /* Ensure no color change on hover or focus */
+  text-decoration: none; /* Ensure no underline on hover or focus */
+}
+
+/* Style for Markdown headers (##) */
+.content h2 {
+  position: relative;
+  margin: 20px 0; /* Space above and below the header */
+  padding-bottom: 10px; /* Space below the header */
+}
+
+.content h2::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 2px; /* Thickness of the underline */
+  background-color: #ddd; /* Color of the underline */
+  position: absolute;
+  bottom: 0;
+  left: 0;
 }

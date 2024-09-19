@@ -1,21 +1,51 @@
-<header class="d-flex flex-column flex-md-row align-items-start pb-3 mb-5 border-bottom">
+<header
+  class="d-flex flex-row flex-md-row align-items-start pb-3 mb-5 border-bottom"
+>
   <!-- Content Column: Title, Description, and University -->
-  <div class="content-column d-flex flex-column mb-3 mb-md-0 me-md-3">
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none mb-2">
-      <span class="fs-4 fw-bold">{{ site.title }}</span>
-    </a>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none mb-2">
+  <div class="name">
+    <div class="content-column d-flex flex-column mb-3 mb-md-0 me-md-3">
+      <a
+        href="{{ site.github.url }}/home"
+        class="d-flex flex-column align-items-start text-decoration-none"
+      >
+        <span class="fs-4 fw-bold">{{ site.title }}</span>
+      </a>
       <span>{{ site.description }}</span>
-    </a>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
       <span>{{ site.university }}</span>
-    </a>
+    </div>
   </div>
-  
-  <!-- Navigation Bar -->
-  <nav class="nav-bar d-flex flex-nowrap align-items-start">
+
+  <!-- Hamburger Menu (Checkbox) for small screens -->
+  <input type="checkbox" id="menu-toggle" />
+  <label for="menu-toggle" class="hamburger">
+    <span></span>
+    <span></span>
+    <span></span>
+  </label>
+
+  <!-- Side Navigation Menu -->
+  <nav class="side-menu">
+    <button
+      class="close-btn"
+      onclick="document.getElementById('menu-toggle').checked = false;"
+    >
+      &times;
+    </button>
+    <ul>
+      {% for item in site.data.settings.menu %}
+      <li><a href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <!-- Standard Nav Bar for larger screens -->
+  <nav class="nav-bar d-none d-md-flex">
     {% for item in site.data.settings.menu %}
-      <a class="me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
+    <a
+      href="{{ site.github.url }}{{ item.url }}"
+      class="me-3 py-2 text-decoration-none"
+      >{{ item.name }}</a
+    >
     {% endfor %}
   </nav>
 </header>
