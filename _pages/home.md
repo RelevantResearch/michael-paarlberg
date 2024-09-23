@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-permalink: /home/
+permalink: /
 ---
 
 <div class="row g-5 mb-5">
