@@ -42,4 +42,9 @@ permalink: /
       {% endfor %}
     </div>
   </div>
+  {% include section-media.html %}
+  {% include section-publications.html %}
+
 </div>
+
+
