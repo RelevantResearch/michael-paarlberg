@@ -1,3 +1,4 @@
+
 // Function to create previews for all links
 function createPreviewForAllLinks() {
   const $anchorTags = $("a"); // Select all anchor tags in the document
@@ -16,6 +17,27 @@ function createPreviewForAllLinks() {
     $.get(apiUrl)
       .done(function(data) {
         // Create preview card
+
+function createPreviewForAllLinks() {
+  const anchorTags = document.querySelectorAll("a"); // Select all anchor tags in the document
+
+  anchorTags.forEach((anchor) => {
+    const linkUrl = anchor.href; // Get the URL from the href attribute of the anchor tag
+
+    const apiUrl = `https://api.microlink.io/?url=${encodeURIComponent(linkUrl)}`;
+
+    fetch(apiUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
+      .then((data) => {
+        // Log all the data received
+        console.log("Data received for:", linkUrl, data);
+
+
         const preview = `
           <a href="${linkUrl}" target="_blank" style="text-decoration: none; color: inherit;">
               <div class="card mb-3" style="max-width: 540px;">
@@ -31,6 +53,7 @@ function createPreviewForAllLinks() {
         `;
 
         // Insert the preview after the anchor tag
+
         const $previewContainer = $(preview);
         $anchor.after($previewContainer);
 
@@ -45,3 +68,5 @@ function createPreviewForAllLinks() {
 
 // Call the function to create previews when the document is fully loaded
 $(document).ready(createPreviewForAllLinks);
+
+        
