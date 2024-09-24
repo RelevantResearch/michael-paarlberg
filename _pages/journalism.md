@@ -2,6 +2,7 @@
 layout: default
 title: Journalism
 permalink: /journalism/
+content_render: true
 ---
 
 # Research Topics
@@ -142,6 +143,4 @@ permalink: /journalism/
 - [The Obamacare Ratchet Effect](https://www.jacobinmag.com/2017/10/obamacare-repeal-republican-party-medicare)
 - [Epstein on Bangladesh: 'Blame the Workers'](https://www.jacobinmag.com/2013/05/epstein-on-bangladesh-blame-the-workers/)
 
-<!-- here is the script never delete it  -->
 
-<script src="{{ '/assets/js/contentrender.js' | relative_url }}"></script>
