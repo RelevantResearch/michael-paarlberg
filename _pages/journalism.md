@@ -142,5 +142,3 @@ content_render: true
 
 - [The Obamacare Ratchet Effect](https://www.jacobinmag.com/2017/10/obamacare-repeal-republican-party-medicare)
 - [Epstein on Bangladesh: 'Blame the Workers'](https://www.jacobinmag.com/2013/05/epstein-on-bangladesh-blame-the-workers/)
-
-

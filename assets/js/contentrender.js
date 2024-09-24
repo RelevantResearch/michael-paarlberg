@@ -1,22 +1,21 @@
+// Function to create previews for all links
 function createPreviewForAllLinks() {
-  const anchorTags = document.querySelectorAll("a"); // Select all anchor tags in the document
+  const $anchorTags = $("a"); // Select all anchor tags in the document
 
-  anchorTags.forEach((anchor) => {
-    const linkUrl = anchor.href; // Get the URL from the href attribute of the anchor tag
+  $anchorTags.each(function() {
+    const $anchor = $(this); // The current anchor element
+    const linkUrl = $anchor.attr("href"); // Get the URL from the href attribute of the anchor tag
+
+    // Check if the link has already been processed by looking for the data-preview attribute
+    if ($anchor.data("preview")) {
+      return; // Skip the link if it has already been processed
+    }
 
     const apiUrl = `https://api.microlink.io/?url=${encodeURIComponent(linkUrl)}`;
 
-    fetch(apiUrl)
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then((data) => {
-        // Log all the data received
-        console.log("Data received for:", linkUrl, data);
-
+    $.get(apiUrl)
+      .done(function(data) {
+        // Create preview card
         const preview = `
           <a href="${linkUrl}" target="_blank" style="text-decoration: none; color: inherit;">
               <div class="card mb-3" style="max-width: 540px;">
@@ -32,13 +31,17 @@ function createPreviewForAllLinks() {
         `;
 
         // Insert the preview after the anchor tag
-        const previewContainer = document.createElement("div");
-        previewContainer.innerHTML = preview;
-        anchor.parentNode.insertBefore(previewContainer, anchor.nextSibling);
+        const $previewContainer = $(preview);
+        $anchor.after($previewContainer);
+
+        // Mark this link as processed by setting a data-preview attribute
+        $anchor.data("preview", true);
       })
-      .catch((error) => console.error("Error fetching link preview:", error));
+      .fail(function(jqXHR, textStatus, errorThrown) {
+        console.error("Error fetching link preview:", textStatus, errorThrown);
+      });
   });
 }
 
-// Call the function to create previews for all links when the document is ready
-document.addEventListener("DOMContentLoaded", createPreviewForAllLinks);
+// Call the function to create previews when the document is fully loaded
+$(document).ready(createPreviewForAllLinks);
