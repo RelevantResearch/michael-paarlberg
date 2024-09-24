@@ -18,4 +18,5 @@ Using original data, surveys, and interviews, I analyze diaspora campaigning by 
 
 ##### Key Findings: The Influence of Migrants Beyond Voting
 
+
 A significant discovery in my research is that politicians seek the support of migrants not just for their potential votes but for the influence they have over their family members in their home countries. As one Salvadoran party activist put it, “If we get the support of one Salvadoran in the U.S., that gives us five votes in El Salvador.” However, my statistical models on the political behavior of migrants’ relatives suggest that this perception may be exaggerated.

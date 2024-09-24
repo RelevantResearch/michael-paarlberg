@@ -20,10 +20,10 @@ By Michael Ahn Paarlberg
 By Michael Ahn Paarlberg
 [Read More >>>>>>](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm)
 
+
 ###### Honduran election excludes diaspora votes, could determine outcome( Nov 26, 2021) 
 By Por: Jeff Ernst
 [Read More >>>>>>](https://www.univision.com/univision-news/latin-america/honduras-election-excludes-diaspora-votes-could-determine-outcome)
-
 
 ###### Gang Membership in Central America: More Complex than Meets the Eye (Aug 26, 2021)
 By Michael Ahn Paarlberg
@@ -37,6 +37,7 @@ By Michael A. Paarlberg
 ###### Don’t believe the Trump administration: MS-13 is not ravaging the United States (Oct 11, 2017)
 By Michael A. Paarlberg
 [Read More >>>>>>](https://www.washingtonpost.com/news/posteverything/wp/2017/10/11/dont-believe-the-trump-administration-ms-13-is-not-ravaging-the-united-states/)
+
 
 
 ###### Académico estadounidense derrumba el mito de que Pinochet mejoró la economía chilena (Sep 14, 2018)
@@ -303,3 +304,4 @@ By Michael Paarlberg
 ###### Can the company fire you for the way you vote? (Oct 26, 2012  ) 
 By Michael Paarlberg  
 [Read More >>>>>>](http://www.theguardian.com/commentisfree/2012/oct/26/can-company-fire-you-vote)
+
