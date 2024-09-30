@@ -1,11 +1,4 @@
-img[src^="/journalism"] {
-    /* Your styles here */
-    border: 2px solid #007bff;
-    border-radius: 8px;
-    padding: 5px;
-    max-width: 100%;
-  }
-  .video-card {
+.video-card {
     position: relative;
     perspective: 1000px; /* Give a perspective to the parent */
 }
