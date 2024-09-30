@@ -5,3 +5,34 @@ img[src^="/journalism"] {
     padding: 5px;
     max-width: 100%;
   }
+  .video-card {
+    position: relative;
+    perspective: 1000px; /* Give a perspective to the parent */
+}
+
+.video-card iframe {
+    width: 100%;
+    height: 215px;
+    border: none; /* Remove border for a cleaner look */
+    border-radius: 8px; /* Round the corners */
+    transition: transform 0.3s ease; /* Transition for 3D effect */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Shadow for depth */
+}
+
+.video-card:hover iframe {
+    transform: translateY(-10px) rotateY(5deg); /* Move up and tilt on hover */
+}
+
+/* Optional: Add some spacing and center the card in the column */
+.row {
+    justify-content: center;
+}
+
+.pub-card {
+  transition: transform 0.2s; /* Animation */
+}
+
+.pub-card:hover {
+  transform: scale(1.05); /* Zoom effect on hover */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Increased shadow on hover */
+}

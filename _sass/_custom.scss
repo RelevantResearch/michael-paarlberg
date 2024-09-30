@@ -1,20 +1,49 @@
 /* Base styles */
 @import "_page";
+@import "_navbar";
 body {
   background: #ffffff;
   color: #000000;
 }
 
 body a {
-  color: #212529; /* Default link color */
   text-decoration: none; /* Remove underline from links */
-  font-weight: bold; /* Make links bold */
   transition: color 0.3s ease; /* Smooth transition for hover effect */
 }
 
-body a:hover {
+/* Standard Nav Bar styles */
+.nav-bar {
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Center items vertically */
+  margin-left: auto; /* Push nav items to the right */
+}
+
+/* Links in the nav bar */
+.nav-bar a {
+  color: #212529; /* Default link color */
+  text-decoration: none; /* Remove underline from links */
+  font-weight: bold; /* Remove bold styling */
+  padding: 0.5rem 1rem; /* Add padding for better spacing */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.nav-bar a:hover {
   color: #007bff; /* Change color to blue on hover */
 }
+
+/* Styles for the site title */
+.name .content-column a span {
+  color: #212529; /* Change to your desired color */
+  font-weight: bold; /* Make the text bold */
+  font-size: 1.5rem; /* Adjust the font size if needed */
+  margin-bottom: 0.5rem; /* Add margin for spacing */
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.bold-link {
+  font-weight: bold; /* Make the link bold */
+}
+
 
 /* Header */
 header {
@@ -149,7 +178,7 @@ input[type="checkbox"]:checked + label .hamburger span:nth-child(3) {
     &:hover {
       background-color: #0056b3;
     }
-  }
+}
 
 // Image
 .image {
@@ -182,7 +211,6 @@ input[type="checkbox"]:checked + label .hamburger span:nth-child(3) {
   }
 }
 
-
 /* Medium screens and up (≥768px) */
 @media (min-width: 768px) {
   .hamburger {
@@ -211,18 +239,6 @@ input[type="checkbox"]:checked + label .hamburger span:nth-child(3) {
   }
 }
 
-/* Remove styling for <a> tags within .name class */
-.name a {
-  color: inherit; /* Inherit color from parent */
-  text-decoration: none; /* Remove underline from links */
-}
-
-.name a:hover,
-.name a:focus {
-  color: inherit; /* Ensure no color change on hover or focus */
-  text-decoration: none; /* Ensure no underline on hover or focus */
-}
-
 /* Style for Markdown headers (##) */
 .content h2 {
   position: relative;
@@ -239,4 +255,10 @@ input[type="checkbox"]:checked + label .hamburger span:nth-child(3) {
   position: absolute;
   bottom: 0;
   left: 0;
+}
+
+/* Link styling for other sections (not nav bar) */
+.content a {
+  color: #007bff; /* Blue color for links in content */
+  font-weight: normal; /* Remove bold */
 }
