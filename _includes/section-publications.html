@@ -1,25 +1,44 @@
 <div class="container mt-4 pt-5">
-    <div class="row mb-3">
-        <div class="col text-left">
-            <h3>Some Publications</h3>
-        </div>
-        <div class="col text-right">
-            <a href="/publications" class="btn btn-link">See All Publications</a>
-        </div>
+  <div class="row mb-3">
+    <div class="col text-left">
+      <h3>Some Publications</h3>
     </div>
-    
-    <div class="row">
-        <div class="col-md-4 mb-4">
-            <img src="assets/img/pub2009.png" alt="Description of Image 1" class="img-fluid" style="height: 300px; width: 100%;">
-            <a href="https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1">Labor policy in new democracies</a>
-        </div>
-        <div class="col-md-4 mb-4">
-            <img src="assets/img/content.jpeg" alt="Description of Image 2" class="img-fluid" style="height: 300px; width: 100%;">
-            <a href="https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false">Turcos and Chilestinos</a>
-        </div>
-        <div class="col-md-4 mb-4">
-            <img src="assets/img/Screenshot 2024-09-25 at 12.45.16 AM.png" alt="Description of Image 3" class="img-fluid" style="height: 300px; width: 100%;">
-            <a href="https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg">Anti-party skew and variation in diaspora outreach by Mexican parties</a>
-        </div>
+    <div class="col text-right">
+      <a href="/publications" class="btn btn-link">See All Publications</a>
     </div>
+  </div>
+
+  <div class="row">
+    {% for pub in site.data.publications.publications %}
+    <div class="col-md-4 mb-4">
+      <div class="pub-card">
+        <img
+          src="{{ pub.image }}"
+          alt="{{ pub.title }}"
+          class="img-fluid"
+          style="
+            height: 300px;
+            width: 100%;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          "
+        />
+        <a
+          href="{{ pub.link }}"
+          class="pub-title"
+          style="
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+            text-align: center;
+            color: #007bff;
+            text-decoration: none;
+          "
+        >
+          {{ pub.title }}
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
 </div>
