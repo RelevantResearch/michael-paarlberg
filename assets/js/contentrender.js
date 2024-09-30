@@ -134,3 +134,4 @@ function createPreviewForAllLinks() {
 // Call the function to create previews when the document is fully loaded
 $(document).ready(createPreviewForAllLinks);
 
+
