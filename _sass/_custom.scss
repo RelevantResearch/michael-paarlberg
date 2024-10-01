@@ -5,6 +5,12 @@ body {
   background: #ffffff;
   color: #000000;
 }
+/* Standard Nav Bar styles */
+.nav-bar {
+  display: flex; /* Use flexbox for layout */
+  align-items: center; /* Center items vertically */
+  margin-left: auto; /* Push nav items to the right */
+}
 
 body a {
   text-decoration: none; /* Remove underline from links */
