@@ -56,72 +56,52 @@ Michael Ahn Paarlberg (2018) [Trump's immigration policies are full of bogeymen 
 
 ##### Publication on 2017
 
-- **Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America**  
-  _Journal:_ Comparative Politics Vol. 49 No. 4  
-  _Date:_ July 2017
-  _Link:_ [Read the report](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false)
+Michael Paarlberg (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422.
 
-Michael A. Paarlberg (Oct 11, 2017) [Don’t believe the Trump administration: MS-13 is not ravaging the United States](https://www.washingtonpost.com/news/posteverything/wp/2017/10/11/dont-believe-the-trump-administration-ms-13-is-not-ravaging-the-united-states/)._Washington Post_
+Michael Paarlberg (Oct 11, 2017) [Don’t believe the Trump administration: MS-13 is not ravaging the United States](https://www.washingtonpost.com/news/posteverything/wp/2017/10/11/dont-believe-the-trump-administration-ms-13-is-not-ravaging-the-united-states/)._Washington Post_
 
-Michael Ahn Paarlberg (Jun 27, 2017) [After the supreme court blow, unions should look to a new model](https://www.theguardian.com/commentisfree/2018/jun/27/unions-supreme-court-nra-opinion)._theguardian_.
+Michael Paarlberg (Jun 27, 2017) [After the supreme court blow, unions should look to a new model](https://www.theguardian.com/commentisfree/2018/jun/27/unions-supreme-court-nra-opinion)._theguardian_.
 
-Michael Ahn Paarlberg (Mar 16, 2017) [Trump's budget: the dream of a paranoid strongman and a vicious Scrooge](https://www.theguardian.com/commentisfree/2017/mar/16/trumps-budget-dream-paranoid-strongman-vicious-scrooge)._theguardian_.
+Michael Paarlberg (Mar 16, 2017) [Trump's budget: the dream of a paranoid strongman and a vicious Scrooge](https://www.theguardian.com/commentisfree/2017/mar/16/trumps-budget-dream-paranoid-strongman-vicious-scrooge)._theguardian_.
 
-Michael Ahn Paarlberg (Feb 2, 2017) [With all eyes on Trump, Republicans are planning to break unions for good](https://www.theguardian.com/commentisfree/2017/feb/02/republicans-unions-right-to-work-bill)._theguardian_.
+Michael Paarlberg (Feb 2, 2017) [With all eyes on Trump, Republicans are planning to break unions for good](https://www.theguardian.com/commentisfree/2017/feb/02/republicans-unions-right-to-work-bill)._theguardian_.
 
-- **The Human Trafficking of Domestic Workers in the United States**  
-  _Co-author:_ Sameera Hafiz  
-  _Publisher:_ Institute for Policy Studies and the National Domestic Workers Alliance  
-  _Date:_ 2017  
-  _Link:_ [Read the report](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0)
+Michael Paarlberg and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0)._Institute for Policy Studies and the National Domestic Workers Alliance_
 
 ##### Publication on 2016
 
-- **Immigrants and Day Laborers**  
-  _Journal:_ Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration  
-  _Date:_ 2016  
-  _Link:_ [Read the book](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)
+Michael Paarlberg (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)_Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration_
 
-Michael Ahn Paarlberg (Sep 17, 2016) [It's race and immigration, stupid](https://www.theguardian.com/commentisfree/2016/sep/17/its-race-and-immigration-stupid)._theguardian_.
+Michael Paarlberg (Sep 17, 2016) [It's race and immigration, stupid](https://www.theguardian.com/commentisfree/2016/sep/17/its-race-and-immigration-stupid)._theguardian_.
 
 ##### Publication on 2015
 
-Michael Ahn Paarlberg (Sep 10, 2015) [This is why the two leading candidates for Guatemala’s presidency came to the U.S. to campaign](https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/10/this-is-why-the-two-leading-candidates-for-guatemalas-presidency-came-to-the-u-s-to-campaign/)._Washington Post_.
+Michael Paarlberg (Sep 10, 2015) [This is why the two leading candidates for Guatemala’s presidency came to the U.S. to campaign](https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/10/this-is-why-the-two-leading-candidates-for-guatemalas-presidency-came-to-the-u-s-to-campaign/)._Washington Post_
 
-- **Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.**  
-  _Co-authors:_ Ari Schwartz, Michael Wasser, and Merrit Gillard  
-  _Publisher:_ D.C. Jobs with Justice and the D.C. Fiscal Policy Institute  
-  _Date:_ 2015  
-  _Link:_ [Read the report](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW)  
-  _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
+Michael Paarlberg, Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW)_D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here)](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf)  
+ _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
 
 ##### PUblication on 2014
 
-Michael Ahn Paarlberg (Jul 23, 2014) [Gangs, guns and Judas Priest: the secret history of a US-inflicted border crisis](http://www.theguardian.com/commentisfree/2014/jul/23/history-border-crisis-central-america-gangs)._theguardian_.
+Michael Paarlberg (Jul 23, 2014) [Gangs, guns and Judas Priest: the secret history of a US-inflicted border crisis](http://www.theguardian.com/commentisfree/2014/jul/23/history-border-crisis-central-america-gangs)._theguardian_.
 
 ##### Publication on 2013
 
-Michael Ahn Paarlberg (Jan 25, 2013) [US unions' continued decline masks new forms of worker activism](http://www.theguardian.com/commentisfree/2013/jan/25/unions-decline-worker-activism)._theguardian_.
+Michael Paarlberg (Jan 25, 2013) [US unions' continued decline masks new forms of worker activism](http://www.theguardian.com/commentisfree/2013/jan/25/unions-decline-worker-activism)._theguardian_.
 
 ##### Publication on 2012
 
-Michael Ahn Paarlberg (Oct 26, 2012) [Can the company fire you for the way you vote?](http://www.theguardian.com/commentisfree/2012/oct/26/can-company-fire-you-vote)._theguardian_.
+MichaelPaarlberg (Oct 26, 2012) [Can the company fire you for the way you vote?](http://www.theguardian.com/commentisfree/2012/oct/26/can-company-fire-you-vote)._theguardian_.
 
 ##### Publication on 2010
 
-Michael Ahn Paarlberg (Aug 6, 2010) [On moral hazard and unemployment](http://www.theguardian.com/commentisfree/cifamerica/2010/aug/06/jobless-benefit-unemployment-insurance)._theguardian_.
+Michael Paarlberg (Aug 6, 2010) [On moral hazard and unemployment](http://www.theguardian.com/commentisfree/cifamerica/2010/aug/06/jobless-benefit-unemployment-insurance)._theguardian_.
 
 ##### Publication on 2009
 
-- **Labor policy in new democracies**  
-  _Date:_ 2009  
-  _Link:_ [Read the report](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1)
+Michael Paarlberg (2009) [Labor policy in new democracies](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1)
 
 ##### Publication on 2008
 
-- **Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractors**  
-  _Co-author:_ David Madland  
-  _Publisher:_ Center for American Progress  
-  _Date:_ 2008  
-  _Link:_ [Read the report](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R)  
-  _Coverage:_ [See coverage in The Washington Post: Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh)
+Michael Paarlberg, David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R)_Center for American Progress_
+_Coverage:_ [See coverage in The Washington Post: Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh)

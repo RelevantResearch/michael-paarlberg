@@ -75,7 +75,7 @@ Télam (Date Unknown) [“El legado de Obama está en peligro”, advirtió el p
 
 Denni Portillo (Mar 4, 2021) [Ulloa usa lobista para protestar por artículo](https://www.laprensagrafica.com/elsalvador/Ulloa-usa-lobista-para-protestar-por-articulo-20210303-0166.html)._laprensagrafica_.
 
-#Denni Portillo (Jul 3, 2021) [Postura de Bukele ante la Lista Engel podría provocar más sanciones](https://www.laprensagrafica.com/elsalvador/Postura-de-Bukele-ante-la-Lista-Engel-podria-provocar-mas-sanciones-20210702-0089.html)._laprensagrafica_.
+Denni Portillo (Jul 3, 2021) [Postura de Bukele ante la Lista Engel podría provocar más sanciones](https://www.laprensagrafica.com/elsalvador/Postura-de-Bukele-ante-la-Lista-Engel-podria-provocar-mas-sanciones-20210702-0089.html)._laprensagrafica_.
 
 Carmen Rodriguez (Oct 13, 2021) [El Salvador ha pagado $3.2 millones por lobby en Estados Unidos](https://www.laprensagrafica.com/elsalvador/El-Salvador-ha-pagado-3.2-millones-por-lobby-en-Estados-Unidos-20211012-0090.html)._laprensagrafica_.
 

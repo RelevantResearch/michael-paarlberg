@@ -1,13 +1,14 @@
 <div class="container mt-4 pt-5">
-  <div class="row mb-3">
-    <div class="col text-left">
-      <h3>Media Coverage</h3>
-    </div>
-    <div class="col text-right">
-      <a href="/journalism" class="btn btn-link">See All Media</a>
-    </div>
+  <!-- Flexbox with space-between to cover full width -->
+  <div class="d-flex justify-content-between align-items-center w-100 mb-3">
+    <!-- Heading aligned to the left -->
+    <h3>Media Coverage</h3>
+
+    <!-- Link aligned to the right -->
+    <a href="/journalism" class="btn btn-link mb-3">See All Media</a>
   </div>
 
+  <!-- Row for the media videos -->
   <div class="row">
     {% for video in site.data.media.videos %}
     <div class="col-md-4 mb-4">
