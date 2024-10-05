@@ -4,17 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-##### Publication on 2022
+# 2022
 
-Michael Paarlberg (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
+Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
 
-Michael Paarlberg (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/)._foreignpolicy_.
+Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/). *Foreign Policy*.
 
-Michael Paarlberg (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/)._washingtonpost_.
+Paarlberg, M. (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/). *Washington Post*.
 
-Michael Paarlberg (2022). [Why the “Cool Dictator” of El Salvador Went All-In on Bitcoin](https://slate.com/technology/2022/05/el-salvador-bitcoin-crash-nayib-bukele.html)._slate_.
+Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on Bitcoin](https://slate.com/technology/2022/05/el-salvador-bitcoin-crash-nayib-bukele.html). *Slate*.
 
-Michael Paarlberg (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/)._elsalvador_.
+Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). *El Salvador*.
 
 ##### Publication on 2021
 
