@@ -14,6 +14,8 @@ I am committed to ensuring that my research contributes to the public discourse 
 
 <!-- ----------------------------------------------------------- -->
 
+## 2024
+
 Mitú Daily. (2024, February 7). [What does El Salvador Want?](https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want). *Mitú Daily*.
 
 Marcelo Rochabrun. (2024, February 2). [A Brutal Crime Crackdown Is Emboldening Leaders Across Latin America](https://www.bloomberg.com/news/features/2024-02-02/el-salvador-election-bukele-seeks-second-term-on-popular-crime-policy?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwNjg5MDg0NywiZXhwIjoxNzA3NDk1NjQ3LCJhcnRpY2xlSWQiOiJTODdDMEdEV0xVNjgwMCIsImJjb25uZWN0SWQiOiI4RjAwQzE5NzhFODA0RkI3Qjk2QzIxODkwOEUxNTI1NCJ9.0CIGFkTppb98dYLPy3TfpvORcwWRonXDKtUIBXrlRmE). *Bloomberg*.
@@ -21,6 +23,8 @@ Marcelo Rochabrun. (2024, February 2). [A Brutal Crime Crackdown Is Emboldening 
 Denni Portillo. (2024, February 1). [Catorce congresistas estadounidenses preocupados por elecciones en El Salvador](https://www.laprensagrafica.com/elsalvador/Catorce-congresistas-estadounidenses-preocupados-por-elecciones-en-El-Salvador-20240131-0071.html). *La Prensa Gráfica*.
 
 Carin Zissis and Chase Harrison. (2024, January 25). [LatAm in Focus: Online Reach and Expat Votes in El Salvador's Election](https://www.as-coa.org/articles/latam-focus-online-reach-and-expat-votes-el-salvadors-election). *AS/COA*.
+
+## 2023
 
 Elias Ferrer. (2023, September 27). [Tide Turns To Favour Venezuela Economic Sanctions Relief](https://www.forbes.com/sites/eliasferrerbreda/2023/09/27/tide-turns-to-favour-venezuela-economic-sanctions-relief/?sh=505f260b3e13). *Forbes*.
 
@@ -31,6 +35,8 @@ Steven Dudley. (2023, February 9). [Is Nayib Bukele’s ‘Iron Fist’ in El Sa
 Tibisay Zea. (2023, February 8). [Lula and Biden will meet in Washington](https://theworld.org/segments/2024/04/04/lula-and-biden-will-meet-in-washington). *The World*.
 
 Tibisay Zea. (2023, February 1). [The new ‘pink tide’ in Latin America: Is it an opportunity or a threat to the US?](https://theworld.org/segments/2024/04/04/the-new-pink-tide-in-latin-america-is-it-an-opportunity-or-a-threat-to-the-us). *The World*.
+
+## 2022
 
 KBS 세계는지금. (2022, October 8). [엘살바도르 갱단과의 전쟁, 그 이면의 진실](https://www.youtube.com/watch?v=cyBe3YHkMM8). *KBS World Report*.
 
@@ -45,6 +51,8 @@ Al Jazeera English. (2022, June 8). [How is a ‘state of exception’ changing 
 Fernanda Echavarri. (2022, April 14). [The 10,000 Ukrainians Just Processed at the Border Show the US Government Can Do Better](https://www.motherjones.com/mojo-wire/2022/04/ukrainians-processed-us-mexico-border/). *Mother Jones*.
 
 (2022, February 16). [Gangsters Movie Night 4 Hands Of Stone](https://podcasts.apple.com/us/podcast/gangsters-movie-night-4-hands-of-stone/id1471812321?i=1000551213690). *The Racket*.
+
+## 2021
 
 Zeeshan Aleem. (2021, December 31). [Why Kamala Harris' cozy relationship with corporations is worrying](https://www.msnbc.com/opinion/why-kamala-harris-cozy-relationship-corporations-worrying-n1286780). *MSNBC*.
 
@@ -78,9 +86,13 @@ Ricardo Valencia. (2021, February 10). [Los congresistas que envían cartas a Bu
 
 Sebastian Fest. (2021, January 9). [Qué piensa Juan González, el hombre de Biden para América Latina, sobre Maduro, el muro con México y la relación con Argentina, Brasil y Colombia](https://www.infobae.com/america/eeuu/2021/01/09/que-piensa-juan-gonzalez-el-hombre-de-biden-para-america-latina-sobre-maduro-el-muro-con-mexico-y-la-relacion-con-argentina-brasil-y-colombia/). *Infobae*.
 
+## 2020
+
 Guena Rod. (2020, September 15). [Interview with Michael Paarlberg](https://www.facebook.com/story.php?story_fbid=10221315872319678&id=1634002351&_rdr). *Facebook*.
 
 Travis Waldron. (2020, March 17). [Bernie’s Approach To Latin America’s Socialist Leaders Wouldn’t Be That Radical](https://www.huffpost.com/entry/bernie-sanders-cuba-venezuela-socialist_n_5e557ef4c5b64c1d562103f0?fbclid=IwAR0KlTOPiRruzYsAhqp5UdMl-5K-WIM28LDu34uUVsCVaN-XKQ7Y9x0ZEcM). *Huff Post*.
+
+## 2019 and older
 
 Kirk Semple. (2019, September 25). [Migration Likely to Top Agenda When Trump Meets El Salvador’s Bukele ](https://web.archive.org/web/20190925091134/https://www.nytimes.com/2019/09/25/world/americas/trump-salvador-migration.html). *New York Times*.
 
