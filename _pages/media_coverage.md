@@ -5,6 +5,8 @@ permalink: /media-coverage/
 content_render: false
 ---
 
+# Media Coverage for Greater Impact
+
 I am committed to ensuring that my research contributes to the public discourse and reaches a wide audience. Drawing on my background as a former reporter, I frequently collaborate with national and international media to share my findings. My work has been featured in outlets such as *Forbes*, *The New York Times*, *CNN*, *Insight Crime*, and *Bloomberg*, among others. Below is a selection of media interviews and quotes that highlight the broad reach of my research. You can also visit my [publications page](https://michael.relevant-research.com/publications/) for articles I have authored, many of which have appeared in these same outlets.
 
 <!-- -------------------------------------------------------- -->
