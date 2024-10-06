@@ -7,3 +7,7 @@ videos:
     src: "https://www.youtube.com/embed/4ksDeU5OOiY"
 # changes edited because of the error
 
+news:
+  image1: /assets/img/media_logos/Bloomberg-Logo.png
+  image2: /assets/img/media_logos/CNN.svg.png
+  image3: /assets/img/media_logos/Univision_logo.png

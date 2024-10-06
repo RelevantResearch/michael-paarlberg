@@ -36,3 +36,24 @@ img[src^="/journalism"] {
   transform: scale(1.05); /* Zoom effect on hover */
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Increased shadow on hover */
 }
+
+/* Styling for the section alignment */
+h2 {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0px; /* Adds two tab spaces (usually 24px per tab) */
+
+}
+
+ul li {
+  margin-bottom: 10px;
+  padding-left: 48px; /* Adds two tab spaces (usually 24px per tab) */
+}
+
+ul li strong {
+  font-weight: bold;
+}

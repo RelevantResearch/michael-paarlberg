@@ -1,4 +1,0 @@
----
-layout: profile
-title: "Profile"
----
