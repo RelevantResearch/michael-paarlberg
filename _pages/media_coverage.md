@@ -26,7 +26,7 @@ Eduardo RamirezDr (Nov 12, 2021)[Michael Paarlberg: Analysis of El Salvador and 
 
 Mitu Daily (Feb 7, 2024)[What does El Salvador Want?](https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want). _Mitú Daily_.
 
-Marcelo Rochabrun(Feb 2, 2024) [A Brutal Crime Crackdown Is Emboldening Leaders Across Latin America](https://www.bloomberg.com/news/features/2024-02-02/el-salvador-election-bukele-seeks-second-term-on-popular-crime-policy?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwNjg5MDg0NywiZXhwIjoxNzA3NDk1NjQ3LCJhcnRpY2xlSWQiOiJTODdDMEdEV0xVNjgwMCIsImJjb25uZWN0SWQiOiI4RjAwQzE5NzhFODA0RkI3Qjk2QzIxODkwOEUxNTI1NCJ9.0CIGFkTppb98dYLPy3TfpvORcwWRonXDKtUIBXrlRmE). _Bloomberg_.
+Marcelo Rochabrun (Feb 2, 2024) [A Brutal Crime Crackdown Is Emboldening Leaders Across Latin America](https://www.bloomberg.com/news/features/2024-02-02/el-salvador-election-bukele-seeks-second-term-on-popular-crime-policy?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwNjg5MDg0NywiZXhwIjoxNzA3NDk1NjQ3LCJhcnRpY2xlSWQiOiJTODdDMEdEV0xVNjgwMCIsImJjb25uZWN0SWQiOiI4RjAwQzE5NzhFODA0RkI3Qjk2QzIxODkwOEUxNTI1NCJ9.0CIGFkTppb98dYLPy3TfpvORcwWRonXDKtUIBXrlRmE). _Bloomberg_.
 
 Elias Ferrer (Sep 27, 2023) [Tide Turns To Favour Venezuela Economic Sanctions Relief](https://www.forbes.com/sites/eliasferrerbreda/2023/09/27/tide-turns-to-favour-venezuela-economic-sanctions-relief/?sh=505f260b3e13). _Forbes_.
 
