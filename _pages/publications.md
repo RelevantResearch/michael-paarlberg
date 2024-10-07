@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+# Publications
+
 Find a list of publications below, including peer-reviewed academic articles in journals such as *Comparative Migration Studies*, several book chapters, and articles in leading news outlets such as the *Washington Post*, *Foreign Policy*, and *The Guardian*.
 
 ## 2022
