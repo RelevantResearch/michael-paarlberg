@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-# 2022
+Find a list of publications below, including peer-reviewed academic articles in journals such as *Comparative Migration Studies*, several book chapters, and articles in leading news outlets such as the *Washington Post*, *Foreign Policy*, and *The Guardian*.
+
+## 2022
 
 Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
 
@@ -16,7 +18,7 @@ Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on
 
 Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Salvador_.
 
-# 2021
+## 2021
 
 Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim.
 
@@ -26,7 +28,7 @@ Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Crimin
 
 Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador could make or break Biden’s Central America policy](https://www.washingtonpost.com/outlook/2021/02/25/el-salvador-elections-biden/). _Washington Post_.
 
-# 2020
+## 2020
 
 Paarlberg, M. (2020). [Hometown Associations and Parties as Vehicles for Mexican Electoral Campaigns in the US](https://www.tandfonline.com/doi/full/10.1080/00344893.2020.1856176). _Representation_, 59(3), 403-422.
 
@@ -34,7 +36,7 @@ Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Me
 
 Paarlberg, M. (2020). [El Salvador’s president sent troops to occupy the legislature. Here’s what’s going on](https://www.washingtonpost.com/politics/2020/02/17/el-salvadors-president-sent-troops-occupy-legislature-heres-whats-going/). _Washington Post_.
 
-# 2019
+## 2019
 
 Paarlberg, M. (2019). "[Competing for the Diaspora's Influence at Home: A Case Study of El Salvador](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003191261-4/competing-diaspora-influence-home-party-structure-transnational-campaign-activity-el-salvador-michael-ahn-paarlberg)" in _The Microfoundations of Diaspora Politics_, edited by Alexandra Délano Alonso, and Harris Mylonas.
 
@@ -42,7 +44,7 @@ Paarlberg, M. (2019). [How a Fake Gang Crisis in the US Helps Fuel a Real One in
 
 Paarlberg, M. (2019). [It’s not just a ‘coup’: Bolivia’s democracy is in meltdown](https://www.washingtonpost.com/outlook/2019/11/13/its-not-just-coup-bolivias-democracy-is-meltdown/). _Washington Post_.
 
-# 2018
+## 2018
 
 Paarlberg, M. and Teófilo Reyes (2018) [Paying tipped workers better wouldn’t lead to fewer restaurant jobs](https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/paying-tipped-workers-better-wouldnt-lead-to-fewer-restaurant-jobs/?utm_term=.d61e78aba799). _Washington Post_.
 
@@ -54,7 +56,7 @@ Paarlberg, M. (2018) [Child abuse is now part of America's official immigration 
 
 Paarlberg, M. (2018) [Trump's immigration policies are full of bogeymen and contradictions](https://www.theguardian.com/commentisfree/2018/feb/02/trump-immigration-bogeymen-ms-13-chain-migration). _The Guardian_.
 
-# 2017
+## 2017
 
 Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422.
 
@@ -68,20 +70,20 @@ Paarlberg, M. (Feb 2, 2017) [With all eyes on Trump, Republicans are planning to
 
 Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
 
-# 2016
+## 2016
 
 Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5). _Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration_.
 
 Paarlberg, M. (Sep 17, 2016) [It's race and immigration, stupid](https://www.theguardian.com/commentisfree/2016/sep/17/its-race-and-immigration-stupid). _The Guardian_.
 
-# 2015
+## 2015
 
 Paarlberg, M. (Sep 10, 2015) [This is why the two leading candidates for Guatemala’s presidency came to the U.S. to campaign](https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/10/this-is-why-the-two-leading-candidates-for-guatemalas-presidency-came-to-the-u-s-to-campaign/). _Washington Post_.
 
 Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here)](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf)  
  _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
 
-# 2014 and older
+## 2014 and older
 
 Paarlberg, M. (Jul 23, 2014) [Gangs, guns and Judas Priest: the secret history of a US-inflicted border crisis](http://www.theguardian.com/commentisfree/2014/jul/23/history-border-crisis-central-america-gangs). _The Guardian_.
 
