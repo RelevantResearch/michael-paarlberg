@@ -25,27 +25,48 @@ body, h1, h2, h3, p, ul {
     margin-bottom: 1rem; /* Add margin below */
   }
   
-  /* Style for the banner container */
+ /* Style for the banner container using grid */
 .certificate-banner {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: nowrap; /* Ensures that all items stay in a single row */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns of equal width */
+  gap: 20px; /* Space between grid items */
   padding: 10px;
-  overflow: hidden; /* Prevents horizontal scrolling */
 }
 
-/* Style for each certificate image container */
+/* Style for each certificate card */
 .certificate-item {
-  flex: 1 1 auto; /* Allows images to shrink and grow proportionally */
-  margin: 0 10px; /* Adjusted margin to make more room for images */
-  max-width: calc(100% / 5); /* Limits the width to ensure all images fit */
+  background-color: #fff; /* White background for the card */
+  border-radius: 10px; /* Rounded corners for a card-like appearance */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1); /* 3D shadow effect */
+  padding: 20px; /* Adds padding inside the card */
+  transition: transform 0.3s ease; /* Smooth animation on hover */
+}
+
+/* Add hover effect to lift the card */
+.certificate-item:hover {
+  transform: translateY(-10px); /* Slight lift on hover */
 }
 
 /* Style for each certificate image */
 .certificate-item img {
   width: 100%; /* Ensures the image fills the available space */
   height: auto; /* Keeps the aspect ratio */
-  max-height: 150px; /* Sets a reasonable max height for smaller screens */
-  object-fit: contain; /* Ensures the image fits within its container */
+  max-height: 150px; /* Sets a reasonable max height */
+  object-fit: contain; /* Ensures the image fits neatly within its container */
+  border-radius: 8px; /* Slightly round the image corners to match the card */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow to the image */
+}
+
+/* Responsive adjustments for small screens */
+@media (max-width: 576px) {
+  .certificate-banner {
+    grid-template-columns: repeat(3, 1fr); /* 2 columns on smaller screens */
+  }
+}
+
+/* Extra small screens */
+@media (max-width: 400px) {
+  .certificate-banner {
+    grid-template-columns: repeat(3, 1fr); /* 1 column on very small screens */
+  }
 }
