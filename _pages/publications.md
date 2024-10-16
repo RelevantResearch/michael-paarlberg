@@ -6,11 +6,13 @@ permalink: /publications/
 
 # Publications
 
-Find a list of publications below, including peer-reviewed academic articles in journals such as *Comparative Migration Studies*, several book chapters, and articles in leading news outlets such as the *Washington Post*, *Foreign Policy*, and *The Guardian*.
+Find a list of publications below, including peer-reviewed academic articles in journals such as _Comparative Migration Studies_, several book chapters, and articles in leading news outlets such as the _Washington Post_, _Foreign Policy_, and _The Guardian_.
 
 ## 2022
 
 Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
+Data set for the research
+[Download (>50MB)](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 
 Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/). _Foreign Policy_.
 
