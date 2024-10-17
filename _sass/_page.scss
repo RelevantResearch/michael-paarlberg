@@ -72,3 +72,35 @@ ul li strong {
   background-color: #0056b3; /* Darker blue on hover */
   color: white;
 }
+
+.video-container {
+  position: relative;
+  width: 80%; /* Adjust this as needed to cover more or less width */
+  max-width: 1200px; /* Set a maximum width to avoid excessive stretching */
+  margin: 0 auto; /* Center the video horizontally */
+  height: 25vh; /* 25% of the viewport height */
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Remove any borders around the iframe */
+}
+
+/* Responsive Breakpoints */
+@media (max-width: 768px) {
+  .video-container {
+    width: 90%; /* Slightly wider for tablets */
+    height: 30vh; /* Increase the height to 30% on medium screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .video-container {
+    width: 100%; /* Full width for mobile */
+    height: 35vh; /* Increase height to 35% for better viewing on mobile */
+  }
+}
