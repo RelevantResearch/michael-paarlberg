@@ -1,73 +1,158 @@
-/* Basic Reset */
-body, h1, h2, h3, p, ul {
-    margin: 0;
-    padding: 0;
-  }
-  
-  /* Header Styles */
-  header {
-    transition: background-color 0.3s ease; /* Smooth transition for background */
-  }
-  
-  /* Title Styling */
-  .name span {
-    color: #333; /* Dark text color for title */
-  }
-  
-  .name p {
-    color: #6c757d; /* Muted color for description */
-  }
-  
-
-  
-  /* Add padding and margin for headings, paragraphs, and lists */
-  h1, h2, h3, p, ul {
-    margin-bottom: 1rem; /* Add margin below */
-  }
-  
- /* Style for the banner container using grid */
-.certificate-banner {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr); /* 3 columns of equal width */
-  gap: 20px; /* Space between grid items */
-  padding: 10px;
+/* Standard Nav Bar styles */
+.nav-bar {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  white-space: nowrap; /* Prevents word wrapping */
 }
 
-/* Style for each certificate card */
-.certificate-item {
-  background-color: #fff; /* White background for the card */
-  border-radius: 10px; /* Rounded corners for a card-like appearance */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1), 0 6px 20px rgba(0, 0, 0, 0.1); /* 3D shadow effect */
-  padding: 20px; /* Adds padding inside the card */
-  transition: transform 0.3s ease; /* Smooth animation on hover */
+body a {
+  text-decoration: none;
+  transition: color 0.3s ease;
 }
 
-/* Add hover effect to lift the card */
-.certificate-item:hover {
-  transform: translateY(-10px); /* Slight lift on hover */
+/* Links in the nav bar */
+.nav-bar a {
+  color: #212529;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  font-size: 1.2rem; /* Default font size for links */
+  transition: color 0.3s ease, font-size 0.3s ease; /* Smooth transition for font size */
 }
 
-/* Style for each certificate image */
-.certificate-item img {
-  width: 100%; /* Ensures the image fills the available space */
-  height: auto; /* Keeps the aspect ratio */
-  max-height: 150px; /* Sets a reasonable max height */
-  object-fit: contain; /* Ensures the image fits neatly within its container */
-  border-radius: 8px; /* Slightly round the image corners to match the card */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow to the image */
+.nav-bar a:hover {
+  color: #007bff;
 }
 
-/* Responsive adjustments for small screens */
-@media (max-width: 576px) {
-  .certificate-banner {
-    grid-template-columns: repeat(3, 1fr); /* 2 columns on smaller screens */
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .nav-bar a {
+    font-size: 1rem; /* Decrease font size on medium screens */
   }
 }
 
-/* Extra small screens */
-@media (max-width: 400px) {
-  .certificate-banner {
-    grid-template-columns: repeat(3, 1fr); /* 1 column on very small screens */
+@media (max-width: 480px) {
+  .nav-bar a {
+    font-size: 0.9rem; /* Decrease font size further on small screens */
   }
 }
 
+/* Styles for the site title */
+.name .content-column a span {
+  color: #212529;
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.bold-link {
+  font-weight: bold;
+}
+
+/* Header */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Hamburger styles */
+.hamburger {
+  display: none;
+  width: 30px;
+  height: 25px;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.hamburger span {
+  display: block;
+  width: 100%;
+  height: 4px;
+  background-color: #000;
+  transition: 0.4s;
+}
+
+.side-menu {
+  position: fixed;
+  top: 0;
+  right: -250px;
+  width: 250px;
+  height: 100%;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  transition: right 0.4s ease;
+  z-index: 99;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.side-menu ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.side-menu li {
+  margin: 20px 0;
+}
+
+.side-menu a {
+  color: #000;
+  text-decoration: none;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+.side-menu a:hover {
+  color: #ffa500;
+}
+
+/* Close Button */
+.close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: #000;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-bottom: 20px;
+  transition: color 0.3s ease;
+}
+
+.close-btn:hover {
+  color: #ffa500;
+}
+
+/* Toggle Checkbox */
+input[type="checkbox"] {
+  display: none;
+}
+
+/* Show side-menu when checked */
+input[type="checkbox"]:checked ~ .side-menu {
+  right: 0;
+}
+
+input[type="checkbox"]:checked + label.hamburger {
+  display: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 992px) {
+  .nav-bar {
+    display: none; /* Hide nav bar on smaller screens */
+  }
+
+  .hamburger {
+    display: flex; /* Show hamburger menu on medium and smaller screens */
+  }
+}

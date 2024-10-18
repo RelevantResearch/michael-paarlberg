@@ -6,7 +6,8 @@ permalink: /
 
 <div class="row g-5 mb-5">
 
-<div class="col-md-6">
+  <!-- Text Section -->
+  <div class="col-md-6">
     <p> 
       I am an assistant professor of political science at Virginia Commonwealth University in Richmond, Virginia, and an associate fellow at the Institute for Policy Studies in Washington, D.C. 
       I previously served as the chief Latin America policy <a href="https://www.huffpost.com/entry/bernie-sanders-cuba-venezuela-socialist_n_5e557ef4c5b64c1d562103f0?fbclid=IwAR0KlTOPiRruzYsAhqp5UdMl-5K-WIM28LDu34uUVsCVaN-XKQ7Y9x0ZEcM">adviser</a> to the Bernie Sanders 2020 campaign.
@@ -21,27 +22,40 @@ permalink: /
       journalism, and teaching. You can find my CV <a href="/cv">here</a>.
     </p>
     <p>
-      If you are journalist and searching for latin american expert.
+      If you are a journalist and searching for a Latin American expert.
     </p>
     <p>
-      <a href="/contact" class="btn btn-contact">Contact Me</a>
+      <a href="mailto:" class="btn btn-contact">Contact Me</a>
     </p>
   </div>
 
+  <!-- Image Section -->
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/profile.jpg" alt="Home" width="100%">
-  </div>
-
-  <div class="row">
-    <div class="col-md-6 text-end social-media-icons">
-      {% for item in site.data.about.social_media %}
-        <a href="{{ item.url }}" class="ms-3 fs-5" target="_blank">
-          <img src="{{ item.icon }}" alt="{{ item.name }}" width="30" height="30">
-        </a>
-      {% endfor %}
+  <img src="{{ site.github.url }}/assets/img/profile.jpg" alt="Home" width="100%">
+  
+  <!-- Social Media Links without Text -->
+  <div class="card contact-card mt-3">
+    <div class="card-body text-center">
+      <ul class="contact-info list-inline">
+        {% for item in site.data.profile.social_media %}
+        <li class="list-inline-item">
+          {% if item.name == "email" %}
+            <a href="mailto:{{item.url}}">
+              <img src="{{ item.icon }}" alt="Email" width="30" height="30">
+            </a>
+          {% else %}
+            <a href="{{ item.url }}" target="_blank">
+              <img src="{{ item.icon }}" alt="{{ item.name | capitalize }}" width="30" height="30">
+            </a>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
     </div>
   </div>
-  {% include section-media.html %}
-  {% include section-publications.html %}
+</div>
+
+{% include section-media.html %}
+{% include section-publications.html %}
 
 </div>

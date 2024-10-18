@@ -1,3 +1,31 @@
+/* Basic Reset */
+body, h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* Header Styles */
+header {
+  transition: background-color 0.3s ease; /* Smooth transition for background */
+}
+
+/* Title Styling */
+.name span {
+  color: #333; /* Dark text color for title */
+}
+
+.name p {
+  color: #6c757d; /* Muted color for description */
+}
+
+
+
+/* Add padding and margin for headings, paragraphs, and lists */
+h1, h2, h3, p, ul {
+  margin-bottom: 1rem; /* Add margin below */
+}
+
+
 img[src^="/journalism"] {
     /* Your styles here */
     border: 2px solid #007bff;
@@ -34,7 +62,6 @@ img[src^="/journalism"] {
 
 .pub-card:hover {
   transform: scale(1.05); /* Zoom effect on hover */
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Increased shadow on hover */
 }
 
 /* Styling for the section alignment */
@@ -43,20 +70,6 @@ h2 {
   margin-bottom: 15px;
 }
 
-ul {
-  list-style-type: none;
-  padding-left: 0px; /* Adds two tab spaces (usually 24px per tab) */
-
-}
-
-ul li {
-  margin-bottom: 10px;
-  padding-left: 48px; /* Adds two tab spaces (usually 24px per tab) */
-}
-
-ul li strong {
-  font-weight: bold;
-}
 .btn-contact {
   background-color: #007bff; /* Bootstrap blue */
   color: white;

@@ -1,0 +1,46 @@
+.certificate-banner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 equal-width columns */
+    gap: 20px; /* Space between the boxes */
+    padding: 20px;
+    width: 100%; /* Full-width grid */
+    margin: 0 auto; /* Center the grid */
+  }
+  
+  .logo-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Full width within the grid column */
+    aspect-ratio: 16 / 9; /* Rectangular box with a 16:9 aspect ratio */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    overflow: hidden; /* Hide overflow to ensure logos fit neatly */
+  }
+  
+  .logo-box img {
+    width: 100%; /* Uniform width for all logos */
+    height: auto; /* Maintain aspect ratio */
+    object-fit: contain; /* Ensure the image fits within the box without distortion */
+    max-height: 100%; /* Prevent logos from exceeding box height */
+  }
+  
+  /* Medium screens (e.g., tablets) */
+  @media (max-width: 768px) {
+    .certificate-banner {
+      grid-template-columns: repeat(2, 1fr); /* Reduce to 2 columns on medium screens */
+    }
+  }
+  
+  /* Small screens (e.g., mobile phones) */
+  @media (max-width: 480px) {
+    .certificate-banner {
+      grid-template-columns: repeat(2, 1fr);; /* 1 column on small screens */
+    }
+  
+    .logo-box {
+      aspect-ratio: auto; /* Remove fixed aspect ratio to allow more flexibility */
+      height: 150px; /* Set a minimum height to make the boxes larger */
+    }
+  }
+  

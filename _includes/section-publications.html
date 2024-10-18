@@ -1,28 +1,27 @@
-<div class="container mt-4 pt-5">
+<div class="container mt-4 pt-2">
   <!-- Flexbox with space-between to cover full width -->
-  <div class="d-flex justify-content-between align-items-center w-100 mb-3">
+  <div class="d-flex justify-content-between align-items-center w-100 mb-2">
     <!-- Heading aligned to the left -->
     <h3>Academic Publications</h3>
 
     <!-- Link aligned to the right -->
-    <a href="/scholarship" class="btn btn-link mb-3">See All Publications</a>
+    <a href="/scholarship" class="btn btn-link mb-0">See All Publications</a>
   </div>
 
-  <!-- Row for the publication cards -->
+  <!-- Row for the publication images -->
   <div class="row">
     {% for pub in site.data.publications.publications %}
-    <div class="col-md-4 mb-4">
-      <div class="pub-card">
+    <div class="col-md-4 mb-3">
+      <div class="pub-img-wrapper">
         <img
           src="{{ pub.image }}"
           alt="{{ pub.title }}"
-          class="img-fluid"
+          class="img-fluid pub-img"
           style="
-            height: 500px;
             width: 100%;
             border-radius: 15px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             object-fit: contain;
+            transition: transform 0.6s cubic-bezier(0.25, 0.1, 0.25, 1);
           "
         />
         <a
@@ -44,3 +43,22 @@
     {% endfor %}
   </div>
 </div>
+
+<style>
+  /* Hover effect: Image rises up smoothly with easing and tilt */
+  .pub-img-wrapper:hover {
+    transform: translateY(-10px) rotateY(5deg); /* Move up and tilt on hover */
+    transition: transform 0.6s cubic-bezier(0.25, 0.1, 0.25, 1); /* Smooth easing */
+  }
+
+  /* Reduce margin between heading and images */
+  .mt-4.pt-2 {
+    margin-top: 1rem !important; /* Adjust as needed */
+    padding-top: 0.5rem !important;
+  }
+
+  /* Reduce space under heading link */
+  .btn-link.mb-0 {
+    margin-bottom: 0 !important;
+  }
+</style>

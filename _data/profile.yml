@@ -7,10 +7,26 @@ website: "www.michaelpaarlberg.org"
 profile_pic: "/assets/img/me.jpg"
 
 social_media:
-  - {name: "x", url: "https://x.com/MPaarlberg", icon: "/assets/img/icons/twitter.png"}
-  - {name: "linkedin", url: "https://www.linkedin.com/in/michael-p-1b278b113/", icon: "/assets/img/icons/linkedin.png"}
-  - {name: "bluesky", url: "https://bsky.app/profile/mpaarlberg.bsky.social", icon: "/assets/img/icons/bluesky.png"}
-  - {name: "email", url: "", icon: "/assets/img/icons/email.png"}
+  - {
+      name: "x",
+      url: "https://x.com/MPaarlberg",
+      icon: "/assets/img/icons/twitter.png",
+    }
+  - {
+      name: "linkedin",
+      url: "https://www.linkedin.com/in/michael-p-1b278b113/",
+      icon: "/assets/img/icons/linkedin.png",
+    }
+  - {
+      name: "bluesky",
+      url: "https://bsky.app/profile/mpaarlberg.bsky.social",
+      icon: "/assets/img/icons/bluesky.png",
+    }
+  - {
+      name: "email",
+      url: "test@gmail.com",
+      icon: "/assets/img/icons/email.png",
+    }
 
 cv:
-  - {url: "/assets/pdf/cv.pdf " }
+  - { url: "/assets/pdf/cv.pdf " }

@@ -6,13 +6,13 @@ permalink: /scholarship/
 
 # Research Statement
 
-# Acedamic Publications
+I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals Comparative Politics, Comparative Migration Studies, Journal of Ethnic and Migration Studies, Urban Affairs Review, Representation and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico.
+
+# Academic Publications
 
 ## 2022
 
 Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
-Data set for the research
-[Download (>50MB)](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 
 Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/). _Foreign Policy_.
 
@@ -43,6 +43,8 @@ Paarlberg, M. (2018) [Mexico's Diaspora Electorate](https://www.wilsoncenter.org
 ## 2017
 
 Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422.
+Data set for the research
+[Download (>50MB)](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 
 Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
 
