@@ -1,64 +1,46 @@
-/* Contact Card Styling */
 .contact-card {
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none; /* Remove border around the card */
+  background-color: transparent; /* Make background transparent */
+}
+
+.contact-info {
+  display: flex; /* Use flexbox for layout */
+  justify-content: center; /* Center the icons */
+  align-items: center; /* Vertically align the icons */
+  padding: 0;
+  margin: 0;
+  gap: 30px;
+  list-style: none; /* Remove bullets */
+  flex-wrap: nowrap; /* Prevent wrapping of the icons */
+}
+
+.contact-info li {
+  margin-right: 10px; /* Space between the icons */
+}
+
+.contact-info li:last-child {
+  margin-right: 0; /* Remove the margin after the last icon */
+}
+
+.contact-info li a img {
+  transition: transform 0.2s; /* Smooth transition effect on hover */
+}
+
+.contact-info li a:hover img {
+  transform: scale(1.1); /* Slight zoom effect on hover */
+}
+
+@media (max-width: 480px) {
+  .contact-card {
+    text-align: center; /* Ensure card is centered on small screens */
   }
-  
-  .contact-card h2 {
-    margin-bottom: 20px;
-    font-size: 1.5em;
-  }
-  
-  .contact-card form input,
-  .contact-card form textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
-    font-size: 1em;
-  }
-  
-  .contact-card form button {
-    background-color: #007bff; /* Blue */
-    color: white;
-    padding: 10px 20px;
-    font-size: 1.2em;
-    border-radius: 5px;
-    border: none;
-    cursor: pointer;
-    width: 100%;
-  }
-  
-  .contact-card form button:hover {
-    background-color: #0056b3; /* Darker blue on hover */
-  }
-  
+
   .contact-info {
-    list-style: none;
-    padding: 0;
-    font-size: 1.1em;
+    justify-content: center; /* Re-apply centering */
+    flex-wrap: nowrap; /* Ensure icons stay in one line */
   }
-  
+
   .contact-info li {
-    display: flex;
-    align-items: center;
-    margin-bottom: 15px;
+    margin-right: 5px; /* Reduce spacing between icons */
   }
-  
-  .contact-info img {
-    margin-right: 10px;
-  }
-  
-  /* Link Styling */
-  .contact-info a {
-    color: #007bff;
-    text-decoration: none;
-  }
-  
-  .contact-info a:hover {
-    text-decoration: underline;
-  }
-  
+}
