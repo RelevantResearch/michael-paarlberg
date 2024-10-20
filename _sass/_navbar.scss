@@ -1,9 +1,30 @@
+/* Title Styles */
+.name a {
+  color: #212529;
+}
+
+.description {
+  color: #212529;
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.name h1 {
+  font-weight: bold;
+  font-size: 4rem; /* Default size for larger screens */
+  font-family: "Big Caslon", serif;
+  margin-bottom: 0.5rem;
+  transition: color 0.3s ease;
+}
+
 /* Standard Nav Bar styles */
 .nav-bar {
   display: flex;
+  justify-content: center;
   align-items: center;
-  margin-left: auto;
   white-space: nowrap; /* Prevents word wrapping */
+  padding-top: 0.5rem;
 }
 
 body a {
@@ -25,32 +46,6 @@ body a {
   color: #007bff;
 }
 
-/* Responsive Styles */
-@media (max-width: 768px) {
-  .nav-bar a {
-    font-size: 1rem; /* Decrease font size on medium screens */
-  }
-}
-
-@media (max-width: 480px) {
-  .nav-bar a {
-    font-size: 0.9rem; /* Decrease font size further on small screens */
-  }
-}
-
-/* Styles for the site title */
-.name .content-column a span {
-  color: #212529;
-  font-weight: bold;
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-  transition: color 0.3s ease;
-}
-
-.bold-link {
-  font-weight: bold;
-}
-
 /* Header */
 header {
   display: flex;
@@ -63,9 +58,10 @@ header {
 
 /* Hamburger styles */
 .hamburger {
-  display: none;
+  display: none; /* Default hidden */
   width: 30px;
   height: 25px;
+  padding-top: 0.5rem;
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
@@ -79,6 +75,7 @@ header {
   transition: 0.4s;
 }
 
+/* Side Menu styles */
 .side-menu {
   position: fixed;
   top: 0;
@@ -147,12 +144,33 @@ input[type="checkbox"]:checked + label.hamburger {
 }
 
 /* Responsive Styles */
-@media (max-width: 992px) {
+@media (max-width: 768px) {
   .nav-bar {
     display: none; /* Hide nav bar on smaller screens */
   }
-
   .hamburger {
-    display: flex; /* Show hamburger menu on medium and smaller screens */
+    display: flex; /* Show hamburger menu on smaller screens */
+  }
+}
+
+@media (min-width: 993px) {
+  .nav-bar {
+    display: flex; /* Show nav bar on larger screens */
+  }
+  .hamburger {
+    display: none; /* Hide hamburger menu on larger screens */
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .title {
+    font-size: 2rem; /* Title size for small screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .nav-bar a {
+    font-size: 0.9rem; /* Decrease font size further on small screens */
   }
 }
