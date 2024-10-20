@@ -19,7 +19,7 @@
   }
   
   .logo-box img {
-    width: 100%; /* Uniform width for all logos */
+    width: 60%; /* Uniform width for all logos */
     height: auto; /* Maintain aspect ratio */
     object-fit: contain; /* Ensure the image fits within the box without distortion */
     max-height: 100%; /* Prevent logos from exceeding box height */
@@ -27,6 +27,9 @@
   
   /* Medium screens (e.g., tablets) */
   @media (max-width: 768px) {
+    .logo-box img {
+        width: 100%; /* Uniform width for all logos */
+    }
     .certificate-banner {
       grid-template-columns: repeat(2, 1fr); /* Reduce to 2 columns on medium screens */
     }
@@ -34,6 +37,9 @@
   
   /* Small screens (e.g., mobile phones) */
   @media (max-width: 480px) {
+    .logo-box img {
+        width: 100%; /* Uniform width for all logos */
+      }
     .certificate-banner {
       grid-template-columns: repeat(2, 1fr);; /* 1 column on small screens */
     }
