@@ -1,15 +1,15 @@
 <header
-  class="d-flex flex-row flex-md-row align-items-start pb-3 mb-5 border-bottom"
+  class="d-flex flex-column flex-md-column flex-sm-row align-items-center pb-3 mb-5 border-bottom"
 >
   <!-- Content Column: Title, Description, and University -->
   <div class="name">
-    <div class="content-column d-flex flex-column no-wrap mb-3 mb-md-0 me-md-3">
-      <a
-        href="{{ site.github.url }}/"
-        class="d-flex flex-column align-items-start text-decoration-none"
-      >
-        <span class="fs-4 fw-bold">{{ site.title }}</span>
+    <div
+      class="content-column d-flex flex-column align-items-center text-decoration-none"
+    >
+      <a href="{{ site.github.url }}/" class="title">
+        <h1>{{ site.title }}</h1>
       </a>
+      <span class="description">{{ site.data.profile.description }}</span>
     </div>
   </div>
 
