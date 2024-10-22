@@ -9,23 +9,15 @@ permalink: /
   <!-- Text Section -->
   <div class="col-md-6">
     <p> 
-      I am an assistant professor of political science at Virginia Commonwealth University in Richmond, Virginia, and an associate fellow at the Institute for Policy Studies in Washington, D.C. 
-      I previously served as the chief Latin America policy <a href="https://www.huffpost.com/entry/bernie-sanders-cuba-venezuela-socialist_n_5e557ef4c5b64c1d562103f0?fbclid=IwAR0KlTOPiRruzYsAhqp5UdMl-5K-WIM28LDu34uUVsCVaN-XKQ7Y9x0ZEcM">adviser</a> to the Bernie Sanders 2020 campaign.
+    The stability of democracies in Latin America affects us all, shaping the future of global governance, economic resilience, and social justice.My <a href="/scholarship">research</a> – published in <em>Comparative Migration Studies</em>, <em>Foreign Policy</em>, and several book chapters – dives into these issues, exploring the intersection of labor policy, political economy, migration, and social movements throughout the region, as well as how these issues unfold in the United States.
     </p>
     <p>
-      I have a Ph.D. in political science from Georgetown University. 
-      I was previously a postdoctoral fellow at the Center for the Study of Ethnicity,
-       Race, and Immigration at the University of Pennsylvania, and a contributor to the <a href="https://www.theguardian.com/profile/michael-paarlberg">Guardian</a>.
+      In addition to a robust research portfolio, I also work to make my scholarship impactful beyond academia, which is why I <a href="/opeds">regularly publish</a> in leading news outlets such as The Guardian, Washington Post, and regularly <a href="/media-coverage">offer interviews to journalists</a>.
+       Journalists are welcome to <a href="mailto:mapaarlberg@vcu.edu">email me</a> for interviews.
     </p>
     <p>
-      Please follow the links in the menu for more about my academic and policy publications, 
-      journalism, and teaching. You can find my CV <a href="/cv">here</a>.
-    </p>
-    <p>
-      If you are a journalist and searching for a Latin American expert.
-    </p>
-    <p>
-      <a href="mailto:" class="btn btn-contact">Contact Me</a>
+      Please follow the links in the menu for more about my academic and policy publications,
+      journalism, and teaching.
     </p>
   </div>
 

@@ -25,7 +25,7 @@ social_media:
     }
   - {
       name: "email",
-      url: "test@gmail.com",
+      url: "mapaarlberg@vcu.edu",
       icon: "/assets/img/icons/email.png",
     }
 
