@@ -1,6 +1,6 @@
 menu:
   - { name: "Home", url: "/" }
-  - { name: "Media Coverage", url: "/media-coverage" }
-  - { name: "Teaching", url: "/teaching" }
   - { name: "Scholarship", url: "/scholarship" }
   - { name: "Op-eds", url: "/opeds" }
+  - { name: "Media Coverage", url: "/media-coverage" }
+  - { name: "Teaching", url: "/teaching" }

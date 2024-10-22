@@ -25,7 +25,7 @@ Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspo
 
 Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). _MPI_.
 
-Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Criminal Rackets?](https://foreignpolicy.com/2021/08/03/us-mexico-latin-america-lopez-obrador-cienfuegos-cartels-corruption-crime-drugs-congress-migration-root-causes-leahy/). _Foreign Policy_.
+Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Criminal Rackets?](https://foreignpolicy.com/2021/08/03/us-mexico-latin-america-lopez-obrador-cienfuegos-cartels-corruption-crime-drugs-congress-migration-root-causes-leahy/) _Foreign Policy_.
 
 ## 2020
 
