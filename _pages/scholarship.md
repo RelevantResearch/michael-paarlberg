@@ -6,8 +6,7 @@ permalink: /scholarship/
 
 # Research Statement
 
-I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals Comparative Politics, Comparative Migration Studies, Journal of Ethnic and Migration Studies, Urban Affairs Review, Representation and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving
-Latin American security issues.
+I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals *Comparative Politics*, *Comparative Migration Studies*, *Journal of Ethnic and Migration Studies*, *Urban Affairs Review*, *Representation* and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues.
 
 You can find my CV <a href="/cv">here</a>.
 
@@ -15,7 +14,7 @@ You can find my CV <a href="/cv">here</a>.
 
 ## 2022
 
-Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf).)
+Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)).
 
 Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/). _Foreign Policy_.
 
@@ -45,9 +44,7 @@ Paarlberg, M. (2018) [Mexico's Diaspora Electorate](https://www.wilsoncenter.org
 
 ## 2017
 
-Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422.
-Data set for the research
-[Download (>50MB)](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
+Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422. Download the data set for this research [here, at about 50 MB](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 
 Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
 
@@ -57,16 +54,14 @@ Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=
 
 ## 2015
 
-Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf) _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
+Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf) _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz).
 
 ## 2014 and older
 
-Paarlberg, M. (2009) [Labor policy in new democracies\* (Master's thesis). Georgetown University, Washington, DC.](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1)
+Paarlberg, M. (2009) [Labor policy in new democracies\* (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
 
-Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_.
-_Coverage:_ [See coverage in The Washington Post: Joe Davidson's Federal Diary, Dec. 10, 2008.](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh)
+Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in *The Washington Post*: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
 # Work in progress
 
-My current book project is on drivers of migration and diaspora politics in Mexico, El Salvador,
-and the Dominican Republic.
+My current book project focuses on drivers of migration and diaspora politics in Mexico, El Salvador, and the Dominican Republic.
