@@ -58,7 +58,7 @@ Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredic
 
 ## 2014 and older
 
-Paarlberg, M. (2009) [Labor policy in new democracies\* (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
+Paarlberg, M. (2009) [Labor policy in new democracies (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
 
 Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in *The Washington Post*: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
