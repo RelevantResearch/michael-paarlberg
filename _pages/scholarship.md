@@ -57,7 +57,7 @@ Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=
 
 ## 2015
 
-Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf)_Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
+Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf) _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz)
 
 ## 2014 and older
 
