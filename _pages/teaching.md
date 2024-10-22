@@ -26,6 +26,8 @@ A discussion seminar of the contemporary politics of Latin America and the Carib
 
 A discussion seminar looking at migration in a comparative and global context, grounded in the US but examining immigration rules, migration issues, and diaspora communities in countries around the world. This course draws on different countries' experiences with migration including with issues of citizenship, borders, asylum and refugees, immigration law enforcement, remittances, climate migration, visas, and the agency of migrants themselves as political actors.
 
+I was honored to be invited by the Political Science Club to speak during Latinx Heritage Month in 2021. My presentation titled “El Salvador: Democratic Challenges in an Emerging One-Party State” was recorded and is available online below. This talk showcases my work on the challenges facing Latin American democracies as well as my commitment to supporting students on campus.
+
 <div class="video-container">
   <iframe 
     src="https://www.youtube.com/embed/4ksDeU5OOiY" 

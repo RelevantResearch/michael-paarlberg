@@ -18,14 +18,8 @@ permalink: /
        Race, and Immigration at the University of Pennsylvania, and a contributor to the <a href="https://www.theguardian.com/profile/michael-paarlberg">Guardian</a>.
     </p>
     <p>
-      Please follow the links in the menu for more about my academic and policy publications, 
-      journalism, and teaching. You can find my CV <a href="/cv">here</a>.
-    </p>
-    <p>
-      If you are a journalist and searching for a Latin American expert.
-    </p>
-    <p>
-      <a href="mailto:" class="btn btn-contact">Contact Me</a>
+      Please follow the links in the menu for more about my academic and policy publications,
+      journalism, and teaching.
     </p>
   </div>
 
