@@ -4,7 +4,7 @@ title: Op-eds
 permalink: /opeds/
 ---
 
-Articles in leading news outlets such as the _Washington Post_ and _The Guardian_.
+One key way that I connect my research to a broad audience and seek to shape public discourse about Latin America is through op-ed articles published in leading news outlets. The list of articles below – combined with my [academic publications](https://michael.relevant-research.com/scholarship/) and my frequent [interviews with journalists](https://michael.relevant-research.com/media-coverage/) – reflects my broader hope that my work will benefit society.
 
 ## 2022
 
