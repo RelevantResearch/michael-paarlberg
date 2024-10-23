@@ -9,6 +9,9 @@ content_render: false
 
 Drawing on my background as a former reporter, I frequently collaborate with national and international media to share my findings. My work has been featured in outlets such as _Forbes_, _The New York Times_, _CNN_, _Insight Crime_, and _Bloomberg_, among others. You can also visit my [op-eds page](https://michael.relevant-research.com/opeds/) for articles I have authored, many of which have appeared in these same outlets.
 
+|----------------|----------------|----------------|
+| ![](assets/img/media_logos/cnn.png)  | ![](assets/img/media_logos/univision.png)  | ![](assets/img/media_logos/forbes.png)  |
+
 <!-- -------------------------------------------------------- -->
 <!-- section for logo  -->
 
