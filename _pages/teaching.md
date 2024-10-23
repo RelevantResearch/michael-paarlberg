@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: teaching
 title: Teaching
 permalink: /teaching/
+link: https://www.youtube.com/embed/4ksDeU5OOiY
 ---
 
 # Teaching
@@ -30,30 +31,3 @@ A discussion seminar looking at migration in a comparative and global context, g
 
 I was honored to be invited by the Political Science Club to speak during Latinx Heritage Month in 2021. My presentation titled “El Salvador: Democratic Challenges in an Emerging One-Party State” was recorded and is available online below. This talk showcases my work on the challenges facing Latin American democracies as well as my commitment to supporting students on campus.
 
-<div class="video-container">
-  <iframe 
-    src="https://www.youtube.com/embed/4ksDeU5OOiY" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
-
-<style>
-  .video-container {
-    position: relative;
-    width: 100%;
-    padding-bottom: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 = 0.5625) */
-    height: 0;
-    overflow: hidden;
-  }
-
-  .video-container iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: 0;
-  }
-</style>
