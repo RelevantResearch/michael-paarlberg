@@ -1,18 +1,6 @@
 <header
   class="d-flex flex-column flex-md-column flex-sm-row align-items-center pb-3 mb-5 border-bottom"
 >
-  <!-- Content Column: Title, Description, and University -->
-  <div class="name">
-    <div
-      class="content-column d-flex flex-column align-items-center text-decoration-none"
-    >
-      <a href="{{ site.github.url }}/" class="title">
-        <h1>{{ site.title }}</h1>
-      </a>
-      <span class="description">{{ site.data.profile.description }}</span>
-    </div>
-  </div>
-
   <!-- Hamburger Menu (Checkbox) for small screens -->
   <input type="checkbox" id="menu-toggle" />
   <label for="menu-toggle" class="hamburger">
@@ -35,6 +23,17 @@
       {% endfor %}
     </ul>
   </nav>
+  <!-- Content Column: Title, Description, and University -->
+  <div class="name">
+    <div
+      class="content-column d-flex flex-column align-items-center text-decoration-none"
+    >
+      <a href="{{ site.github.url }}/" class="title">
+        <h1>{{ site.title }}</h1>
+      </a>
+      <span class="description">{{ site.data.profile.description }}</span>
+    </div>
+  </div>
 
   <!-- Standard Nav Bar for larger screens -->
   <nav class="nav-bar d-none d-md-flex">
