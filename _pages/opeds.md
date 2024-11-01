@@ -10,6 +10,8 @@ One key way that I connect my research to a broad audience and seek to shape pub
 
 Paarlberg, M. (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/). _Washington Post_.
 
+Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washington](https://foreignpolicy.com/2022/11/10/latin-america-left-pink-tide-lula-bolsonaro-brazil-election-biden/). _Foreign Policy_.
+
 Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on Bitcoin](https://slate.com/technology/2022/05/el-salvador-bitcoin-crash-nayib-bukele.html). _Slate_.
 
 Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Salvador_.
@@ -17,6 +19,8 @@ Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.
 ## 2021
 
 Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador could make or break Biden’s Central America policy](https://www.washingtonpost.com/outlook/2021/02/25/el-salvador-elections-biden/). _Washington Post_.
+
+Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Criminal Rackets?](https://foreignpolicy.com/2021/08/03/us-mexico-latin-america-lopez-obrador-cienfuegos-cartels-corruption-crime-drugs-congress-migration-root-causes-leahy/) _Foreign Policy_.
 
 ## 2020
 
