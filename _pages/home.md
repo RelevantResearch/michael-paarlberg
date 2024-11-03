@@ -58,6 +58,8 @@ You can find my CV <a href="/cv">here</a>.
 
 ### Academic Publications
 
+{% include section-publications.html %}
+
 Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)).
 
 Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim.
@@ -141,6 +143,8 @@ Paarlberg M. (2012) [Can the company fire you for the way you vote?](http://www.
 Paarlberg, M. (2010) [On moral hazard and unemployment](http://www.theguardian.com/commentisfree/cifamerica/2010/aug/06/jobless-benefit-unemployment-insurance). _The Guardian_.
 
 # Media Coverage
+
+{% include section-media.html %}
 
 Drawing on my background as a former reporter, I frequently collaborate with national and international media to share my findings. My work has been featured in outlets such as _Forbes_, _The New York Times_, _CNN_, _Insight Crime_, and _Bloomberg_, among others. You can also visit my [op-eds page](https://michael.relevant-research.com/opeds/) for articles I have authored, many of which have appeared in these same outlets.
 
