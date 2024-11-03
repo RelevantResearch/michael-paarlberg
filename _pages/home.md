@@ -80,11 +80,11 @@ Paarlberg, M. (2019). [How a Fake Gang Crisis in the US Helps Fuel a Real One in
 
 Paarlberg, M. (2018) [Mexico's Diaspora Electorate](https://www.wilsoncenter.org/article/mexicos-diaspora-electorate). _Wilson Center_.
 
-Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
+Paarlberg, M. and Hafiz, S. (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
 
-Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf) _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz).
+Paarlberg, M., Schwartz, A., Wasser, M., and Gillard, M. (2015) [Unpredictable, Unsustainable: The Impact of Employers’ Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf) _Coverage:_ [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz).
 
-Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in *The Washington Post*: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
+Paarlberg, M., Madland, D. (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in *The Washington Post*: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
 ### Work in progress
 
@@ -110,7 +110,7 @@ Paarlberg, M. (2020). [El Salvador’s president sent troops to occupy the legis
 
 Paarlberg, M. (2019). [It’s not just a ‘coup’: Bolivia’s democracy is in meltdown](https://www.washingtonpost.com/outlook/2019/11/13/its-not-just-coup-bolivias-democracy-is-meltdown/). _Washington Post_.
 
-Paarlberg, M. and Teófilo Reyes (2018) [Paying tipped workers better wouldn’t lead to fewer restaurant jobs](https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/paying-tipped-workers-better-wouldnt-lead-to-fewer-restaurant-jobs/?utm_term=.d61e78aba799). _Washington Post_.
+Paarlberg, M. and Reyes, Teófilo. (2018) [Paying tipped workers better wouldn’t lead to fewer restaurant jobs](https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/paying-tipped-workers-better-wouldnt-lead-to-fewer-restaurant-jobs/?utm_term=.d61e78aba799). _Washington Post_.
 
 Paarlberg, M. (2018) [Cómo se corteja el voto de la diáspora salvadoreña](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm). _Elfaro_.
 
@@ -172,7 +172,7 @@ Carmen Rodriguez. (2022, July 21). [¿Cómo afectará la inflación al envío de
 
 Al Jazeera English. (2022, June 8). [How is a ‘state of exception’ changing El Salvador?](https://www.youtube.com/watch?v=2o5VApD_dKU&t=569s) _Al Jazeera_.
 
-(2022, May 18). [Chaos Rules: Michael Paarlberg on diaspora communities, the Northern Triangle, and optics](https://franknewsus.substack.com/p/chaos-rules?s=r). _Frank news_.
+Staff Writer. (2022, May 18). [Chaos Rules: Michael Paarlberg on diaspora communities, the Northern Triangle, and optics](https://franknewsus.substack.com/p/chaos-rules?s=r). _Frank News_.
 
 Fernanda Echavarri. (2022, April 14). [The 10,000 Ukrainians Just Processed at the Border Show the US Government Can Do Better](https://www.motherjones.com/mojo-wire/2022/04/ukrainians-processed-us-mexico-border/). _Mother Jones_.
 
@@ -256,7 +256,7 @@ An intro-level overview of the fundamental concepts of the political science sub
 
 #### Research Methods (POLI 320)
 
-An upper level survey of social science research methods and statistics with an emphasis on skill building, this course teaches the foundations of causal inference and a variety of quantitative research skills including regression analysis, data visualization, and web scraping of APIs, using the coding language R.
+An upper-level survey of social science research methods and statistics with an emphasis on skill building, this course teaches the foundations of causal inference and a variety of quantitative research skills including regression analysis, data visualization, and web scraping of APIs, using the coding language R.
 
 #### Latin American Politics (POLI 353)
 
