@@ -92,9 +92,9 @@ Paarlberg, M., David Madland (2008) [Making Contracting Work for the United Stat
 
 My current book project focuses on drivers of migration and diaspora politics in Mexico, El Salvador, and the Dominican Republic.
 
-One key way that I connect my research to a broad audience and seek to shape public discourse about Latin America is through op-ed articles published in leading news outlets. The list of articles below – combined with my [academic publications](https://michael.relevant-research.com/scholarship/) and my frequent [interviews with journalists](https://michael.relevant-research.com/media-coverage/) – reflects my broader hope that my work will benefit society.
-
 # Op-Eds
+
+One key way that I connect my research to a broad audience and seek to shape public discourse about Latin America is through op-ed articles published in leading news outlets. The list of articles below – combined with my [academic publications](https://michael.relevant-research.com/scholarship/) and my frequent [interviews with journalists](https://michael.relevant-research.com/media-coverage/) – reflects my broader hope that my work will benefit society.
 
 Paarlberg, M. (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/). _Washington Post_.
 
