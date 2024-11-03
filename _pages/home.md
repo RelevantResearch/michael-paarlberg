@@ -48,6 +48,8 @@ permalink: /
 
 </div>
 
+# Scholarship
+
 ### Research Statement
 
 I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals *Comparative Politics*, *Comparative Migration Studies*, *Journal of Ethnic and Migration Studies*, *Urban Affairs Review*, *Representation* and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues.
@@ -92,7 +94,7 @@ My current book project focuses on drivers of migration and diaspora politics in
 
 One key way that I connect my research to a broad audience and seek to shape public discourse about Latin America is through op-ed articles published in leading news outlets. The list of articles below – combined with my [academic publications](https://michael.relevant-research.com/scholarship/) and my frequent [interviews with journalists](https://michael.relevant-research.com/media-coverage/) – reflects my broader hope that my work will benefit society.
 
-## Op-Eds
+# Op-Eds
 
 Paarlberg, M. (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/). _Washington Post_.
 
@@ -138,7 +140,7 @@ Paarlberg M. (2012) [Can the company fire you for the way you vote?](http://www.
 
 Paarlberg, M. (2010) [On moral hazard and unemployment](http://www.theguardian.com/commentisfree/cifamerica/2010/aug/06/jobless-benefit-unemployment-insurance). _The Guardian_.
 
-## Media Coverage
+# Media Coverage
 
 Drawing on my background as a former reporter, I frequently collaborate with national and international media to share my findings. My work has been featured in outlets such as _Forbes_, _The New York Times_, _CNN_, _Insight Crime_, and _Bloomberg_, among others. You can also visit my [op-eds page](https://michael.relevant-research.com/opeds/) for articles I have authored, many of which have appeared in these same outlets.
 
@@ -239,3 +241,27 @@ Jill Abramson, Steven W Thrasher, Michael Ahn Paarlberg, and Jamie Weinstein. (2
 Télam. (2017, January 20). [“El legado de Obama está en peligro”, advirtió el periodista estadounidense Paarlberg](https://www.youtube.com/watch?v=wcVZPlLmVVw). _Télam_.
 
 (2016, March 15). [La Cuba americana di Marco](https://www.rsi.ch/info/mondo/La-Cuba-americana-di-Marco--939959.html). _RSI_.
+
+# Teaching
+
+### Teaching Philosophy
+
+My approach to teaching is to make course material as relevant to students as possible, whether in a large introductory lecture class, discussion seminar, or methods skill-building course. I believe that a model emphasizing discussion and reflection over memorization offers the best opportunities for student participation and knowledge retention. Emphasizing that political science is political analysis, not political opinion, I train students in different analytical approaches and statistical methods In order to test popular assumptions about the world.
+
+### Courses
+
+#### Introduction to Comparative Politics (POLI 109)
+
+An intro-level overview of the fundamental concepts of the political science subfield of comparative politics: examining how political institutions and the exercise of power operate in different countries, using the scientific method. This course pays special attention to different models of governing regimes, economic development, identity, social welfare, and political violence.
+
+#### Research Methods (POLI 320)
+
+An upper level survey of social science research methods and statistics with an emphasis on skill building, this course teaches the foundations of causal inference and a variety of quantitative research skills including regression analysis, data visualization, and web scraping of APIs, using the coding language R.
+
+#### Latin American Politics (POLI 353)
+
+A discussion seminar of the contemporary politics of Latin America and the Caribbean, with a thematic focus on topical issues including democracy and authoritarianism, crime, corruption, and economics using case studies of Argentina, Bolivia, Brazil, Chile, Colombia, Cuba, the Dominican Republic, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, and Venezuela.
+
+#### Politics of Immigration (POLI 391)
+
+A discussion seminar looking at migration in a comparative and global context, grounded in the US but examining immigration rules, migration issues, and diaspora communities in countries around the world. This course draws on different countries' experiences with migration including with issues of citizenship, borders, asylum and refugees, immigration law enforcement, remittances, climate migration, visas, and the agency of migrants themselves as political actors.
