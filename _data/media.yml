@@ -1,8 +1,11 @@
 videos:
-  - title: "The Truth about Venezuela, w/ Michael Paarlberg and Maria Espinosa | Ep. 190"
-    src: "https://www.youtube.com/embed/nU7daT_-MeU"
-  - title: "Trump dijo muchas cosas contradictorias y otras imposibles, afirmó Paarlberg"
-    src: "https://www.youtube.com/embed/wClAU1dUsRQ"
+  - title: "The Truth about Venezuela"
+    src: "https://www.youtube.com/watch?v=nU7daT_-MeU"
+    thumbnail: "assets/img/videos/Screenshot 2024-11-04 at 12.58.14 PM.png"
+
+  - title: "What does El Salvador Want?"
+    src: "https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want"
+    thumbnail: "assets/img/videos/Screenshot 2024-11-04 at 1.15.03 PM.png"
 
 # changes edited because of the error
 
