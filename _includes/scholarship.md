@@ -1,6 +1,4 @@
-I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals _Comparative Politics_, _Comparative Migration Studies_, _Journal of Ethnic and Migration Studies_, _Urban Affairs Review_, _Representation_ and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues.
-
-You can find my CV <a href="/cv">here</a>.
+I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals _Comparative Politics_, _Comparative Migration Studies_, _Journal of Ethnic and Migration Studies_, _Urban Affairs Review_, _Representation_ and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues. You can find my CV <a href="/cv">here</a>.
 
 # Academic Publications
 
