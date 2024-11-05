@@ -179,6 +179,22 @@ input[type="checkbox"] {
   .nav-bar a {
     font-size: 0.9rem; /* Decrease font size further on small screens */
   }
+  .name h1 {
+    font-weight: bold;
+    font-size: 4rem; /* Default size for larger screens */
+    font-family: "Big Caslon", serif;
+    margin-bottom: 0.5rem;
+    transition: color 0.3s ease;
+    padding-left: 20px;
+  }
+  .description {
+    color: #212529;
+    font-size: 0.8rem;
+    margin-bottom: 0.5rem;
+    transition: color 0.3s ease;
+    padding-left: 20px;
+
+  }
   body {
     margin: 0; /* Ensure there's no default margin */
     padding-top: 16rem;
