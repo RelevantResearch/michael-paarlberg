@@ -2,13 +2,13 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 # Academic Publications
 
-Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)).
+<!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
 
-Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim.
+<!-- Included above. Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim. -->
 
 Paarlberg, M. (2020). [Hometown Associations and Parties as Vehicles for Mexican Electoral Campaigns in the US](https://www.tandfonline.com/doi/full/10.1080/00344893.2020.1856176). _Representation_, 59(3), 403-422.
 
-Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute.
+<!-- Included above. Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute. -->
 
 Paarlberg, M. (2019). "[Competing for the Diaspora's Influence at Home: A Case Study of El Salvador](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003191261-4/competing-diaspora-influence-home-party-structure-transnational-campaign-activity-el-salvador-michael-ahn-paarlberg)" in _The Microfoundations of Diaspora Politics_, edited by Alexandra Délano Alonso, and Harris Mylonas.
 
