@@ -14,6 +14,7 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ## 2024
 
+Yolanda Magaña. (2024, NoNovember 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 Mitú Daily. (2024, February 7). [What does El Salvador Want?](https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want) _Mitú Daily_.
 
 Marcelo Rochabrun. (2024, February 2). [A Brutal Crime Crackdown Is Emboldening Leaders Across Latin America](https://www.bloomberg.com/news/features/2024-02-02/el-salvador-election-bukele-seeks-second-term-on-popular-crime-policy?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwNjg5MDg0NywiZXhwIjoxNzA3NDk1NjQ3LCJhcnRpY2xlSWQiOiJTODdDMEdEV0xVNjgwMCIsImJjb25uZWN0SWQiOiI4RjAwQzE5NzhFODA0RkI3Qjk2QzIxODkwOEUxNTI1NCJ9.0CIGFkTppb98dYLPy3TfpvORcwWRonXDKtUIBXrlRmE). _Bloomberg_.
