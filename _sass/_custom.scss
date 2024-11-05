@@ -4,3 +4,13 @@
 @import "_contact";
 @import "_footer";
 @import "_logo";
+
+html {
+    scroll-padding-top: 80px; /* Match this to your header height */
+  }
+  
+  section {
+    padding-top: 15rem; /* Adjust based on your header's height */
+    margin-top: -80px; /* Negative margin to offset the added padding */
+  }
+  
