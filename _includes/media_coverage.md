@@ -8,6 +8,8 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 <!-- -------------------------------------------------------- -->
 <!-- section for logo  -->
 
+{% include section-media.html %}
+
 {% include logo.html %}
 
 <!-- ----------------------------------------------------------- -->

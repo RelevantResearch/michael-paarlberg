@@ -3,9 +3,8 @@
   {% include head.html %}
   <body>
     <div class="col-lg-8 mx-auto p-3 py-md-5">
-      {% include header.html %}
-      <div class="content">{{ content }}</div>
-      {% include footer.html %} {% include analytics.html %}
+      {% include header.html %} {{ content }} {% include footer.html %} {%
+      include analytics.html %}
     </div>
 
     <!-- Include script.html where the script loading condition applies -->
