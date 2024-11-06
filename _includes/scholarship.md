@@ -1,6 +1,6 @@
 I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals _Comparative Politics_, _Comparative Migration Studies_, _Journal of Ethnic and Migration Studies_, _Urban Affairs Review_, _Representation_ and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues. You can find my CV <a href="/cv">here</a>.
 
-# Academic Publications
+## Academic Publications
 
 {% include section-publications.html %}
 
@@ -20,7 +20,7 @@ Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=
 
 Paarlberg, M. (2009) [Labor policy in new democracies (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
 
-# Policy Reports
+## Policy Reports
 
 Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). _MPI_.
 
@@ -34,6 +34,6 @@ Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredic
 
 Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in _The Washington Post_: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
-# Work in progress
+## Work in progress
 
 My current book project focuses on drivers of migration and diaspora politics in Mexico, El Salvador, and the Dominican Republic.
