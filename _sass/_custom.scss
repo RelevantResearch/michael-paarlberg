@@ -13,4 +13,20 @@ html {
     padding-top: 8rem; /* Adjust based on your header's height */
     margin-top: -80px; /* Negative margin to offset the added padding */
   }
+ /* Medium screens (e.g., tablets) */
+ @media (max-width: 768px) {
+  section {
+    padding-top: 8rem; /* Adjust based on your header's height */
+    margin-top: -80px; /* Negative margin to offset the added padding */
+  }
+
+}
+
+/* Small screens (e.g., mobile phones) */
+@media (max-width: 480px) {
+  section {
+    padding-top: 10rem; /* Adjust based on your header's height */
+    margin-top: -80px; /* Negative margin to offset the added padding */
+  }
   
+}
