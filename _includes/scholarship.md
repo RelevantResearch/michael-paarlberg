@@ -1,5 +1,7 @@
 I am a scholar of the politics of migration and security, with a focus on Latin America. My research falls broadly in two categories: transnational political engagement by diaspora communities, and transnational crime. My scholarship has been published in the journals _Comparative Politics_, _Comparative Migration Studies_, _Journal of Ethnic and Migration Studies_, _Urban Affairs Review_, _Representation_ and in a number of edited volumes. My book manuscript is a comparative study on transnational electoral campaigning and voting within the diaspora electorates of the Dominican Republic, El Salvador, and Mexico. I also serve as an expert witness in immigration and asylum cases involving Latin American security issues. You can find my CV <a href="/cv">here</a>.
 
+{% include section-publications.html %}
+
 # Academic Publications
 
 <!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
