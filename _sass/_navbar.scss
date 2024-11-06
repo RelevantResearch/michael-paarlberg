@@ -36,7 +36,7 @@ body {
 
 .name h1 {
   font-weight: bold;
-  font-size: 4rem; /* Default size for larger screens */
+  font-size: 2rem; /* Default size for larger screens */
   font-family: "Big Caslon", serif;
   margin-bottom: 0.5rem;
   transition: color 0.3s ease;
@@ -180,7 +180,7 @@ input[type="checkbox"] {
   }
   .name h1 {
     font-weight: bold;
-    font-size: 4rem; /* Default size for larger screens */
+    font-size: 2rem; /* Default size for larger screens */
     font-family: "Big Caslon", serif;
     margin-bottom: 0.5rem;
     transition: color 0.3s ease;
@@ -188,14 +188,11 @@ input[type="checkbox"] {
   }
   .description {
     color: #212529;
-    font-size: 0.8rem;
+    font-size: 0.6rem;
     margin-bottom: 0.5rem;
     transition: color 0.3s ease;
     padding-left: 20px;
 
   }
-  body {
-    margin: 0; /* Ensure there's no default margin */
-    padding-top: 16rem;
-  }
+ 
 }

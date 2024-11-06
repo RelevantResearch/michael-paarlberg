@@ -8,25 +8,42 @@
 html {
     scroll-padding-top: 80px; /* Match this to your header height */
   }
-  
-  section {
-    padding-top: 8rem; /* Adjust based on your header's height */
-    margin-top: -80px; /* Negative margin to offset the added padding */
+  section{
+    padding-top: 4rem;
   }
- /* Medium screens (e.g., tablets) */
- @media (max-width: 768px) {
-  section {
-    padding-top: 8rem; /* Adjust based on your header's height */
-    margin-top: -80px; /* Negative margin to offset the added padding */
+  #home{
+    padding-top: 5rem !important;
   }
+
+
+  @media (min-width: 993px) {
+    section{
+      padding-top: 4rem;
+    }
+    #home{
+      padding-top: 5rem !important;
+    }
 
 }
 
-/* Small screens (e.g., mobile phones) */
-@media (max-width: 480px) {
-  section {
-    padding-top: 10rem; /* Adjust based on your header's height */
-    margin-top: -80px; /* Negative margin to offset the added padding */
+/* Responsive Styles */
+@media (max-width: 768px) {
+  section{
+    padding-top: 5rem;
+  }
+  #home{
+    padding-top: 6rem !important;
   }
   
+}
+
+@media (max-width: 480px) {
+  section{
+    padding-top: 2rem;
+  }
+  #home{
+    padding-top: 1rem !important;
+  }
+  
+ 
 }
