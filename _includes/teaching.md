@@ -1,6 +1,6 @@
 My approach to teaching is to make course material as relevant to students as possible, whether in a large introductory lecture class, discussion seminar, or methods skill-building course. I believe that a model emphasizing discussion and reflection over memorization offers the best opportunities for student participation and knowledge retention. Emphasizing that political science is political analysis, not political opinion, I train students in different analytical approaches and statistical methods In order to test popular assumptions about the world.
 
-# Courses
+## Courses
 
 #### Introduction to Comparative Politics (POLI 109)
 
