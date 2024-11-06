@@ -14,7 +14,7 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 <!-- ----------------------------------------------------------- -->
 
-## 2024
+### 2024
 
 Yolanda Magaña. (2024, NoNovember 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 
@@ -26,7 +26,7 @@ Denni Portillo. (2024, February 1). [Catorce congresistas estadounidenses preocu
 
 Carin Zissis and Chase Harrison. (2024, January 25). [LatAm in Focus: Online Reach and Expat Votes in El Salvador's Election](https://www.as-coa.org/articles/latam-focus-online-reach-and-expat-votes-el-salvadors-election). _AS/COA_.
 
-## 2023
+### 2023
 
 Elias Ferrer. (2023, September 27). [Tide Turns To Favour Venezuela Economic Sanctions Relief](https://www.forbes.com/sites/eliasferrerbreda/2023/09/27/tide-turns-to-favour-venezuela-economic-sanctions-relief/?sh=505f260b3e13). _Forbes_.
 
@@ -38,7 +38,7 @@ Tibisay Zea. (2023, February 8). [Lula and Biden will meet in Washington](https:
 
 Tibisay Zea. (2023, February 1). [The new ‘pink tide’ in Latin America: Is it an opportunity or a threat to the US?](https://theworld.org/segments/2024/04/04/the-new-pink-tide-in-latin-america-is-it-an-opportunity-or-a-threat-to-the-us) _The World_.
 
-## 2022
+### 2022
 
 KBS 세계는지금. (2022, October 8). [엘살바도르 갱단과의 전쟁, 그 이면의 진실](https://www.youtube.com/watch?v=cyBe3YHkMM8). _KBS World Report_.
 
@@ -54,7 +54,7 @@ Fernanda Echavarri. (2022, April 14). [The 10,000 Ukrainians Just Processed at t
 
 (2022, February 16). [Gangsters Movie Night 4 Hands Of Stone](https://podcasts.apple.com/us/podcast/gangsters-movie-night-4-hands-of-stone/id1471812321?i=1000551213690). _The Racket_.
 
-## 2021
+### 2021
 
 Zeeshan Aleem. (2021, December 31). [Why Kamala Harris' cozy relationship with corporations is worrying](https://www.msnbc.com/opinion/why-kamala-harris-cozy-relationship-corporations-worrying-n1286780). _MSNBC_.
 
@@ -88,13 +88,13 @@ Ricardo Valencia. (2021, February 10). [Los congresistas que envían cartas a Bu
 
 Sebastian Fest. (2021, January 9). [Qué piensa Juan González, el hombre de Biden para América Latina, sobre Maduro, el muro con México y la relación con Argentina, Brasil y Colombia](https://www.infobae.com/america/eeuu/2021/01/09/que-piensa-juan-gonzalez-el-hombre-de-biden-para-america-latina-sobre-maduro-el-muro-con-mexico-y-la-relacion-con-argentina-brasil-y-colombia/). _Infobae_.
 
-## 2020
+### 2020
 
 Guena Rod. (2020, September 15). [Interview with Michael Paarlberg](https://www.facebook.com/story.php?story_fbid=10221315872319678&id=1634002351&_rdr). _Facebook_.
 
 Travis Waldron. (2020, March 17). [Bernie’s Approach To Latin America’s Socialist Leaders Wouldn’t Be That Radical](https://www.huffpost.com/entry/bernie-sanders-cuba-venezuela-socialist_n_5e557ef4c5b64c1d562103f0?fbclid=IwAR0KlTOPiRruzYsAhqp5UdMl-5K-WIM28LDu34uUVsCVaN-XKQ7Y9x0ZEcM). _Huff Post_.
 
-## 2019 and older
+### 2019 and older
 
 Kirk Semple. (2019, September 25). [Migration Likely to Top Agenda When Trump Meets El Salvador’s Bukele](https://web.archive.org/web/20190925091134/https://www.nytimes.com/2019/09/25/world/americas/trump-salvador-migration.html). _New York Times_.
 
