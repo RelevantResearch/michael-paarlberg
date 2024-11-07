@@ -2,18 +2,24 @@
 
 <section id="scholarship">
   <h1>Scholarship</h1>
+  {% capture scholarship_content %} {% include scholarship.md %} {% endcapture
+  %} {{ scholarship_content | markdownify }}
 </section>
-{% include scholarship.md %}
 
 <section id="opeds">
   <h1>Op-Eds</h1>
+  {% capture opeds_content %} {% include opeds.md %} {% endcapture %} {{
+  opeds_content | markdownify }}
 </section>
-{% include opeds.md%}
 
-<section id="media-coverage"><h1>Media Coverage</h1></section>
-{% include media_coverage.md%}
+<section id="media-coverage">
+  <h1>Media Coverage</h1>
+  {% capture media_content %} {% include media_coverage.md %} {% endcapture %}
+  {{ media_content | markdownify }}
+</section>
 
 <section id="teaching">
   <h1>Teaching</h1>
+  {% capture teaching_content %} {% include teaching.md %} {% endcapture %} {{
+  teaching_content | markdownify }}
 </section>
-{% include teaching.md%}

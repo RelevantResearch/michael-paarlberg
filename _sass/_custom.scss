@@ -11,35 +11,10 @@ html {
   section{
     padding-top: 4rem;
   }
-  #home{
-    padding-top: 5rem !important;
-  }
-
-
-  @media (min-width: 993px) {
-    section{
-      padding-top: 4rem;
-    }
-    #home{
-      padding-top: 5rem !important;
-    }
-
-}
-
-/* Responsive Styles */
-@media (max-width: 768px) {
-  section{
-    padding-top: 5rem;
-  }
-  #home{
-    padding-top: 6rem !important;
-  }
-  
-}
 
 @media (max-width: 480px) {
   section{
-    padding-top: 2rem;
+    padding-top: 0.5rem;
   }
   #home{
     padding-top: 1rem !important;
