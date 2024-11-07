@@ -75,8 +75,8 @@ body {
 /* Hamburger styles */
 .hamburger {
   display: none;
-  width: 30px;
-  height: 25px;
+  width: 15px;
+  height: 1opx;
   flex-direction: column;
   justify-content: space-between;
   cursor: pointer;
@@ -203,6 +203,9 @@ input[type="checkbox"] {
 @media (max-width: 480px) {
   .nav-bar a {
     font-size: 0.9rem; /* Smaller font size for even smaller screens */
+  }
+  .hamburger{
+    display: flex;
   }
 
   .name h1 {
