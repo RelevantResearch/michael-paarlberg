@@ -5,3 +5,24 @@
 @import "_footer";
 @import "_logo";
 
+
+.division{
+  padding-top: 10rem;
+}
+.division section {
+  padding: 20px 0; /* Adds padding at the top and bottom of each section */
+  border-bottom: 1px solid #ccc; /* Adds a light gray line under each section */
+}
+
+.division section:last-of-type {
+  border-bottom: none; /* Removes the line after the last section */
+}
+
+@media (max-width: 480px) {
+  .division{
+    padding-left: 9px;
+    padding-top: 7rem;
+  }
+  
+}
+
