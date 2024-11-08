@@ -11,6 +11,7 @@ html {
 }
 .division{
   padding-left: 1rem;
+
 }
 
 .division section {
@@ -22,9 +23,11 @@ html {
   border-bottom: none; /* Removes the line after the last section */
 }
 
+
 @media (max-width: 480px) {
   html {
     scroll-behavior: smooth;  /* Smooth scroll behavior */
     scroll-padding-top: 6rem;  /* Set the scroll offset to 80px */
   }
 }
+
