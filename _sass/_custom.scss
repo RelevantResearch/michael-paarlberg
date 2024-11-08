@@ -7,10 +7,10 @@
 
 html {
   scroll-behavior: smooth;  /* Smooth scroll behavior */
-  scroll-padding-top: 10rem;  /* Set the scroll offset to 80px */
+  scroll-padding-top: 8rem;  /* Set the scroll offset to 80px */
 }
 .division{
-  padding-left: 5px;
+  padding-left: 10px;
 }
 
 .division section {
@@ -20,4 +20,11 @@ html {
 
 .division section:last-of-type {
   border-bottom: none; /* Removes the line after the last section */
+}
+
+@media (max-width: 480px) {
+  html {
+    scroll-behavior: smooth;  /* Smooth scroll behavior */
+    scroll-padding-top: 6rem;  /* Set the scroll offset to 80px */
+  }
 }
