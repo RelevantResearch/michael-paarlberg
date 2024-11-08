@@ -5,35 +5,5 @@
 @import "_footer";
 @import "_logo";
 
-html {
-  scroll-behavior: smooth;  /* Smooth scroll behavior */
-  scroll-padding-top: 8rem;  /* Set the scroll offset to 80px */
-}
-.division{
-  margin-top: 10rem;
-  padding-left: 1rem;
 
-}
-
-.division section {
-  padding: 20px 0; /* Adds padding at the top and bottom of each section */
-  border-bottom: 1px solid #ccc; /* Adds a light gray line under each section */
-}
-
-.division section:last-of-type {
-  border-bottom: none; /* Removes the line after the last section */
-}
-
-
-@media (max-width: 480px) {
-  html {
-    scroll-behavior: smooth;  /* Smooth scroll behavior */
-    scroll-padding-top: 6rem;  /* Set the scroll offset to 80px */
-  }
-  .division{
-    margin-top: 7rem;
-    padding-left: 1rem;
-  
-  }
-}
 
