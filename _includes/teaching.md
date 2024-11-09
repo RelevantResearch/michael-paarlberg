@@ -18,6 +18,6 @@ A discussion seminar of the contemporary politics of Latin America and the Carib
 
 A discussion seminar looking at migration in a comparative and global context, grounded in the US but examining immigration rules, migration issues, and diaspora communities in countries around the world. This course draws on different countries' experiences with migration including with issues of citizenship, borders, asylum and refugees, immigration law enforcement, remittances, climate migration, visas, and the agency of migrants themselves as political actors.
 
-<div class="center-image">
-    <img src="{{ '/assets/img/teach1.jpeg' | relative_url }}" alt="Public Lecture in Chile">
+<div style="text-align: center;">
+    <img src="/assets/img/teach1.jpeg" alt="Public Lecture in Chile" style="width: 50%; height: auto;">
 </div>
