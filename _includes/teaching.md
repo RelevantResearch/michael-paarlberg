@@ -20,6 +20,4 @@ A discussion seminar looking at migration in a comparative and global context, g
 
 ## Public Lectures in Chile
 
-<div style="text-align: center;">
-    <img src="/assets/img/teach3.jpeg" alt="Public Lecture in Chile" style="width: 100%; height: auto;">
-</div>
+{% include section-teaching.html %}
