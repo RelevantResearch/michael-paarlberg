@@ -10,6 +10,8 @@ Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washing
 
 Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on Bitcoin](https://slate.com/technology/2022/05/el-salvador-bitcoin-crash-nayib-bukele.html). _Slate_.
 
+Paarlberg, M. (2022). [The Emerging Gang State in El Salvador](https://globalamericans.org/the-emerging-gang-state-in-el-salvador/). *Global Americans*.
+
 Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Salvador_.
 
 Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador could make or break Biden’s Central America policy](https://www.washingtonpost.com/outlook/2021/02/25/el-salvador-elections-biden/). _Washington Post_.
