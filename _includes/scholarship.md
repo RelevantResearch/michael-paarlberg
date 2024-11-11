@@ -8,6 +8,8 @@ Paarlberg, M. (2024). "Central America's Maras: A Negative Case of DTO Evolution
 
 O’Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). "[Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786).” with  *Urban Affairs Review, 60*(1), 49-72.
 
+Paarlberg, M.. (2022). "[Migration and Democracy: How Remittances Undermine Dictatorships](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/migration-and-democracy-how-remittances-undermine-dictatorships-by-abel-escribafolch-covadonga-meseguer-and-joseph-wright-princeton-princeton-university-press-2022-299-pp-2995-cloth/6311AA1F1EAC5DD2989DA225EBA7A7DB)." (Book review.) *Journal of Race, Ethnicity and Politics*.
+
 <!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
 
 <!-- Included above. Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim. -->
@@ -43,4 +45,4 @@ Paarlberg, M., David Madland (2008) [Making Contracting Work for the United Stat
 
 ## Work in progress
 
-My current book project focuses on drivers of migration and diaspora politics in Mexico, El Salvador, and the Dominican Republic.
+Paarlberg, M. (In progress.) "Diaspora Democracy: Migrants, Parties, and Transnational Elections from Latin America to the U.S." Under revise & resubmit with Oxford University Press.
