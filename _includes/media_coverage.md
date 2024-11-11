@@ -16,7 +16,11 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ### 2024
 
-Yolanda Magaña. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
+Magaña, Yolanda. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
+
+Décima, Juan. (2024, November 2). "[Milei is all in for Trump. Is that a sound bet?](https://buenosairesherald.com/world/international-relations/milei-is-all-in-for-trump-is-that-a-sound-bet)." *Buenos Aires Herald*.
+
+Offereins, Addie. (2024, September 17). [Venezuelan street gang terrorizing U.S. migrant communities](https://wng.org/roundups/venezuelan-street-gang-terrorizing-u-s-migrant-communities-1726600020?fbclid=PAZXh0bgNhZW0CMTEAAabCkobfNqaVU58HfQ8l-OSbgQuYfz1L8rQw2RRg8oLOxu2MegfrsDQeiyw_aem_BZxMul748r8abnv671g86Q). *WNG*.
 
 Padgett, Tim. (2024, September 6). "[Is Venezuela Changing How the Left Responds to the Dictatorial Left?](https://www.miamiherald.com/opinion/article292035840.html)" *WLRN*.
 
