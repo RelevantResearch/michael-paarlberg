@@ -16,7 +16,15 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ### 2024
 
-Yolanda Magaña. (2024, NoNovember 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
+Yolanda Magaña. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
+
+Padgett, Tim. (2024, September 6). "[Is Venezuela Changing How the Left Responds to the Dictatorial Left?](https://www.miamiherald.com/opinion/article292035840.html)" *WLRN*.
+
+Granger, Max. (2024, August 25). "[Is Nicaragua's Dictatorship Nearing Its End?](https://foreignpolicy.com/2024/08/25/nicaragua-ortega-murillo-dictatorship-fsln-repression/)" *Foreign Policy*.
+
+Azcoiti, Javier Biosca. (2024, August 6). [Michael Paarlberg, exasesor de Sanders para América Latina: “El Gobierno de Maduro es un lastre para la izquierda](https://www.eldiario.es/internacional/michael-paarlberg-exasesor-sanders-america-latina-gobierno-maduro-lastre-izquierda_128_11574306.html)” *El Diario*.
+
+Stein, Jeff and Cocco, Federica (2024, July 25). "[How Four U.S. Presidents Unleashed Economic Warfare Across the Globe](https://www.washingtonpost.com/business/interactive/2024/us-sanction-countries-work/)." *Washington Post*. 
 
 Mitú Daily. (2024, February 7). [What does El Salvador Want?](https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want) _Mitú Daily_.
 
