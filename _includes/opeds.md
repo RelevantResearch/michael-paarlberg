@@ -18,13 +18,23 @@ Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador coul
 
 Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Criminal Rackets?](https://foreignpolicy.com/2021/08/03/us-mexico-latin-america-lopez-obrador-cienfuegos-cartels-corruption-crime-drugs-congress-migration-root-causes-leahy/) _Foreign Policy_.
 
+Paarlberg, M. (2021). "[The US Approach to El Salvador's Authoritarianism Must Be Bold](https://www.univision.com/univision-news/opinion/opinion-the-us-approach-to-authoritarianism-in-el-salvador-must-be-bold)." *Univision*.
+
 Paarlberg, M. (2020). [El Salvador’s president sent troops to occupy the legislature. Here’s what’s going on](https://www.washingtonpost.com/politics/2020/02/17/el-salvadors-president-sent-troops-occupy-legislature-heres-whats-going/). _Washington Post_.
+
+Paarlberg, M. (2020). "China was already winning over the US's neighbors. Trump's COVID-19 response just makes Beijing's job easier." *Business Insider*.
+
+Paarlberg, M. (2020). "EEUU, una presidencia pandémica en un año de elecciones." Barcelona Centre for International Affairs Anuario Internacional.
 
 Paarlberg, M. (2019). [It’s not just a ‘coup’: Bolivia’s democracy is in meltdown](https://www.washingtonpost.com/outlook/2019/11/13/its-not-just-coup-bolivias-democracy-is-meltdown/). _Washington Post_.
 
 Paarlberg, M. and Teófilo Reyes (2018) [Paying tipped workers better wouldn’t lead to fewer restaurant jobs](https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/paying-tipped-workers-better-wouldnt-lead-to-fewer-restaurant-jobs/?utm_term=.d61e78aba799). _Washington Post_.
 
-Paarlberg, M. (2018) [Cómo se corteja el voto de la diáspora salvadoreña](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm). _Elfaro_.
+Paarlberg, M. (2018). "Agricultural Cooperatives: Opportunities and Challenges for African American Women in the South." Institute for Policy Studies.
+
+Paarlberg, M, and Reyes, T. "[New York's Experience after the Tipped Minimum Wage Increase](https://inequality.org/wp-content/uploads/2018/11/New-York-tipped-minimum-policy-brief-Oct-2018.pdf)." Institute for Policy Studies and Restaurant Opportunities Centers United.
+
+Paarlberg, M. (2018) [Cómo se corteja el voto de la diáspora salvadoreña](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm). _El Faro_.
 
 Paarlberg, M. (2017) [Don’t believe the Trump administration: MS-13 is not ravaging the United States](https://www.washingtonpost.com/news/posteverything/wp/2017/10/11/dont-believe-the-trump-administration-ms-13-is-not-ravaging-the-united-states/). _Washington Post_
 
