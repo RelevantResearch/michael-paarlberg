@@ -4,6 +4,8 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 {% include section-publications.html %}
 
+Paarlberg, M. (2024). "Central America's Maras: A Negative Case of DTO Evolution." Forthcoming in Cutrona, Sebastian and Rosen, Jonathan, eds. *Cocaine: Criminals, Routes, and Markets*. University of New Mexico Press.
+
 O’Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). "[Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786).” with  *Urban Affairs Review, 60*(1), 49-72.
 
 <!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
@@ -21,7 +23,7 @@ Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electora
 - Download the data set for this research [here, at about 50 MB](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 - Honorable mention, best journal article, American Political Science Association Migration and Citizenship section 2018.
 
-Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5). _Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration_.
+Paarlberg, M. (2016) "[Day Laborers and Low-Wage Immigrant Workers.](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)." Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: *Surviving and Thriving in the U.S. Today: Immigration*. Greenwood.
 
 Paarlberg, M. (2009) [Labor policy in new democracies (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
 
