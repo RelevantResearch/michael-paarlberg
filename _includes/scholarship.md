@@ -47,3 +47,11 @@ Paarlberg, M., David Madland (2008) [Making Contracting Work for the United Stat
 ## Work in progress
 
 Paarlberg, M. (In progress.) "Diaspora Democracy: Migrants, Parties, and Transnational Elections from Latin America to the U.S." Under revise & resubmit with Oxford University Press.
+
+"The Prior Socialization of Mexican Immigrants and their Political Participation in the United States." with Michael Jones-Correa (under review).
+
+"Much Ado About Nothing? Local Immigration Policy and the MS-13 'Threat." with Loren Collingwood (under review).
+
+"Why Do Emigrants Vote? Evidence from a Transnational Voter Mobilization Experiment." with Elizabeth Iams Wellman.
+
+"Cross-party Transnational Voting in the Turkish Diaspora." with Gulcan Saglam.
