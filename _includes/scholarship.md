@@ -29,7 +29,7 @@ Paarlberg, M. (2009) [Labor policy in new democracies (Master's thesis). Georget
 
 ## Policy Reports
 
-Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). _MPI_.
+Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). *Migration Policy Institute*.
 
 Paarlberg, M. (2019). [How a Fake Gang Crisis in the US Helps Fuel a Real One in Central America](https://sites.duke.edu/northerntrianglepolicy/2019/05/14/how-a-fake-gang-crisis-in-the-us-helps-fuel-a-real-one-in-central-america/). The Duke Center for International Development.
 
