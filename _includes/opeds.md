@@ -39,3 +39,7 @@ Paarlberg, M. (2018) [Cómo se corteja el voto de la diáspora salvadoreña](htt
 Paarlberg, M. (2017) [Don’t believe the Trump administration: MS-13 is not ravaging the United States](https://www.washingtonpost.com/news/posteverything/wp/2017/10/11/dont-believe-the-trump-administration-ms-13-is-not-ravaging-the-united-states/). _Washington Post_
 
 Paarlberg, M. (2015) [This is why the two leading candidates for Guatemala’s presidency came to the U.S. to campaign](https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/10/this-is-why-the-two-leading-candidates-for-guatemalas-presidency-came-to-the-u-s-to-campaign/). _Washington Post_.
+
+Paarlberg, M. (2015). "[A Recent Study Says Unionized Companies Actually Pay Less. The Truth Is a Bit More Complex](https://inthesetimes.com/article/a-recent-study-says-unionized-companies-actually-pay-less-the-truth-is-a-b)." *In These Times*.
+
+Paarlberg, M. (2014). "[The Pinochet Myth is Alive and Well Among Pundits Who Write About Egypt](https://newrepublic.com/article/116799/egypt-does-not-need-pinochet)." *The New Republic*.
