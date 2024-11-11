@@ -134,4 +134,4 @@ Jill Abramson, Steven W Thrasher, Michael Ahn Paarlberg, and Jamie Weinstein. (2
 
 Télam. (2017, January 20). [“El legado de Obama está en peligro”, advirtió el periodista estadounidense Paarlberg](https://www.youtube.com/watch?v=wcVZPlLmVVw). _Télam_.
 
-(2016, March 15). [La Cuba americana di Marco](https://www.rsi.ch/info/mondo/La-Cuba-americana-di-Marco--939959.html). _RSI_.
+Bos, Emiliano. (2016, March 15). [La Cuba americana di Marco](https://www.rsi.ch/info/mondo/La-Cuba-americana-di-Marco--939959.html). _RSI_.
