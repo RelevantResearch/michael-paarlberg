@@ -4,6 +4,8 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 {% include section-publications.html %}
 
+O’Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). "[Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786).” with  *Urban Affairs Review, 60*(1), 49-72.
+
 <!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
 
 <!-- Included above. Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim. -->
@@ -13,8 +15,11 @@ Paarlberg, M. (2020). [Hometown Associations and Parties as Vehicles for Mexican
 <!-- Included above. Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute. -->
 
 Paarlberg, M. (2019). "[Competing for the Diaspora's Influence at Home: A Case Study of El Salvador](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003191261-4/competing-diaspora-influence-home-party-structure-transnational-campaign-activity-el-salvador-michael-ahn-paarlberg)" in _The Microfoundations of Diaspora Politics_, edited by Alexandra Délano Alonso, and Harris Mylonas.
+- Republished in: Délano Alonso, A. & Mylonas, H. (2021). [The Microfoundations of Diaspora Politics](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). *Routledge*.
 
-Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422. Download the data set for this research [here, at about 50 MB](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
+Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false). _Comparative Politics_, 49(4), 403-422. 
+- Download the data set for this research [here, at about 50 MB](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
+- Honorable mention, best journal article, American Political Science Association Migration and Citizenship section 2018.
 
 Paarlberg, M. (2016) [Immigrants and Day Laborers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5). _Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration and Migration_.
 
