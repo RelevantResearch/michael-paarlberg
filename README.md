@@ -1,130 +1,114 @@
-# Michael Paarlberg
+# Dr. Michael Ahn Paarlberg & Relevant Research - Site Documentation
 
-## Theme and Design
+## About Dr. Michael Ahn Paarlberg
 
-Use this theme: https://github.com/LeNPaul/academic. 
+Dr. Michael Ahn Paarlberg is an associate professor of political science at Virginia Commonwealth University and an associate fellow at the Institute for Policy Studies. He specializes in migration and security issues in Latin America and the U.S. A former journalist for _The Guardian_, Dr. Paarlberg has written for _Foreign Policy_, _Slate_, _El Faro_, and _The Washington Post_. He also served as Chief Latin America Policy Adviser to the Bernie Sanders 2020 campaign.  
+[Visit Dr. Paarlberg's website](https://michaelpaarlberg.org/)
 
-### Michael wants the following sections on the page, these are the titles: 
+## About Relevant Research
 
-1. about michael (short bio)
-2. media appearances (includes links to news articles and some YouTube videos)
-3. publications
-4. teaching
-5. consulting
+At **Relevant Research**, we believe that effective communication of rigorous research can drive positive change. We provide scholars with the tools and support they need to amplify their work, freeing them to focus on advancing their research while we handle the technical and logistical challenges. Our goal is to help your research reach its full potential, connect with broader audiences, and make a lasting impact in your field.  
+[Learn more about Relevant Research](https://relevant-research.com)
 
-Use the information from his current website to fill in this information for now: https://sites.google.com/a/georgetown.edu/michael-a-paarlberg/research?authuser=0. 
+## Folder Structure Overview
 
-### Put on Contact Page
+Here’s a quick overview of the key folders and files that make up the site:
 
-Michael A. Paarlberg, Ph.D. <br>
-Associate Professor of Political Science<br>
-Virginia Commonwealth University<br>
-Associate Fellow<br>
-Institute for Policy Studies<br>
-www.michaelpaarlberg.org <br>
-
-### Social media links in footer of theme.
-
-- Twitter/X @MPaarlberg
-- LinkedIn [find]
-- Bluesky [find]
-- link to faculty page [find]
-- link to page at Institute of Policy Studies [find]
-- university email address [mapaarlberg@vcu.edu]
-
-### Color and Font
-
-- Michael does not want to use Georgetown University colors and he does not want to use the yellow from his current website
-- We should come up with suggestions for design, feel free to try something interesting and we can suggest it! He wants something professional. This includes fonts. Let's try an interesting combination of fonts, text color, and background color!
-
-## Domain
-
-Michael already owns michaelpaarlberg.org through GoDaddy.
-
-## Hand-off
-
-Michael says that he wants to learn how to update the website himself. He is already familiar with Markdown so I think we can teach him how to do it once it's live. 
-
-# About academic the theme
-
-### A Jekyll theme for academia
-
-![Academic Screenshot](https://raw.githubusercontent.com/LeNPaul/academic/gh-pages/screenshot.png)
-
-A Jekyll theme designed for academia, although you can use it for almost any other purpose as well:
-
-* Showcase your research interests, publications, your curriculum vitae, the people in your research group, and your contact information.
-
-* Manage courses that you are teaching.
-
-* Provide updates to your students and faulty.
-
-For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
-
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
-
-## Installation
-
-### Ruby Gem Method
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "academic-jekyll-theme"
+```bash
+├── _data
+│   ├── media.yml
+│   ├── profile.yml
+│   ├── publications.yml
+│   ├── research.yml
+│   ├── settings.yml
+│   └── teaching.yml
+├── _includes
+│   ├── analytics.html
+│   ├── footer.html
+│   ├── head.html
+│   ├── header.html
+│   ├── home.html
+│   ├── logo.html
+│   ├── media_apperance.html
+│   ├── media_coverage.md
+│   ├── opeds.md
+│   ├── publications.html
+│   ├── scholarship.md
+│   ├── section-media.html
+│   ├── section-publications.html
+│   ├── section-teaching.html
+│   ├── section_divide.html
+│   └── teaching.md
+├── _layouts
+│   └── default.html
+├── _scss
+│   ├── _contact.scss
+│   ├── _custom.scss
+│   ├── _footer.scss
+│   ├── _logo.scss
+│   ├── _navbar.scss
+│   ├── _page.scss
+│   └── _teaching.scss
+├── _assets
+│   ├── css
+│   │   └── main.scss
+│   ├── img
+│   │   ├── profile.jpg
+│   │   ├── content.jpeg
+│   │   ├── cover.jpeg
+│   │   └── media_logos
+│   │       ├── 1.png
+│   │       ├── 3.png
+│   │       ├── 6.png
+│   │       └── cnn.png
+│   └── pdf
+│       └── cv.pdf
 ```
 
-And add this line to your Jekyll site's `_config.yml`:
+## How to Edit Content
 
-```yaml
-theme: academic-jekyll-theme
+### Changing Text Content
+
+To change text content on the site, follow these steps:
+
+#### Page Content:
+
+- Page-specific content, such as articles, blog posts, or sections, is stored in the `_includes` folder.
+- In this folder, you will find both **HTML files** (for structured layout) and **Markdown files** (for written content).
+- To update or replace content, simply **open the relevant file** and make the necessary changes.
+
+#### Examples:
+
+- To edit the **homepage** content, look for `home.md` or `home.html` inside the `_includes` folder.
+- For updating **media coverage**, look for `media_coverage.md`.
+- For updating **publications**, look for `publications.html`.
+
+---
+
+### Updating Content in Markdown Files
+
+Markdown files (e.g., `home.md`, `publications.md`) are used to write the content of the pages. You can directly edit these files to change:
+
+- **Text**: Update the body content, paragraphs, and headings.
+- **Links**: Change the URLs for internal or external links.
+- **Lists**: Modify the bullet points or numbered lists.
+
+#### Example:
+
+To edit the homepage content in `home.md`:
+
+```markdown
+---
+title: "Home"
+layout: default
+---
+
+Welcome to the homepage of Dr. Michael Ahn Paarlberg. Here you will find his latest publications, media coverage, and teaching materials.
+
+## Publications
+
+Dr. Paarlberg's research focuses on migration, security, and Latin America.
+
+- **Publication 1**: "Migration and Security" - [Read more](link)
+- **Publication 2**: "Latin America and Policy" - [Read more](link)
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install academic-jekyll-theme
-
-## Usage
-
-### Layouts
-
-The following sections describe usage instructions for this Jekyll theme,including available layouts, includes, sass and/or assets.
-
-#### Home
-
-The `_layouts/home.html` layout defines the home page for this theme. An introduction to your research group or to yourself can be provided, along with a list of featured publications. There is also a section for providing any updates through posts placed in the `_posts` directory.
-
-#### People
-
-The `_layouts/people.html` layout can be used to showcase and describe people in your research group. People are defined in the `_data/settings.yml` file, and markdown pages for each person with the `_layouts/page.html` layout can be placed in the `people` directory.
-
-#### Publications
-
-The `_layouts/publications.html` layout can be used to showcase selected publications, or the entire catalogue of publications. Direct links to the paper can be used, or a PDF copy of the paper can be served. Publications are defined in the `_data/publications.yml` file, and any PDF files that are served can be placed in the `publications` directory.
-
-#### Courses
-
-The `_layouts/courses.html` layout can be used to showcase courses that were taught in the past or are currently being taught. Courses are defined in the `_data/settings.yml` file, and markdown pages for each course with the `_layouts/page.html` layout can be placed in the `courses` directory. Related course material, such as PDF files, can also be placed in the `courses` directory in a subdirectory with the same name as the corresponding course.
-
-#### CV
-
-The `_layouts/cv.html` layout can be used to showcase a curriculum vitae. The sections of the cv are defined in the `_data/cv` directory, where each section has its own `<section>.yml` file.
-
-#### Contact
-
-The `_layouts/contact.html` layout can be used to provide contact information for the research group or the people that lead the research group. Contact information is defined in the `_data/settings.yml` file.
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/LeNPaul/academic. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`, then run `bundle exec jekyll serve`, and open your browser at `http://localhost:4000`. This starts a Jekyll server using this theme. Make changes to the pages, documents, data, etc. like normal to test this theme's contents. As you make modifications to this theme the site will regenerate and you should see the changes in the browser after a refresh.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
