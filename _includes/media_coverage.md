@@ -16,6 +16,12 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ### 2024
 
+https://www.youtube.com/watch?v=6AhVhdLPktQ
+
+(2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). *Focos TV*.
+
+https://www.youtube.com/watch?v=6AhVhdLPktQ
+
 Magaña, Yolanda. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 
 Décima, Juan. (2024, November 2). "[Milei is all in for Trump. Is that a sound bet?](https://buenosairesherald.com/world/international-relations/milei-is-all-in-for-trump-is-that-a-sound-bet)." *Buenos Aires Herald*.
