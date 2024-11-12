@@ -27,8 +27,6 @@ Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electora
 
 Paarlberg, M. (2016) "[Day Laborers and Low-Wage Immigrant Workers.](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)." Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: *Surviving and Thriving in the U.S. Today: Immigration*. Greenwood.
 
-Paarlberg, M. (2009) [Labor policy in new democracies (Master's thesis). Georgetown University, Washington, DC](https://repository.library.georgetown.edu/bitstream/handle/10822/553856/paarlbergMichael.pdf;sequence=1).
-
 ## Policy Reports
 
 Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). *Migration Policy Institute*.
@@ -46,11 +44,13 @@ Paarlberg, M., David Madland (2008) [Making Contracting Work for the United Stat
 
 ## Work in progress
 
+<!--
 Paarlberg, M. (In progress.) "Diaspora Democracy: Migrants, Parties, and Transnational Elections from Latin America to the U.S." Under revise & resubmit with Oxford University Press.
 
 "The Prior Socialization of Mexican Immigrants and their Political Participation in the United States." with Michael Jones-Correa (under review).
 
 "Much Ado About Nothing? Local Immigration Policy and the MS-13 'Threat." with Loren Collingwood (under review).
+-->
 
 "Why Do Emigrants Vote? Evidence from a Transnational Voter Mobilization Experiment." with Elizabeth Iams Wellman.
 
