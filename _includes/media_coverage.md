@@ -21,7 +21,7 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 <div style="display: flex; justify-content: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
+<br>
 
 Magaña, Yolanda. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 
