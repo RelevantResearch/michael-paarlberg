@@ -18,12 +18,6 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 (2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). *Focos TV*. (Video below.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<div class="center-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
 <div style="display: flex; justify-content: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
