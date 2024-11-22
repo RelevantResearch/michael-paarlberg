@@ -10,7 +10,7 @@ Paarlberg, M. (2022). [Latin America’s Pink Tide Is an Opportunity for Washing
 
 Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on Bitcoin](https://slate.com/technology/2022/05/el-salvador-bitcoin-crash-nayib-bukele.html). _Slate_.
 
-Paarlberg, M. (2022). [The Emerging Gang State in El Salvador](https://globalamericans.org/the-emerging-gang-state-in-el-salvador/). *Global Americans*.
+Paarlberg, M. (2022). [The Emerging Gang State in El Salvador](https://globalamericans.org/the-emerging-gang-state-in-el-salvador/). _Global Americans_.
 
 Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Salvador_.
 
@@ -18,11 +18,11 @@ Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador coul
 
 Paarlberg, M. (2021). [Why Is America Cooperating With Militaries Running Criminal Rackets?](https://foreignpolicy.com/2021/08/03/us-mexico-latin-america-lopez-obrador-cienfuegos-cartels-corruption-crime-drugs-congress-migration-root-causes-leahy/) _Foreign Policy_.
 
-Paarlberg, M. (2021). "[The US Approach to El Salvador's Authoritarianism Must Be Bold](https://www.univision.com/univision-news/opinion/opinion-the-us-approach-to-authoritarianism-in-el-salvador-must-be-bold)." *Univision*.
+Paarlberg, M. (2021). "[The US Approach to El Salvador's Authoritarianism Must Be Bold](https://www.univision.com/univision-news/opinion/opinion-the-us-approach-to-authoritarianism-in-el-salvador-must-be-bold)." _Univision_.
 
 Paarlberg, M. (2020). [El Salvador’s president sent troops to occupy the legislature. Here’s what’s going on](https://www.washingtonpost.com/politics/2020/02/17/el-salvadors-president-sent-troops-occupy-legislature-heres-whats-going/). _Washington Post_.
 
-Paarlberg, M. (2020). "China was already winning over the US's neighbors. Trump's COVID-19 response just makes Beijing's job easier." *Business Insider*.
+Paarlberg, M. (2020). "China was already winning over the US's neighbors. Trump's COVID-19 response just makes Beijing's job easier." _Business Insider_.
 
 Paarlberg, M. (2020). "EEUU, una presidencia pandémica en un año de elecciones." Barcelona Centre for International Affairs Anuario Internacional.
 
@@ -40,6 +40,6 @@ Paarlberg, M. (2017) [Don’t believe the Trump administration: MS-13 is not rav
 
 Paarlberg, M. (2015) [This is why the two leading candidates for Guatemala’s presidency came to the U.S. to campaign](https://www.washingtonpost.com/news/monkey-cage/wp/2015/09/10/this-is-why-the-two-leading-candidates-for-guatemalas-presidency-came-to-the-u-s-to-campaign/). _Washington Post_.
 
-Paarlberg, M. (2015). "[A Recent Study Says Unionized Companies Actually Pay Less. The Truth Is a Bit More Complex](https://inthesetimes.com/article/a-recent-study-says-unionized-companies-actually-pay-less-the-truth-is-a-b)." *In These Times*.
+Paarlberg, M. (2015). "[A Recent Study Says Unionized Companies Actually Pay Less. The Truth Is a Bit More Complex](https://inthesetimes.com/article/a-recent-study-says-unionized-companies-actually-pay-less-the-truth-is-a-b)." _In These Times_.
 
-Paarlberg, M. (2014). "[The Pinochet Myth is Alive and Well Among Pundits Who Write About Egypt](https://newrepublic.com/article/116799/egypt-does-not-need-pinochet)." *The New Republic*.
+Paarlberg, M. (2014). "[The Pinochet Myth is Alive and Well Among Pundits Who Write About Egypt](https://newrepublic.com/article/116799/egypt-does-not-need-pinochet)." _The New Republic_.

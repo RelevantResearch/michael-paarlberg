@@ -16,7 +16,7 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ### 2024
 
-(2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). *Focos TV*. (Video below.)
+(2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). _Focos TV_. (Video below.)
 
 <div style="display: flex; justify-content: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -25,17 +25,17 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 Magaña, Yolanda. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 
-Décima, Juan. (2024, November 2). "[Milei is all in for Trump. Is that a sound bet?](https://buenosairesherald.com/world/international-relations/milei-is-all-in-for-trump-is-that-a-sound-bet)." *Buenos Aires Herald*.
+Décima, Juan. (2024, November 2). "[Milei is all in for Trump. Is that a sound bet?](https://buenosairesherald.com/world/international-relations/milei-is-all-in-for-trump-is-that-a-sound-bet)." _Buenos Aires Herald_.
 
-Offereins, Addie. (2024, September 17). [Venezuelan street gang terrorizing U.S. migrant communities](https://wng.org/roundups/venezuelan-street-gang-terrorizing-u-s-migrant-communities-1726600020?fbclid=PAZXh0bgNhZW0CMTEAAabCkobfNqaVU58HfQ8l-OSbgQuYfz1L8rQw2RRg8oLOxu2MegfrsDQeiyw_aem_BZxMul748r8abnv671g86Q). *WNG*.
+Offereins, Addie. (2024, September 17). [Venezuelan street gang terrorizing U.S. migrant communities](https://wng.org/roundups/venezuelan-street-gang-terrorizing-u-s-migrant-communities-1726600020?fbclid=PAZXh0bgNhZW0CMTEAAabCkobfNqaVU58HfQ8l-OSbgQuYfz1L8rQw2RRg8oLOxu2MegfrsDQeiyw_aem_BZxMul748r8abnv671g86Q). _WNG_.
 
-Padgett, Tim. (2024, September 6). "[Is Venezuela Changing How the Left Responds to the Dictatorial Left?](https://www.miamiherald.com/opinion/article292035840.html)" *WLRN*.
+Padgett, Tim. (2024, September 6). "[Is Venezuela Changing How the Left Responds to the Dictatorial Left?](https://www.miamiherald.com/opinion/article292035840.html)" _WLRN_.
 
-Granger, Max. (2024, August 25). "[Is Nicaragua's Dictatorship Nearing Its End?](https://foreignpolicy.com/2024/08/25/nicaragua-ortega-murillo-dictatorship-fsln-repression/)" *Foreign Policy*.
+Granger, Max. (2024, August 25). "[Is Nicaragua's Dictatorship Nearing Its End?](https://foreignpolicy.com/2024/08/25/nicaragua-ortega-murillo-dictatorship-fsln-repression/)" _Foreign Policy_.
 
-Azcoiti, Javier Biosca. (2024, August 6). [Michael Paarlberg, exasesor de Sanders para América Latina: “El Gobierno de Maduro es un lastre para la izquierda](https://www.eldiario.es/internacional/michael-paarlberg-exasesor-sanders-america-latina-gobierno-maduro-lastre-izquierda_128_11574306.html)” *El Diario*.
+Azcoiti, Javier Biosca. (2024, August 6). [Michael Paarlberg, exasesor de Sanders para América Latina: “El Gobierno de Maduro es un lastre para la izquierda"](https://www.eldiario.es/internacional/michael-paarlberg-exasesor-sanders-america-latina-gobierno-maduro-lastre-izquierda_128_11574306.html). _El Diario_.
 
-Stein, Jeff and Cocco, Federica (2024, July 25). "[How Four U.S. Presidents Unleashed Economic Warfare Across the Globe](https://www.washingtonpost.com/business/interactive/2024/us-sanction-countries-work/)." *Washington Post*. 
+Stein, Jeff and Cocco, Federica (2024, July 25). "[How Four U.S. Presidents Unleashed Economic Warfare Across the Globe](https://www.washingtonpost.com/business/interactive/2024/us-sanction-countries-work/)." _Washington Post_.
 
 Mitú Daily. (2024, February 7). [What does El Salvador Want?](https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want) _Mitú Daily_.
 
