@@ -5,29 +5,29 @@
   <!-- Scholarship Section -->
   <section id="scholarship">
     <h1>Scholarship</h1>
-    {% capture scholarship_content %} {% include scholarship.md %} {% endcapture
-    %} {{ scholarship_content | markdownify }}
+    {% capture scholarship_content %} {% include pages/scholarship.md %} {%
+    endcapture %} {{ scholarship_content | markdownify }}
   </section>
 
   <!-- Op-Eds Section -->
   <section id="opeds">
     <h1>Op-Eds</h1>
-    {% capture opeds_content %} {% include opeds.md %} {% endcapture %} {{
+    {% capture opeds_content %} {% include pages/opeds.md %} {% endcapture %} {{
     opeds_content | markdownify }}
   </section>
 
   <!-- Media Coverage Section -->
   <section id="media-coverage">
     <h1>Media Coverage</h1>
-    {% capture media_content %} {% include media_coverage.md %} {% endcapture %}
-    {{ media_content | markdownify }}
+    {% capture media_content %} {% include pages/media_coverage.md %} {%
+    endcapture %} {{ media_content | markdownify }}
   </section>
 
   <!-- Teaching Section -->
   <section id="teaching">
     {% include header.html %}
     <h1>Teaching</h1>
-    {% capture teaching_content %} {% include teaching.md %} {% endcapture %} {{
-    teaching_content | markdownify }}
+    {% capture teaching_content %} {% include pages/teaching.md %} {% endcapture
+    %} {{ teaching_content | markdownify }}
   </section>
 </div>
