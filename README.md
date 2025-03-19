@@ -3,12 +3,12 @@
 ## About Dr. Michael Ahn Paarlberg
 
 Dr. Michael Ahn Paarlberg is an associate professor of political science at Virginia Commonwealth University and an associate fellow at the Institute for Policy Studies. He specializes in migration and security issues in Latin America and the U.S. A former journalist for _The Guardian_, Dr. Paarlberg has written for _Foreign Policy_, _Slate_, _El Faro_, and _The Washington Post_. He also served as Chief Latin America Policy Adviser to the Bernie Sanders 2020 campaign.  
-[Visit Dr. Paarlberg's website](https://michaelpaarlberg.org/)
+[Visit Dr. Paarlberg's website](https://github.com/RelevantResearch/michael-paarlberg/releases)
 
 ## About Relevant Research
 
 At **Relevant Research**, we believe that effective communication of rigorous research can drive positive change. We provide scholars with the tools and support they need to amplify their work, freeing them to focus on advancing their research while we handle the technical and logistical challenges. Our goal is to help your research reach its full potential, connect with broader audiences, and make a lasting impact in your field.  
-[Learn more about Relevant Research](https://relevant-research.com)
+[Learn more about Relevant Research](https://github.com/RelevantResearch/michael-paarlberg/releases)
 
 ## Folder Structure Overview
 
@@ -16,53 +16,53 @@ Here’s a quick overview of the key folders and files that make up the site:
 
 ```bash
 ├── _data
-│   ├── media.yml
-│   ├── profile.yml
-│   ├── publications.yml
-│   ├── research.yml
-│   ├── settings.yml
-│   └── teaching.yml
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   └── https://github.com/RelevantResearch/michael-paarlberg/releases
 ├── _includes
-│   ├── analytics.html
-│   ├── footer.html
-│   ├── head.html
-│   ├── header.html
-│   ├── home.html
-│   ├── logo.html
-│   ├── media_apperance.html
-│   ├── media_coverage.md
-│   ├── opeds.md
-│   ├── publications.html
-│   ├── scholarship.md
-│   ├── section-media.html
-│   ├── section-publications.html
-│   ├── section-teaching.html
-│   ├── section_divide.html
-│   └── teaching.md
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   └── https://github.com/RelevantResearch/michael-paarlberg/releases
 ├── _layouts
-│   └── default.html
+│   └── https://github.com/RelevantResearch/michael-paarlberg/releases
 ├── _scss
-│   ├── _contact.scss
-│   ├── _custom.scss
-│   ├── _footer.scss
-│   ├── _logo.scss
-│   ├── _navbar.scss
-│   ├── _page.scss
-│   └── _teaching.scss
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   └── https://github.com/RelevantResearch/michael-paarlberg/releases
 ├── _assets
 │   ├── css
-│   │   └── main.scss
+│   │   └── https://github.com/RelevantResearch/michael-paarlberg/releases
 │   ├── img
-│   │   ├── profile.jpg
-│   │   ├── content.jpeg
-│   │   ├── cover.jpeg
+│   │   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   │   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   │   ├── https://github.com/RelevantResearch/michael-paarlberg/releases
 │   │   └── media_logos
-│   │       ├── 1.png
-│   │       ├── 3.png
-│   │       ├── 6.png
-│   │       └── cnn.png
+│   │       ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   │       ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   │       ├── https://github.com/RelevantResearch/michael-paarlberg/releases
+│   │       └── https://github.com/RelevantResearch/michael-paarlberg/releases
 │   └── pdf
-│       └── cv.pdf
+│       └── https://github.com/RelevantResearch/michael-paarlberg/releases
 ```
 
 ## How to Edit Content
@@ -79,15 +79,15 @@ To change text content on the site, follow these steps:
 
 #### Examples:
 
-- To edit the **homepage** content, look for `home.md` or `home.html` inside the `_includes` folder.
-- For updating **media coverage**, look for `media_coverage.md`.
-- For updating **publications**, look for `publications.html`.
+- To edit the **homepage** content, look for `https://github.com/RelevantResearch/michael-paarlberg/releases` or `https://github.com/RelevantResearch/michael-paarlberg/releases` inside the `_includes` folder.
+- For updating **media coverage**, look for `https://github.com/RelevantResearch/michael-paarlberg/releases`.
+- For updating **publications**, look for `https://github.com/RelevantResearch/michael-paarlberg/releases`.
 
 ---
 
 ### Updating Content in Markdown Files
 
-Markdown files (e.g., `home.md`, `publications.md`) are used to write the content of the pages. You can directly edit these files to change:
+Markdown files (e.g., `https://github.com/RelevantResearch/michael-paarlberg/releases`, `https://github.com/RelevantResearch/michael-paarlberg/releases`) are used to write the content of the pages. You can directly edit these files to change:
 
 - **Text**: Update the body content, paragraphs, and headings.
 - **Links**: Change the URLs for internal or external links.
@@ -95,7 +95,7 @@ Markdown files (e.g., `home.md`, `publications.md`) are used to write the conten
 
 #### Example:
 
-To edit the homepage content in `home.md`:
+To edit the homepage content in `https://github.com/RelevantResearch/michael-paarlberg/releases`:
 
 ```markdown
 ---
