@@ -1,5 +1,5 @@
 <!-- Featured Video -->
-<div class="container mt-4">
+<!-- <div class="container mt-4">
   <div class="row justify-content-center">
     <div class="col-12 col-md-10">
       <div class="ratio ratio-16x9">
@@ -17,7 +17,7 @@
       </div>
     </div>
   </div>
-</div>
+</div> -->
 
 <!-- Other Media Videos -->
 <div class="container mt-4 pt-5">
@@ -26,15 +26,15 @@
     <div class="col-md-6 mb-4">
       <div class="video-card">
         <iframe
+          scrolling="no"
+          frameborder="0"
+          allowfullscreen
+          webkitallowfullscreen
+          mozallowfullscreen
+          allow="autoplay; fullscreen"
+          src="{{ video.src }}"
           width="100%"
           height="315"
-          src="{{ video.src }}"
-          title="{{ video.title }}"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture; web-share"
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
         ></iframe>
       </div>
     </div>

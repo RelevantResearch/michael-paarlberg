@@ -3,12 +3,12 @@ videos:
     src: "https://www.youtube.com/embed/nU7daT_-MeU"
     thumbnail: "assets/img/videos/Screenshot 2024-11-04 at 12.58.14 PM.png"
 
-  - title: "What does El Salvador Want?"
-    src: "https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want"
-    thumbnail: "assets/img/videos/Screenshot 2024-11-04 at 1.15.03 PM.png"
+  # - title: "What does El Salvador Want?"
+  #   src: "https://mitu.tv/link-in-bio-with-jenny-and-alejandro/what-does-el-salvador-want"
+  #   thumbnail: "assets/img/videos/Screenshot 2024-11-04 at 1.15.03 PM.png"
 
-  # - title: "Takeaways from Trump's meeting with Bukele"
-  #   src: "https://www.livenowfox.com/video/1624909"
+  - title: "Takeaways from Trump's meeting with Bukele"
+    src: "https://www.livenowfox.com/video/1624909"
 
 news:
   image1: /assets/img/media_logos/CNN.jpg
