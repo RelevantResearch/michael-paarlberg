@@ -8,7 +8,7 @@ Paarlberg, M. (2024). Central America's Maras: A Negative Case of DTO Evolution.
 
 O’Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). [Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786). with _Urban Affairs Review, 60_(1), 49-72.
 
-Paarlberg, M.. (2022). [Migration and Democracy: How Remittances Undermine Dictatorships](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/migration-and-democracy-how-remittances-undermine-dictatorships-by-abel-escribafolch-covadonga-meseguer-and-joseph-wright-princeton-princeton-university-press-2022-299-pp-2995-cloth/6311AA1F1EAC5DD2989DA225EBA7A7DB). (Book review.) _Journal of Race, Ethnicity and Politics_.
+Paarlberg, M. (2022). [Migration and Democracy: How Remittances Undermine Dictatorships](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/migration-and-democracy-how-remittances-undermine-dictatorships-by-abel-escribafolch-covadonga-meseguer-and-joseph-wright-princeton-princeton-university-press-2022-299-pp-2995-cloth/6311AA1F1EAC5DD2989DA225EBA7A7DB). (Book review.) _Journal of Race, Ethnicity and Politics_.
 
 <!-- Included above. Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)). -->
 

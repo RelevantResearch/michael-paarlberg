@@ -14,9 +14,25 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 <!-- ----------------------------------------------------------- -->
 
+### 2025
 
+José Olivares. (2025, May 23). [Trump administration trying to dismiss MS-13 leader’s charges to deport him](https://www.theguardian.com/us-news/2025/may/23/trump-administration-ms-13-leaders-criminal-charges-deportation). _The Guardian_.
+
+Jacob Sugarman. (2025, May 9). [The Post-Future Has Arrived in Argentina—and It Looks Remarkably Like the Past](https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/argentina-milei-debt-imf-loan/tnamp/). _The Nation_.
+
+(2025, April 15). [US has responsibility to return MD man from El Salvador: Expert](https://abcnews.go.com/US/video/us-responsibility-return-md-man-el-salvador-expert-120804109). _abcnews_.
+
+Oscar Forsberg (2025, March 25). [Därför lämnade Jeffrey Goldberg chatten](https://www.aftonbladet.se/nyheter/a/jQJ0qn/jeffrey-goldberg-upptacktes-nar-han-lamnade-chatten). _aftonbladet_.
+
+Patrick J. McDonnell, Kate Linthicum, Mery Mogollon, Nelson Rauda. (2025, March 23). [They were called gang members and deported. Families say their only crime was having tattoos](https://www.latimes.com/world-nation/story/2025-03-23/deportation-trump-venezuelans-el-salvador). _Los Angeles Times_.
+
+Jessica García. (2025, March 22). [Hay una transnacionalización del régimen de excepción, dice experto](https://www.elsalvador.com/noticias/nacional/hay-una-transnacionalizacion-regimen-excepcion-dice-experto/1207817/2025/). _elsalvador_
+
+Nelson Mauricio Rauda Zablah. (2025, March 18). [With Venezuelan deportations, is Trump taking a page from El Salvador’s playbook?](https://www-csmonitor-com.cdn.ampproject.org/c/s/www.csmonitor.com/layout/set/amphtml/World/Americas/2025/0318/el-salvador-bukele-prison-deportations-trump). _csmonitor_.
 
 ### 2024
+
+Javier Biosca Azcoiti. (2024, November 29). [Trump intentó derrocar a Maduro, pero ahora el petróleo de Venezuela puede hacerle cambiar de opinión](https://www-eldiario-es.cdn.ampproject.org/c/s/www.eldiario.es/internacional/trump-pragmatismo-choque-maduro-operacion-guaido-explotacion-petroleo-venezolano_1_11863233.amp.html). _eldiario_.
 
 (2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). _Focos TV_. (Video below.)
 

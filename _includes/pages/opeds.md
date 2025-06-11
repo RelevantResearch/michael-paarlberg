@@ -1,5 +1,7 @@
 Here is a list of op-eds I've published over the years. Op-eds published in the <i>Guardian</i> are available through [my Guardian author page](https://www.theguardian.com/profile/michael-paarlberg).
 
+Paarlberg, M. (2025). [El Salvador, Trump, and The Transnational State of Exception](https://internationalpolicy.org/publications/el-salvador-trump-and-the-transnational-state-of-exception/)
+
 Paarlberg, M. (2024). [Demystifying the Border Crisis](https://idpce.vcu.edu/news/newsroom/idpce-news/demystifying-the-border-crisis.html). [Institute for Democracy, Pluralism, and Community Empowerment](https://idpce.vcu.edu/) at Virginia Commonwealth University.
 
 Paarlberg, M. (2024). [Venezuela’s people, not government, deserve solidarity](https://internationalpolicy.org/publications/venezuelas-people-not-government-deserve-solidarity/). Center for International Policy.
