@@ -14,9 +14,19 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 <!-- ----------------------------------------------------------- -->
 
+### 2026
+
+(2026, January 23). [Venezuela y Cuba están en la mira de Trump: cómo queda ahora Nicaragua ante la debilidad de sus mayores aliados](https://cnnespanol.cnn.com/video/venezuela-cuba-mira-trump-nicaragua-debilidad-aliados-conclusiones-tv/). _CNN en Español_.
+
+(2026, January 15). [Trump to meet Venezuelan opposition leader, who vowed to share Nobel Prize](https://abcnews.go.com/International/trump-meet-venezuelan-opposition-leader-vowed-share-nobel/story?id=117695683). _ABC News_.
+
+(2026, January 7). [Maduro indicted](https://www.bbc.com/news/videos/cvgn3d1lg0lo). _BBC News_.
+
 ### 2025
 
-José Olivares. (2025, May 23). [Trump administration trying to dismiss MS-13 leader’s charges to deport him](https://www.theguardian.com/us-news/2025/may/23/trump-administration-ms-13-leaders-criminal-charges-deportation). _The Guardian_.
+Tessa Stuart. (2025, July 17). [Human Rights Defenders Are Fleeing El Salvador as Bukele Cracks Down](https://www.rollingstone.com/politics/politics-features/el-salvador-human-rights-defenders-flee-bukele-crackdown-1235065831/). _Rolling Stone_.
+
+José Olivares. (2025, May 23). [Trump administration trying to dismiss MS-13 leader's charges to deport him](https://www.theguardian.com/us-news/2025/may/23/trump-administration-ms-13-leaders-criminal-charges-deportation). _The Guardian_.
 
 Jacob Sugarman. (2025, May 9). [The Post-Future Has Arrived in Argentina—and It Looks Remarkably Like the Past](https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/argentina-milei-debt-imf-loan/tnamp/). _The Nation_.
 

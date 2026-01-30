@@ -1,5 +1,11 @@
 Here is a list of op-eds I've published over the years. Op-eds published in the <i>Guardian</i> are available through [my Guardian author page](https://www.theguardian.com/profile/michael-paarlberg).
 
+Paarlberg, M. (2026). [The US Can't Treat Venezuela Like Panama](https://www.newstatesman.com/world/americas/2026/01/us-cant-treat-venezuela-like-panama). _The New Statesman_.
+
+Paarlberg, M. (2025). [Trump's Wag the Dog Moment](https://internationalpolicy.org/publications/trumps-wag-the-dog-moment/). _International Policy Journal_, Center for International Policy.
+
+Paarlberg, M. (2025). [The Palestinians in El Salvador](https://www.palquest.org/en/highlight/20078/palestinians-el-salvador). _Interactive Encyclopedia of the Palestine Question_, Institute for Palestine Studies.
+
 Paarlberg, M. (2025). [El Salvador, Trump, and The Transnational State of Exception](https://internationalpolicy.org/publications/el-salvador-trump-and-the-transnational-state-of-exception/)
 
 Paarlberg, M. (2024). [Demystifying the Border Crisis](https://idpce.vcu.edu/news/newsroom/idpce-news/demystifying-the-border-crisis.html). [Institute for Democracy, Pluralism, and Community Empowerment](https://idpce.vcu.edu/) at Virginia Commonwealth University.
