@@ -1,10 +1,12 @@
 videos:
   - title: "Maduro indicted - BBC News"
-    src: "assets/img/videos/Paarlberg BBC Maduro.mp4"
-    type: "local"
+    src: "https://player.vimeo.com/video/1152093741"
 
-  - title: "Trump to meet Venezuelan opposition leader - ABC News"
-    src: "https://abcnews.go.com/International/video/trump-meet-venezuelan-opposition-leader-vowed-share-nobel-117695683"
+  - title: "What Trump's Return Means for Latin America - GZERO"
+    src: "https://www.youtube.com/embed/6AhVhdLPktQ"
+
+  - title: "The Truth about Venezuela"
+    src: "https://www.youtube.com/embed/nU7daT_-MeU"
 
 news:
   image1: /assets/img/media_logos/CNN.jpg
