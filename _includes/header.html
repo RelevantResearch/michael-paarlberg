@@ -32,7 +32,11 @@
       <a href="{{ site.github.url }}/" class="title">
         <h1>{{ site.title }}</h1>
       </a>
-      <span class="description">{{ site.data.profile.description }}</span>
+      <div class="description">
+        {% for affiliation in site.data.profile.affiliations %}
+        <span class="affiliation-line">{{ affiliation }}</span>{% unless forloop.last %}<br>{% endunless %}
+        {% endfor %}
+      </div>
     </div>
   </div>
 
