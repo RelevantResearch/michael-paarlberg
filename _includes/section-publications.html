@@ -6,7 +6,7 @@
       <div class="pub-img-wrapper">
         <img
           src="{{ pub.image }}"
-          alt="{{ pub.title }}"
+          alt="{{ pub.title | xml_escape }}"
           class="img-fluid pub-img"
           style="
             width: 100%;
