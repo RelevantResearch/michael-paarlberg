@@ -6,11 +6,11 @@ Paarlberg, M. (2025). [Trump's Wag the Dog Moment](https://internationalpolicy.o
 
 Paarlberg, M. (2025). [The Palestinians in El Salvador](https://www.palquest.org/en/highlight/20078/palestinians-el-salvador). _Interactive Encyclopedia of the Palestine Question_, Institute for Palestine Studies.
 
-Paarlberg, M. (2025). [El Salvador, Trump, and The Transnational State of Exception](https://internationalpolicy.org/publications/el-salvador-trump-and-the-transnational-state-of-exception/)
+Paarlberg, M. (2025). [El Salvador, Trump, and The Transnational State of Exception](https://internationalpolicy.org/publications/el-salvador-trump-and-the-transnational-state-of-exception/). _International Policy Journal_, Center for International Policy.
 
 Paarlberg, M. (2024). [Demystifying the Border Crisis](https://idpce.vcu.edu/news/newsroom/idpce-news/demystifying-the-border-crisis.html). [Institute for Democracy, Pluralism, and Community Empowerment](https://idpce.vcu.edu/) at Virginia Commonwealth University.
 
-Paarlberg, M. (2024). [Venezuela’s people, not government, deserve solidarity](https://internationalpolicy.org/publications/venezuelas-people-not-government-deserve-solidarity/). Center for International Policy.
+Paarlberg, M. (2024). [Venezuela's people, not government, deserve solidarity](https://internationalpolicy.org/publications/venezuelas-people-not-government-deserve-solidarity/). _International Policy Journal_, Center for International Policy.
 
 Paarlberg, M. (2022). [Why El Salvador’s mass arrests won’t lower the murder rate](https://www.washingtonpost.com/politics/2022/07/11/bukele-el-salvador-homicides-gangs-ms-13-barrio-18/). _Washington Post_.
 
@@ -20,7 +20,7 @@ Paarlberg, M. (2022). [Why the “Cool Dictator” of El Salvador Went All-In on
 
 Paarlberg, M. (2022). [The Emerging Gang State in El Salvador](https://globalamericans.org/the-emerging-gang-state-in-el-salvador/). _Global Americans_.
 
-Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Salvador_.
+Paarlberg, M. (2022). [El emergente estado pandilla en El Salvador](https://www.elsalvador.com/opinion/editoriales/pandillas-nayib-bukele/929326/2022/). _El Diario de Hoy_.
 
 Paarlberg, M. and Ricardo J. Valencia (2021). [The elections in El Salvador could make or break Biden’s Central America policy](https://www.washingtonpost.com/outlook/2021/02/25/el-salvador-elections-biden/). _Washington Post_.
 

@@ -31,22 +31,24 @@ Paarlberg, M. (2016) "[Day Laborers and Low-Wage Immigrant Workers.](https://www
 
 ## Policy Reports
 
-Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). _Migration Policy Institute_.
+Paarlberg, M. (2021). [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). Migration Policy Institute.
 
 Paarlberg, M. (2019). [How a Fake Gang Crisis in the US Helps Fuel a Real One in Central America](https://sites.duke.edu/northerntrianglepolicy/2019/05/14/how-a-fake-gang-crisis-in-the-us-helps-fuel-a-real-one-in-central-america/). The Duke Center for International Development.
 
-Paarlberg, M. (2018) [Mexico's Diaspora Electorate](https://www.wilsoncenter.org/article/mexicos-diaspora-electorate). _Wilson Center_.
+Paarlberg, M. (2018) [Mexico's Diaspora Electorate](https://www.wilsoncenter.org/article/mexicos-diaspora-electorate). Wilson Center.
 
-Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). _Institute for Policy Studies and the National Domestic Workers Alliance_.
+Paarlberg, M. and Sameera Hafiz (2017)[The Human Trafficking of Domestic Workers in the United States](https://www.google.com/url?q=https%3A%2F%2Fwww.ips-dc.org%2Freport-the-human-trafficking-of-domestic-workers-in-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0lH6fLQ7HBPYpUJ4TTNpq0). Institute for Policy Studies and the National Domestic Workers Alliance.
 
-Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers' Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) _D.C. Jobs with Justice and the D.C. Fiscal Policy Institute_ [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf)
+Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredictable, Unsustainable: The Impact of Employers' Scheduling Practices in D.C.](http://www.google.com/url?q=http%3A%2F%2Fwww.dcjwj.org%2Fscheduling-report%2F&sa=D&sntz=1&usg=AOvVaw29nfsQS0jXAUUIaDXZTISW) D.C. Jobs with Justice and the D.C. Fiscal Policy Institute [(PDF here).](https://www.dcjwj.org/wp-content/uploads/2015/06/DCJWJ_Scheduling_Report_2015.pdf)
 
 - [See coverage in The Washington Post: Workers' schedules could be the next labor fight in the D.C. Council, June 12, 2015](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fnews%2Flocal%2Fwp%2F2015%2F06%2F12%2Fworkers-schedules-could-be-the-next-labor-fight-in-the-d-c-council%2F&sa=D&sntz=1&usg=AOvVaw0rkHVvxUP7Ii26OAYX56Vz).
 
-Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). _Center for American Progress_. See coverage in _The Washington Post_: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
+Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). Center for American Progress. See coverage in _The Washington Post_: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
 ## Work in progress
 
 "Voting Here and There, Differently: Divergence as Strategy in Migrant Political Engagement." with Gulcan Saglam (under review).
 
 "Why Do Emigrants Vote? Evidence from a Transnational Voter Mobilization Experiment." with Elizabeth Iams Wellman.
+
+"Voting Against Peace: Extortion vs. Terrorism as Factors Undermining Colombia's Peace Plebiscite."
