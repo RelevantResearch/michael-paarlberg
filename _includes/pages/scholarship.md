@@ -4,34 +4,34 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 {% include section-publications.html %}
 
-Paarlberg, M. and Maria Jose Espinosa. (2026). U.S.-Latin America Policy. In Duss, Matthew, ed., [_A World For All: New Visions of U.S. Foreign Policy_](https://orbooks.com/catalog/a-world-for-all/). OR Books.
+U.S.-Latin America Policy. In Duss, Matthew, ed., [_A World For All: New Visions of U.S. Foreign Policy_](https://orbooks.com/catalog/a-world-for-all/). OR Books. With Maria Jose Espinosa (2026).
 
-Paarlberg, M. (forthcoming). Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Together in Service: Bill Lucy, Civil Rights, and the American Labor Movement_. University of Illinois Press.
+Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Together in Service: Bill Lucy, Civil Rights, and the American Labor Movement_. University of Illinois Press (forthcoming).
 
-O'Brien, Benjamin Gonzalez; Collingwood, Loren; Paarlberg, M., & Tafoya, Jordin. (2025). [The Sanctuary Scale: Measuring Immigrant Protections in Cities of Refuge](https://doi.org/10.1111/imig.13326). _International Migration_, 63(5).
+[The Sanctuary Scale: Measuring Immigrant Protections in Cities of Refuge](https://doi.org/10.1111/imig.13326). _International Migration_, 63(5). With Benjamin Gonzalez O'Brien, Loren Collingwood, and Jordin Tafoya (2025).
 
-O'Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). [Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786). _Urban Affairs Review_, 60(1), 49-72.
+[Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786). _Urban Affairs Review_, 60(1), 49-72. With Benjamin Gonzalez O'Brien and Loren Collingwood (2023).
 
-Paarlberg, M. (2022). [Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20. ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)).
+[Transnational Gangs and Criminal Remittances: A Conceptual Framework](https://comparativemigrationstudies.springeropen.com/articles/10.1186/s40878-022-00297-x). _Comparative Migration Studies_, 10(24), 1-20 (2022). ([PDF available here](https://link.springer.com/content/pdf/10.1186/s40878-022-00297-x.pdf)).
 
-Paarlberg, M. (2022). [Migration and Democracy: How Remittances Undermine Dictatorships](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/migration-and-democracy-how-remittances-undermine-dictatorships-by-abel-escribafolch-covadonga-meseguer-and-joseph-wright-princeton-princeton-university-press-2022-299-pp-2995-cloth/6311AA1F1EAC5DD2989DA225EBA7A7DB). (Book review.) _Journal of Race, Ethnicity and Politics_.
+[Migration and Democracy: How Remittances Undermine Dictatorships](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/migration-and-democracy-how-remittances-undermine-dictatorships-by-abel-escribafolch-covadonga-meseguer-and-joseph-wright-princeton-princeton-university-press-2022-299-pp-2995-cloth/6311AA1F1EAC5DD2989DA225EBA7A7DB). (Book review.) _Journal of Race, Ethnicity and Politics_ (2022).
 
 <!-- Included above. Paarlberg, M. (2021). [Turcos and Chilestinos: Latin American Palestinian Diaspora Nationalism in a Comparative Context](https://books.google.com.np/books?hl=en&lr=&id=zLUxEAAAQBAJ&oi=fnd&pg=PA11&ots=p7IoxAGkWy&sig=O1xNnGVPk4yZDi8qv6txWUuQaJs&redir_esc=y#v=onepage&q&f=false) in _Arab Worlds Beyond the Middle East and North Africa_, edited by Alkazemi, Mariam, and C. E. Youakim. -->
 
-Paarlberg, M. (2020). "[Hometown Associations and Parties as Vehicles for Mexican Electoral Campaigns in the US](https://www.tandfonline.com/doi/full/10.1080/00344893.2020.1856176)". _Representation_, 59(3), 403-422.
+"[Hometown Associations and Parties as Vehicles for Mexican Electoral Campaigns in the US](https://www.tandfonline.com/doi/full/10.1080/00344893.2020.1856176)." _Representation_, 59(3), 403-422 (2020).
 
 <!-- Included above. Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute. -->
 
-Paarlberg, M. (2019). [Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in Latin America](https://doi.org/10.1080/1369183X.2017.1409166). _Journal of Ethnic and Migration Studies_, 45(4), 539-560.
+[Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in El Salvador](https://doi.org/10.1080/1369183X.2017.1409166). _Journal of Ethnic and Migration Studies_, 45(4), 539-560 (2019).
 
-- Republished under the title "Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in El Salvador" in: Délano Alonso, A. & Mylonas, H. (2021). [The Microfoundations of Diaspora Politics](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). _Routledge_.
+- Republished in Délano Alonso, A. & Mylonas, H., eds., [_The Microfoundations of Diaspora Politics_](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). Routledge (2021).
 
-Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://www.jstor.org/stable/26330994). _Comparative Politics_, 49(4), 463-482.
+[Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://www.jstor.org/stable/26330994). _Comparative Politics_, 49(4), 463-482 (2017).
 
 - Download the data set for this research [here, at about 50 MB](https://drive.google.com/file/d/1lrxvYLzo0wYEvxzM2m84gfD6wcny1S0t/view).
 - Honorable mention, best journal article, American Political Science Association Migration and Citizenship section 2018.
 
-Paarlberg, M. (2016) "[Day Laborers and Low-Wage Immigrant Workers.](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)." Huerta, Iglesias-Prieto, and Brown, eds. Contemporary Issues for People of Color: _Surviving and Thriving in the U.S. Today: Immigration_. Greenwood.
+"[Day Laborers and Low-Wage Immigrant Workers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)." In Huerta, Iglesias-Prieto, and Brown, eds., _Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration_. Greenwood (2016).
 
 ## Policy Reports
 
@@ -53,7 +53,7 @@ Paarlberg, M., David Madland (2008) [Making Contracting Work for the United Stat
 
 _Diaspora Democracy: Migrants, Parties, and Transnational Elections from Latin America to the U.S._ Under revise and resubmit with Oxford University Press.
 
-_Sanctuary Policy in Restrictionist Times: Rhetoric, Reality and the Politics of Immigration._ With Benjamin Gonzalez O'Brien and Loren Collingwood. Invited for submission to Stanford University Press.
+_Sanctuary Policy in Restrictionist Times: Rhetoric, Reality and the Politics of Immigration._ With Benjamin Gonzalez O'Brien and Loren Collingwood.
 
 ## Work in progress
 

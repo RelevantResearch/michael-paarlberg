@@ -14,9 +14,13 @@ An upper level survey of social science research methods and statistics with an 
 
 A discussion seminar of the contemporary politics of Latin America and the Caribbean, with a thematic focus on topical issues including democracy and authoritarianism, crime, corruption, and economics using case studies of Argentina, Bolivia, Brazil, Chile, Colombia, Cuba, the Dominican Republic, El Salvador, Guatemala, Haiti, Honduras, Mexico, Nicaragua, and Venezuela.
 
-#### Politics of Immigration (POLI 391)
+#### Politics of Immigration (POLI 389)
 
 A discussion seminar looking at migration in a comparative and global context, grounded in the US but examining immigration rules, migration issues, and diaspora communities in countries around the world. This course draws on different countries' experiences with migration including with issues of citizenship, borders, asylum and refugees, immigration law enforcement, remittances, climate migration, visas, and the agency of migrants themselves as political actors.
+
+#### Labor Organizing and Strategic Research (POLI 391)
+
+A skills-based experiential course teaching practical tools for careers with unions and other advocacy and political campaigns including financial document analysis, strategic corporate analysis, contract costing and collective bargaining, organizing, representation, and labor law.
 
 ## Public Lectures in Chile
 
