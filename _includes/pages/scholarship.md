@@ -33,7 +33,19 @@ Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Tog
 
 "[Day Laborers and Low-Wage Immigrant Workers](https://www.google.com/url?q=https%3A%2F%2Fwww.amazon.com%2FPeople-Color-United-States-volumes%2Fdp%2F1610698541&sa=D&sntz=1&usg=AOvVaw3EeuKWgYE9G_NeUPzX4YG5)." In Huerta, Iglesias-Prieto, and Brown, eds., _Contemporary Issues for People of Color: Surviving and Thriving in the U.S. Today: Immigration_. Greenwood (2016).
 
-## Policy Reports
+## Professional Publications
+
+[El Salvador, Trump, and The Transnational State of Exception](https://internationalpolicy.org/publications/el-salvador-trump-and-the-transnational-state-of-exception/). _International Policy Journal_, Center for International Policy (2025).
+
+[Trump's Wag the Dog Moment](https://internationalpolicy.org/publications/trumps-wag-the-dog-moment/). _International Policy Journal_, Center for International Policy (2025).
+
+[The Palestinians in El Salvador](https://www.palquest.org/en/highlight/20078/palestinians-el-salvador). _Interactive Encyclopedia of the Palestine Question_, Institute for Palestine Studies (2025).
+
+[Demystifying the Border Crisis](https://idpce.vcu.edu/news/newsroom/idpce-news/demystifying-the-border-crisis.html). [Institute for Democracy, Pluralism, and Community Empowerment](https://idpce.vcu.edu/) at Virginia Commonwealth University (2024).
+
+[Venezuela's people, not government, deserve solidarity](https://internationalpolicy.org/publications/venezuelas-people-not-government-deserve-solidarity/). _International Policy Journal_, Center for International Policy (2024).
+
+[The Emerging Gang State in El Salvador](https://globalamericans.org/the-emerging-gang-state-in-el-salvador/). _Global Americans_ (2022).
 
 [Gang Membership in Central America: More Complex than Meets the Eye](https://www.migrationpolicy.org/article/complexities-gang-membership-central-america). Migration Policy Institute (2021).
 
@@ -42,6 +54,8 @@ Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Tog
 [How a Fake Gang Crisis in the US Helps Fuel a Real One in Central America](https://sites.duke.edu/northerntrianglepolicy/2019/05/14/how-a-fake-gang-crisis-in-the-us-helps-fuel-a-real-one-in-central-america/). The Duke Center for International Development (2019).
 
 [Mexico's Diaspora Electorate](https://www.wilsoncenter.org/article/mexicos-diaspora-electorate). Wilson Center (2018).
+
+[Cómo se corteja el voto de la diáspora salvadoreña](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm). _El Faro_ (2018).
 
 "Agricultural Cooperatives: Opportunities and Challenges for African American Women in the South." Institute for Policy Studies (2018).
 
