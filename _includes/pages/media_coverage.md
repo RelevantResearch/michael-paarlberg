@@ -30,6 +30,8 @@ Joseph Stepansky. (2026, March 28). [One month in, disapproval high but US lawma
 
 Catherine Osborn. (2026, March 27). [Latin American Countries Boost Ties to Africa](https://foreignpolicy.com/2026/03/27/latin-america-celac-africa-colombia-summit/). _Foreign Policy_.
 
+(2026, March 4). [What Iran's crown prince can learn from Venezuela](https://www.politico.com/newsletters/forecast/2026/03/04/what-irans-crown-prince-can-learn-from-venezuela-00813088). _Politico_ (Forecast newsletter).
+
 Tom Phillips. (2026, February 10). [Venezuela welcomes Trump-loving US TV channel in 'marriage of convenience'](https://www.theguardian.com/world/2026/feb/10/venezuela-newsmax-trump-liberator). _The Guardian_.
 
 (2026, January 23). [Venezuela y Cuba están en la mira de Trump: cómo queda ahora Nicaragua ante la debilidad de sus mayores aliados](https://cnnespanol.cnn.com/video/venezuela-cuba-mira-trump-nicaragua-debilidad-aliados-conclusiones-tv/). _CNN en Español_.
