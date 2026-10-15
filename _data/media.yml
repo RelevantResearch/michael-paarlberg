@@ -2,8 +2,10 @@ videos:
   - title: "Maduro indicted - BBC News"
     src: "https://player.vimeo.com/video/1152093741"
 
-  - title: "The Truth about Venezuela"
-    src: "https://www.youtube.com/embed/nU7daT_-MeU"
+  - title: "What Lula's Struggles in Brazil Tell Us About Progressive Politics - The New Republic"
+    type: link
+    src: "https://newrepublic.substack.com/p/what-lulas-struggles-in-brazil-tell"
+    poster: "/assets/img/videos/lula_brazil_poster.jpg"
 
 news:
   image1: /assets/img/media_logos/CNN.jpg

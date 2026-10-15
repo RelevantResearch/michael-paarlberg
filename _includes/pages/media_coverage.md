@@ -16,6 +16,8 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 ### 2026
 
+Perry Bacon. (2026, October 14). [What Lula's Struggles in Brazil Tell Us About Progressive Politics](https://newrepublic.substack.com/p/what-lulas-struggles-in-brazil-tell). _The New Republic_ (_Right Now with Perry Bacon_).
+
 (2026, January 23). [Venezuela y Cuba están en la mira de Trump: cómo queda ahora Nicaragua ante la debilidad de sus mayores aliados](https://cnnespanol.cnn.com/video/venezuela-cuba-mira-trump-nicaragua-debilidad-aliados-conclusiones-tv/). _CNN en Español_.
 
 (2026, January 15). [Trump to meet Venezuelan opposition leader, who vowed to share Nobel Prize](https://abcnews.go.com/International/trump-meet-venezuelan-opposition-leader-vowed-share-nobel/story?id=117695683). _ABC News_.

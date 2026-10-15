@@ -36,6 +36,11 @@
           <source src="{{ site.github.url }}/{{ video.src }}" type="video/mp4">
           Your browser does not support the video tag.
         </video>
+        {% elsif video.type == "link" %}
+        <a href="{{ video.src }}" target="_blank" rel="noopener" class="d-block position-relative">
+          <img src="{{ video.poster }}" alt="{{ video.title | xml_escape }}" class="img-fluid" style="width: 100%;">
+          <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:4rem;color:#fff;text-shadow:0 0 12px rgba(0,0,0,.7);">&#9654;</span>
+        </a>
         {% else %}
         <div class="ratio ratio-16x9">
           <iframe

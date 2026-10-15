@@ -4,6 +4,10 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 {% include section-publications.html %}
 
+Paarlberg, M. and Maria Jose Espinosa. (2026). U.S.-Latin America Policy. In Duss, Matthew, ed., _A World For All: New Visions of U.S. Foreign Policy_. OR Books.
+
+Paarlberg, M. (forthcoming). Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Together in Service: Bill Lucy, Civil Rights, and the American Labor Movement_. University of Illinois Press.
+
 O'Brien, Benjamin Gonzalez; Collingwood, Loren; Paarlberg, M., & Tafoya, Jordin. (2025). [The Sanctuary Scale: Measuring Immigrant Protections in Cities of Refuge](https://doi.org/10.1111/imig.13326). _International Migration_, 63(5).
 
 O'Brien, Benjamin Gonzalez; Collingwood, Loren, & Paarlberg, M. (2023). [Sanctuary Policies and the Influence of Local Demographics and Partnership](https://doi.org/10.1177/10780874231152786). _Urban Affairs Review_, 60(1), 49-72.
@@ -18,7 +22,7 @@ Paarlberg, M. (2020). "[Hometown Associations and Parties as Vehicles for Mexica
 
 <!-- Included above. Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute. -->
 
-Paarlberg, M. (2019). "[Competing for the Diaspora's Influence at Home: A Case Study of El Salvador.](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003191261-4/competing-diaspora-influence-home-party-structure-transnational-campaign-activity-el-salvador-michael-ahn-paarlberg)" in _The Microfoundations of Diaspora Politics_, edited by Alexandra Délano Alonso, and Harris Mylonas.
+Paarlberg, M. (2019). [Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in El Salvador](https://doi.org/10.1080/1369183X.2017.1409166). _Journal of Ethnic and Migration Studies_, 45(4), 539-560.
 
 - Republished in: Délano Alonso, A. & Mylonas, H. (2021). [The Microfoundations of Diaspora Politics](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). _Routledge_.
 
