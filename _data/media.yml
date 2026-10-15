@@ -7,6 +7,12 @@ videos:
     src: "https://newrepublic.substack.com/p/what-lulas-struggles-in-brazil-tell"
     poster: "/assets/img/videos/lula_brazil_poster.jpg"
 
+  - title: "Trump to meet Venezuelan opposition leader, who vowed to share Nobel Prize - ABC News"
+    src: "https://abcnews.com/video/embed?id=129248497"
+
+  - title: "Drug Trafficking and Organized Crime in Central America - Interview with Jonathan D. Rosen"
+    src: "https://www.youtube.com/embed/pMQUFcTYCdE"
+
 news:
   image1: /assets/img/media_logos/CNN.jpg
   image2: /assets/img/media_logos/univision (1).png

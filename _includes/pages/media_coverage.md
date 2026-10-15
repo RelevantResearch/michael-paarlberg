@@ -14,13 +14,27 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 <!-- ----------------------------------------------------------- -->
 
-### 2026
+### Interviews and profiles
+
+Kelsey D. Atherton. (2026, October 8). [Q&A: Brazil's Elections and the Return of Bolsonarismo](https://internationalpolicy.org/publications/qa-brazils-elections-and-the-return-of-bolsonarismo/). _International Policy Journal_, Center for International Policy.
 
 Perry Bacon. (2026, October 14). [What Lula's Struggles in Brazil Tell Us About Progressive Politics](https://newrepublic.substack.com/p/what-lulas-struggles-in-brazil-tell). _The New Republic_ (_Right Now with Perry Bacon_).
 
+Jonathan D. Rosen. (2026, October 9). [Drug Trafficking and Organized Crime in Central America](https://www.youtube.com/watch?v=pMQUFcTYCdE). _YouTube_.
+
+### 2026
+
+Michele Kelemen. (2026, September 7). [Rubio to visit 3 Latin American countries this week](https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week). _NPR_.
+
+Joseph Stepansky. (2026, March 28). [One month in, disapproval high but US lawmakers take no action on Iran war](https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war). _Al Jazeera_.
+
+Catherine Osborn. (2026, March 27). [Latin American Countries Boost Ties to Africa](https://foreignpolicy.com/2026/03/27/latin-america-celac-africa-colombia-summit/). _Foreign Policy_.
+
+Tom Phillips. (2026, February 10). [Venezuela welcomes Trump-loving US TV channel in 'marriage of convenience'](https://www.theguardian.com/world/2026/feb/10/venezuela-newsmax-trump-liberator). _The Guardian_.
+
 (2026, January 23). [Venezuela y Cuba están en la mira de Trump: cómo queda ahora Nicaragua ante la debilidad de sus mayores aliados](https://cnnespanol.cnn.com/video/venezuela-cuba-mira-trump-nicaragua-debilidad-aliados-conclusiones-tv/). _CNN en Español_.
 
-(2026, January 15). [Trump to meet Venezuelan opposition leader, who vowed to share Nobel Prize](https://abcnews.go.com/International/trump-meet-venezuelan-opposition-leader-vowed-share-nobel/story?id=117695683). _ABC News_.
+(2026, January 15). [Trump to meet Venezuelan opposition leader, who vowed to share Nobel Prize](https://abcnews.go.com/International/trump-meet-venezuelan-opposition-leader-vowed-share-nobel/story?id=117695683). _ABC News_. ([Video](https://abcnews.com/video/129248497/).)
 
 (2026, January 7). [Maduro indicted](https://www.bbc.com/news/videos/cvgn3d1lg0lo). _BBC News_.
 

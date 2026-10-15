@@ -1,5 +1,7 @@
 Here is a list of op-eds I've published over the years. Op-eds published in the <i>Guardian</i> are available through [my Guardian author page](https://www.theguardian.com/profile/michael-paarlberg).
 
+Paarlberg, M. and Nancy Okail (2026). [Defeating the Donroe Doctrine: Latin America Can Resist Trump's Gunboat Racketeering](https://www.commondreams.org/opinion/what-is-trump-s-donroe-doctrine). _Common Dreams_.
+
 Paarlberg, M. (2026). [Exiled Iranians and Venezuelans may well support regime change, but diasporas don't always reflect the politics back home](https://theconversation.com/exiled-iranians-and-venezuelans-may-well-support-regime-change-but-diasporas-dont-always-reflect-the-politics-back-home-275112). _The Conversation_.
 
 Paarlberg, M. (2026). [The US Can't Treat Venezuela Like Panama](https://www.newstatesman.com/world/americas/2026/01/us-cant-treat-venezuela-like-panama). _The New Statesman_.

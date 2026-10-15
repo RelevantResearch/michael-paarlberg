@@ -4,7 +4,7 @@ I am a scholar of the politics of migration and security, with a focus on Latin 
 
 {% include section-publications.html %}
 
-Paarlberg, M. and Maria Jose Espinosa. (2026). U.S.-Latin America Policy. In Duss, Matthew, ed., _A World For All: New Visions of U.S. Foreign Policy_. OR Books.
+Paarlberg, M. and Maria Jose Espinosa. (2026). U.S.-Latin America Policy. In Duss, Matthew, ed., [_A World For All: New Visions of U.S. Foreign Policy_](https://orbooks.com/catalog/a-world-for-all/). OR Books.
 
 Paarlberg, M. (forthcoming). Full Participation in the New Voices Era. In Bayard, Marc D., ed., _Standing Together in Service: Bill Lucy, Civil Rights, and the American Labor Movement_. University of Illinois Press.
 
