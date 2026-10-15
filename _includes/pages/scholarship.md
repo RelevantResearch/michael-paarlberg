@@ -22,9 +22,9 @@ Paarlberg, M. (2020). "[Hometown Associations and Parties as Vehicles for Mexica
 
 <!-- Included above. Paarlberg, M. (2020). "[Anti-Party Skew and Variation in Diaspora Outreach by Mexican Parties](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003015086-5/anti-party-skew-variation-diaspora-outreach-mexican-parties-michael-ahn-paarlberg)" in _Political Parties Abroad: A New Arena for Party Politics_, edited by Kernalegenn, Tudi, and Emilie van Haute. -->
 
-Paarlberg, M. (2019). [Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in El Salvador](https://doi.org/10.1080/1369183X.2017.1409166). _Journal of Ethnic and Migration Studies_, 45(4), 539-560.
+Paarlberg, M. (2019). [Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in Latin America](https://doi.org/10.1080/1369183X.2017.1409166). _Journal of Ethnic and Migration Studies_, 45(4), 539-560.
 
-- Republished in: Délano Alonso, A. & Mylonas, H. (2021). [The Microfoundations of Diaspora Politics](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). _Routledge_.
+- Republished under the title "Competing for the Diaspora's Influence at Home: Party Structure and Transnational Campaign Activity in El Salvador" in: Délano Alonso, A. & Mylonas, H. (2021). [The Microfoundations of Diaspora Politics](https://www.routledge.com/The-Microfoundations-of-Diaspora-Politics/Alonso-Mylonas/p/book/9781032042800?srsltid=AfmBOorrLJdHBIjOWVNEWbsDe77rZsBFhSzoXVzVXcRzD6wtLNXVocRI). _Routledge_.
 
 Paarlberg, M. (2017). [Transnational Militancy: Diaspora Influence over Electoral Activity in Latin America](https://www.jstor.org/stable/26330994). _Comparative Politics_, 49(4), 463-482.
 
@@ -49,10 +49,24 @@ Paarlberg, M., Ari Schwartz, Michael Wasser, and Merrit Gillard (2015) [Unpredic
 
 Paarlberg, M., David Madland (2008) [Making Contracting Work for the United States: Report on Labor Standards Among Federal Contractor](https://www.google.com/url?q=https%3A%2F%2Fwww.americanprogress.org%2Fissues%2Fgeneral%2Fnews%2F2008%2F12%2F08%2F5313%2Fmaking-contracting-work-for-the-united-states%2F&sa=D&sntz=1&usg=AOvVaw0AOP4jDKjmVN_APibspc6R). Center for American Progress. See coverage in _The Washington Post_: [Joe Davidson's Federal Diary, Dec. 10, 2008](http://www.google.com/url?q=http%3A%2F%2Fwww.washingtonpost.com%2Fwp-dyn%2Fcontent%2Farticle%2F2008%2F12%2F09%2FAR2008120903120.html&sa=D&sntz=1&usg=AOvVaw2fCyDpZ8npqxJYFNfYB6Kh).
 
+## Book projects
+
+_Diaspora Democracy: Migrants, Parties, and Transnational Elections from Latin America to the U.S._ Under revise and resubmit with Oxford University Press.
+
+_Sanctuary Policy in Restrictionist Times: Rhetoric, Reality and the Politics of Immigration._ With Benjamin Gonzalez O'Brien and Loren Collingwood. Invited for submission to Stanford University Press.
+
 ## Work in progress
+
+"Magnets for Migrant Crime?" with Loren Collingwood (under revise and resubmit).
+
+"Beyond the Binary: Sanctuary Policy Strength and Crime in American Cities." with Benjamin Gonzalez O'Brien and Loren Collingwood (under review).
+
+"The Effects of Tipped Minimum Wages on Restaurant Employment, Wages, and Establishments: Evidence from U.S. Border Counties." with Teofilo L. Reyes (under review).
+
+"When Crime Undermines Peace: Political Violence and Criminal Victimization in Colombia's Peace Plebiscite" (under review).
 
 "Voting Here and There, Differently: Divergence as Strategy in Migrant Political Engagement." with Gulcan Saglam (under review).
 
-"Why Do Emigrants Vote? Evidence from a Transnational Voter Mobilization Experiment." with Elizabeth Iams Wellman.
+"The Prior Socialization of Mexican Immigrants and their Political Participation in the United States." with Michael Jones-Correa.
 
-"Voting Against Peace: Extortion vs. Terrorism as Factors Undermining Colombia's Peace Plebiscite."
+"Why Do Emigrants Vote? Evidence from a Transnational Voter Mobilization Experiment." with Elizabeth Iams Wellman.
