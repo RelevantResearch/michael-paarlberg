@@ -14,14 +14,6 @@ Drawing on my background as a former reporter, I frequently collaborate with nat
 
 <!-- ----------------------------------------------------------- -->
 
-### Interviews and profiles
-
-Kelsey D. Atherton. (2026, October 8). [Q&A: Brazil's Elections and the Return of Bolsonarismo](https://internationalpolicy.org/publications/qa-brazils-elections-and-the-return-of-bolsonarismo/). _International Policy Journal_, Center for International Policy.
-
-Perry Bacon. (2026, October 14). [What Lula's Struggles in Brazil Tell Us About Progressive Politics](https://newrepublic.substack.com/p/what-lulas-struggles-in-brazil-tell). _The New Republic_ (_Right Now with Perry Bacon_).
-
-Jonathan D. Rosen. (2026, October 9). [Drug Trafficking and Organized Crime in Central America](https://www.youtube.com/watch?v=pMQUFcTYCdE). _YouTube_.
-
 ### 2026
 
 Michele Kelemen. (2026, September 7). [Rubio to visit 3 Latin American countries this week](https://www.npr.org/2026/09/07/nx-s1-5953950/rubio-to-visit-3-latin-american-countries-this-week). _NPR_.
@@ -62,12 +54,7 @@ Nelson Mauricio Rauda Zablah. (2025, March 18). [With Venezuelan deportations, i
 
 Javier Biosca Azcoiti. (2024, November 29). [Trump intentó derrocar a Maduro, pero ahora el petróleo de Venezuela puede hacerle cambiar de opinión](https://www-eldiario-es.cdn.ampproject.org/c/s/www.eldiario.es/internacional/trump-pragmatismo-choque-maduro-operacion-guaido-explotacion-petroleo-venezolano_1_11863233.amp.html). _eldiario_.
 
-(2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). _Focos TV_. (Video below.)
-
-<div style="display: flex; justify-content: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-<br>
+(2024, November 10). [Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración: Michael Paarlberg](https://www.youtube.com/watch?v=6AhVhdLPktQ). _Focos TV_.
 
 Magaña, Yolanda. (2024, November 4). [Trump or Harris, the effects of the US election in El Salvador: the views of four experts.](https://diario-elmundo-sv.cdn.ampproject.org/c/s/diario.elmundo.sv/ampArticle/trump-o-harris-los-efectos-de-la-eleccion-de-eeuu-en-el-salvador-la-vision-de-cuatro-expertos) _El Mundo_.
 

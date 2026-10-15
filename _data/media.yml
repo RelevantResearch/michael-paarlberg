@@ -13,6 +13,10 @@ videos:
   - title: "Drug Trafficking and Organized Crime in Central America - Interview with Jonathan D. Rosen"
     src: "https://www.youtube.com/embed/pMQUFcTYCdE"
 
+featured_video:
+  title: "Trump está “dispuesto a hacer tratos con líderes autoritarios” si frenan la migración - Focos TV"
+  src: "https://www.youtube.com/embed/6AhVhdLPktQ?si=VfIj2r6M11eb2n2d"
+
 news:
   image1: /assets/img/media_logos/CNN.jpg
   image2: /assets/img/media_logos/univision (1).png
