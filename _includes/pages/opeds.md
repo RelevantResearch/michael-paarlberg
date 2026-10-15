@@ -36,15 +36,12 @@ Here is a list of op-eds I've published over the years. Op-eds published in the 
 
 "China was already winning over the US's neighbors. Trump's COVID-19 response just makes Beijing's job easier." _Business Insider_ (2020).
 
-"EEUU, una presidencia pandémica en un año de elecciones." Barcelona Centre for International Affairs Anuario Internacional (2020).
 
 [It’s not just a ‘coup’: Bolivia’s democracy is in meltdown](https://www.washingtonpost.com/outlook/2019/11/13/its-not-just-coup-bolivias-democracy-is-meltdown/). _Washington Post_ (2019).
 
 [Paying tipped workers better wouldn’t lead to fewer restaurant jobs](https://www.washingtonpost.com/news/posteverything/wp/2018/01/16/paying-tipped-workers-better-wouldnt-lead-to-fewer-restaurant-jobs/?utm_term=.d61e78aba799). _Washington Post_. With Teófilo Reyes (2018).
 
-"Agricultural Cooperatives: Opportunities and Challenges for African American Women in the South." Institute for Policy Studies (2018).
 
-"[New York's Experience after the Tipped Minimum Wage Increase](https://inequality.org/wp-content/uploads/2018/11/New-York-tipped-minimum-policy-brief-Oct-2018.pdf)." Institute for Policy Studies and Restaurant Opportunities Centers United. With Teófilo Reyes (2018).
 
 [Cómo se corteja el voto de la diáspora salvadoreña](https://elfaro.net/es/201805/ef_academico/21940/Cómo-se-corteja-el-voto-de-la-diáspora-salvadoreña.htm). _El Faro_ (2018).
 
