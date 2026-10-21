@@ -4,4 +4,4 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-<meta http-equiv="refresh" content="0; url={{ 'assets/pdf/cv.pdf' | relative_url }}" />
+<meta http-equiv="refresh" content="0; url={{ 'assets/pdf/cv.pdf' | relative_url }}?v=20261021" />
